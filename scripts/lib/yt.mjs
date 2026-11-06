@@ -30,7 +30,7 @@ export class YouTube {
     for (let attempt = 0; attempt < 4; attempt++) {
       let res;
       try {
-        res = await fetch(url, { headers: { accept: 'application/json' } });
+        res = await fetch(url, { headers: { accept: 'application/json' }, signal: AbortSignal.timeout(30000) });
       } catch {
         if (attempt === 3) throw new Error(`YouTube API ${method}: network error`);
         await sleep(500 * 2 ** attempt);

@@ -149,14 +149,30 @@ async function discover(yt) {
 }
 
 // ---------- stage 2: refresh channels and their recent uploads ----------
+// Circuit breaker: if the Shorts URL check keeps failing (blocked or throttled from this network),
+// stop trying for the rest of the run and use the 60 second rule instead.
+let urlCheckFailures = 0;
+let urlCheckOff = false;
+
 async function isShortByUrl(id) {
+  if (urlCheckOff) return null;
   const base = process.env.SHORTS_CHECK_BASE || 'https://www.youtube.com/shorts/';
   try {
-    const res = await fetch(base + id, { method: 'HEAD', redirect: 'manual' });
-    if (res.status === 200) return true;
-    if (res.status >= 300 && res.status < 400) return false;
+    const res = await fetch(base + id, { method: 'HEAD', redirect: 'manual', signal: AbortSignal.timeout(5000) });
+    if (res.status === 200) {
+      urlCheckFailures = 0;
+      return true;
+    }
+    if (res.status >= 300 && res.status < 400) {
+      urlCheckFailures = 0;
+      return false;
+    }
   } catch {
     /* fall through to the duration rule */
+  }
+  if (++urlCheckFailures >= 8 && !urlCheckOff) {
+    urlCheckOff = true;
+    warn('Shorts URL check keeps failing from this network; using the 60 second rule for the rest of this run');
   }
   return null;
 }
@@ -273,6 +289,7 @@ async function refresh(yt) {
       const res = await yt.channels(batch);
       for (const item of res.items || []) profiles.set(item.id, item);
     }
+    log(`refresh: ${profiles.size} channel profiles loaded, reading uploads`);
     await pool([...profiles.keys()], 5, async (id) => {
       const playlistId = profiles.get(id).contentDetails?.relatedPlaylists?.uploads;
       if (!playlistId) return;
@@ -285,6 +302,7 @@ async function refresh(yt) {
       }
     });
     const allIds = [...new Set([...uploads.values()].flat())];
+    log(`refresh: ${allIds.length} videos found, loading stats`);
     for (const batch of chunk(allIds, 50)) {
       const res = await yt.videos(batch);
       for (const item of res.items || []) {
@@ -298,6 +316,7 @@ async function refresh(yt) {
     warn(err.message);
   }
 
+  log(`refresh: classifying formats for ${vmap.size} videos`);
   await classifyFormats([...vmap.values()]);
 
   let refreshed = 0;
