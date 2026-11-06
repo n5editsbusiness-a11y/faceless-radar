@@ -1,0 +1,61 @@
+name: Daily update and deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 4 * * *" # every day at 04:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Pushes only redeploy what is already in the repository.
+      # Scheduled and manual runs collect fresh YouTube data first.
+      - name: Collect YouTube data
+        if: github.event_name != 'push'
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/collect.mjs
+
+      - name: Commit new data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "faceless-radar-bot"
+          git config user.email "faceless-radar-bot@users.noreply.github.com"
+          git add site/data state
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: daily update $(date -u +%F)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

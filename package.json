@@ -1,0 +1,16 @@
+{
+  "name": "faceless-radar",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily research site for faceless YouTube niches, channels and thumbnails.",
+  "scripts": {
+    "collect": "node scripts/collect.mjs",
+    "offline": "node scripts/collect.mjs --offline",
+    "serve": "node scripts/serve.mjs",
+    "test": "node tests/run.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

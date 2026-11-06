@@ -1,0 +1,1145 @@
+[
+  {
+    "id": "personal-finance",
+    "name": "Personal finance",
+    "group": "Money",
+    "description": "Budgeting, saving, debt and everyday money decisions explained over charts, animation or stock footage.",
+    "rpm": {
+      "low": 10,
+      "high": 25,
+      "sources": [
+        {
+          "label": "Earngenix",
+          "url": "https://www.earngenix.com/blog/most-profitable-youtube-niches-in-2026"
+        },
+        {
+          "label": "ShortsFast",
+          "url": "https://shortsfast.com/blog/best-faceless-youtube-niches-2026/"
+        }
+      ],
+      "note": "Sources range from about $10 to $30. Finance RPM tends to spike in Q4."
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "investing-stocks",
+    "name": "Investing and stock market",
+    "group": "Money",
+    "description": "Stock, ETF and dividend explainers built on chart animation and screen captures.",
+    "rpm": {
+      "low": 10,
+      "high": 25,
+      "tier": "Very high",
+      "sources": [
+        {
+          "label": "Earngenix",
+          "url": "https://www.earngenix.com/blog/most-profitable-youtube-niches-in-2026"
+        },
+        {
+          "label": "EasyViral",
+          "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "real-estate-investing",
+    "name": "Real estate investing",
+    "group": "Money",
+    "description": "Property markets, mortgages and rental math shown with data visuals and market charts.",
+    "rpm": {
+      "low": 10,
+      "high": 25,
+      "tier": "Very high",
+      "sources": [
+        {
+          "label": "Earngenix",
+          "url": "https://www.earngenix.com/blog/most-profitable-youtube-niches-in-2026"
+        },
+        {
+          "label": "EasyViral",
+          "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "side-hustles",
+    "name": "Side hustles and make money online",
+    "group": "Money",
+    "description": "Screen-recorded walkthroughs of ways to earn online, from freelancing to digital products.",
+    "rpm": {
+      "low": null,
+      "high": null,
+      "tier": "High",
+      "sources": [
+        {
+          "label": "EasyViral",
+          "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "business-case-studies",
+    "name": "Business case studies",
+    "group": "Money",
+    "description": "How companies rose, collapsed or were built, told as voiceover documentaries.",
+    "rpm": {
+      "low": 9,
+      "high": 16,
+      "sources": [
+        {
+          "label": "YouTubeNiches",
+          "url": "https://youtubeniches.com/blog/how-much-money-ai-youtube-channels-make"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "economics-explained",
+    "name": "Economics explained",
+    "group": "Money",
+    "description": "Inflation, trade, recessions and policy explained with animated graphics.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "tax-strategy",
+    "name": "Tax strategy",
+    "group": "Money",
+    "description": "Tax rules and planning ideas on whiteboard animation and software screen captures.",
+    "rpm": {
+      "low": null,
+      "high": null,
+      "tier": "High, peaks in tax season",
+      "sources": [
+        {
+          "label": "EasyViral",
+          "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "ai-tools",
+    "name": "AI tools and tutorials",
+    "group": "Tech",
+    "description": "Screen-recorded tutorials and reviews of AI software.",
+    "rpm": {
+      "low": 8,
+      "high": 18,
+      "sources": [
+        {
+          "label": "YouTubeNiches",
+          "url": "https://youtubeniches.com/blog/how-much-money-ai-youtube-channels-make"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "ai-news",
+    "name": "AI news",
+    "group": "Tech",
+    "description": "Weekly roundups and breakdowns of AI releases, built from screenshots and data charts.",
+    "rpm": {
+      "low": 5,
+      "high": 12,
+      "tier": "Medium",
+      "sources": [
+        {
+          "label": "EasyViral",
+          "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "tech-explainers",
+    "name": "Tech explainers",
+    "group": "Tech",
+    "description": "How technology, products and companies work, with animation and stock visuals.",
+    "rpm": {
+      "low": 5,
+      "high": 12,
+      "tier": "Medium",
+      "sources": [
+        {
+          "label": "ClipSpeed",
+          "url": "https://www.clipspeed.ai/blog/faceless-youtube-niches-2026.html"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "faceless-channel-growth",
+    "name": "Faceless channel how-to",
+    "group": "Tech",
+    "description": "Channels that teach how to build faceless and automated YouTube channels.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "cyber-stories",
+    "name": "Hacking and cyber stories",
+    "group": "Tech",
+    "description": "Narrated stories of breaches, scams and famous hackers.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "history-documentary",
+    "name": "History documentaries",
+    "group": "History",
+    "description": "Long-form narrated history using archival images, maps and animation.",
+    "rpm": {
+      "low": 5,
+      "high": 12,
+      "tier": "Medium",
+      "sources": [
+        {
+          "label": "EasyViral",
+          "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026"
+        },
+        {
+          "label": "YouTubeNiches",
+          "url": "https://youtubeniches.com/blog/how-much-money-ai-youtube-channels-make"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "ancient-civilizations",
+    "name": "Ancient civilizations",
+    "group": "History",
+    "description": "Rome, Egypt, Greece, Mesopotamia and other ancient worlds told with AI art and maps.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "dark-history",
+    "name": "Dark history",
+    "group": "History",
+    "description": "Disturbing, strange or forgotten episodes from the past.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "military-ww2",
+    "name": "War and military history",
+    "group": "History",
+    "description": "Battles, campaigns and World War II explained with maps and archival footage.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "medieval-history",
+    "name": "Medieval history",
+    "group": "History",
+    "description": "Kings, plagues, crusades and daily life in the Middle Ages.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "mythology-folklore",
+    "name": "Mythology and folklore",
+    "group": "History",
+    "description": "Norse, Greek and world myths retold with illustrated visuals.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "geography-maps",
+    "name": "Geography and map animation",
+    "group": "History",
+    "description": "Countries, borders and regions explained on animated maps.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "geopolitics",
+    "name": "Geopolitics",
+    "group": "History",
+    "description": "Why states rise, collapse or clash, explained over maps and data.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "rise-and-fall",
+    "name": "Rise and fall biographies",
+    "group": "History",
+    "description": "Biography-style documentaries about empires, rulers and famous figures.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "true-crime",
+    "name": "True crime",
+    "group": "Stories",
+    "description": "Case retellings with stock footage, map animations and timelines.",
+    "rpm": {
+      "low": null,
+      "high": null,
+      "tier": "Medium",
+      "sources": [
+        {
+          "label": "EasyViral",
+          "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "horror-stories",
+    "name": "Horror and scary stories",
+    "group": "Stories",
+    "description": "Narrated scary stories over dark atmospheric footage or animation.",
+    "rpm": {
+      "low": 4,
+      "high": 8,
+      "sources": [
+        {
+          "label": "Kineclip",
+          "url": "https://kineclip.com/blog/faceless-youtube-ideas-that-make-money-2026/"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "internet-mysteries",
+    "name": "Internet mysteries and creepypasta",
+    "group": "Stories",
+    "description": "Unsettling online legends, lost media and web mysteries.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "reddit-stories",
+    "name": "Reddit stories",
+    "group": "Stories",
+    "description": "Revenge, relationship and confession threads read aloud over gameplay or stock loops.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "ai-animated-stories",
+    "name": "AI animated stories",
+    "group": "Stories",
+    "description": "Original or retold stories rendered in AI-generated animation.",
+    "rpm": {
+      "low": 9,
+      "high": 13,
+      "sources": [
+        {
+          "label": "Earngenix",
+          "url": "https://www.earngenix.com/blog/most-profitable-youtube-niches-in-2026"
+        }
+      ],
+      "note": "Source labels this animated storytelling."
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "unsolved-mysteries",
+    "name": "Unsolved mysteries and conspiracies",
+    "group": "Stories",
+    "description": "Open cases, unexplained events and conspiracy theories.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "disasters",
+    "name": "Disasters and catastrophes",
+    "group": "Stories",
+    "description": "Minute-by-minute accounts of accidents, wrecks and natural disasters.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "space-astronomy",
+    "name": "Space and astronomy",
+    "group": "Science",
+    "description": "Planets, black holes and space missions with NASA-style imagery and 3D animation.",
+    "rpm": {
+      "low": null,
+      "high": null,
+      "tier": "Tier 2 of 3",
+      "sources": [
+        {
+          "label": "Kineclip (relative tiers)",
+          "url": "https://kineclip.com/blog/youtube-rpm-by-niche-faceless/"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "science-explainers",
+    "name": "Science explainers",
+    "group": "Science",
+    "description": "Physics, chemistry and biology concepts explained with animation.",
+    "rpm": {
+      "low": null,
+      "high": null,
+      "tier": "Tier 2 of 3",
+      "sources": [
+        {
+          "label": "Kineclip (relative tiers)",
+          "url": "https://kineclip.com/blog/youtube-rpm-by-niche-faceless/"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "psychology",
+    "name": "Psychology and human behavior",
+    "group": "Science",
+    "description": "Body language, personality and relationship patterns shown with illustrated visuals.",
+    "rpm": {
+      "low": 6,
+      "high": 14,
+      "sources": [
+        {
+          "label": "Kineclip",
+          "url": "https://kineclip.com/blog/faceless-youtube-ideas-that-make-money-2026/"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "philosophy-stoicism",
+    "name": "Philosophy and Stoicism",
+    "group": "Science",
+    "description": "Stoic and philosophical ideas narrated over classical art and cinematic footage.",
+    "rpm": {
+      "low": null,
+      "high": null,
+      "tier": "Medium to low",
+      "sources": [
+        {
+          "label": "EasyViral",
+          "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "nature-wildlife",
+    "name": "Nature and wildlife",
+    "group": "Science",
+    "description": "Wildlife and ecosystems documentaries with stock or generated footage.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "animal-facts",
+    "name": "Animal facts",
+    "group": "Science",
+    "description": "Short facts and rankings about animals, often in Shorts format.",
+    "rpm": {
+      "low": null,
+      "high": null,
+      "tier": "Tier 3 of 3",
+      "sources": [
+        {
+          "label": "Kineclip (relative tiers)",
+          "url": "https://kineclip.com/blog/youtube-rpm-by-niche-faceless/"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "dinosaurs-prehistory",
+    "name": "Dinosaurs and prehistory",
+    "group": "Science",
+    "description": "Prehistoric life rendered in 3D or AI imagery.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "engineering",
+    "name": "Engineering and how things work",
+    "group": "Science",
+    "description": "Megaprojects, machines and infrastructure explained with 3D animation.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "aviation",
+    "name": "Aviation",
+    "group": "Science",
+    "description": "Aircraft, airlines and crash investigations told with animation and flight data.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "motivation",
+    "name": "Motivation and self-improvement",
+    "group": "Life and audio",
+    "description": "Voiceover over cinematic clips and text overlays about habits, discipline and mindset.",
+    "rpm": {
+      "low": null,
+      "high": null,
+      "tier": "Medium to low",
+      "sources": [
+        {
+          "label": "EasyViral",
+          "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "health-wellness",
+    "name": "Health and wellness explainers",
+    "group": "Life and audio",
+    "description": "Nutrition, sleep and health topics explained with animation and infographics.",
+    "rpm": {
+      "low": 6,
+      "high": 14,
+      "sources": [
+        {
+          "label": "YouTubeNiches",
+          "url": "https://youtubeniches.com/blog/how-much-money-ai-youtube-channels-make"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "sleep-ambient",
+    "name": "Sleep, ambient and ASMR",
+    "group": "Life and audio",
+    "description": "Long soundscapes and relaxation audio over a looping image or video.",
+    "rpm": {
+      "low": 5,
+      "high": 11,
+      "sources": [
+        {
+          "label": "Earngenix",
+          "url": "https://www.earngenix.com/blog/most-profitable-youtube-niches-in-2026"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "lofi-study-music",
+    "name": "Lofi and study music",
+    "group": "Life and audio",
+    "description": "Looping music streams and playlists with an animated or still scene.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "top-10-facts",
+    "name": "Top 10 lists and fun facts",
+    "group": "Life and audio",
+    "description": "Ranked lists and quick facts, usually Shorts-led.",
+    "rpm": {
+      "low": null,
+      "high": null,
+      "tier": "Tier 3 of 3",
+      "sources": [
+        {
+          "label": "Kineclip (relative tiers)",
+          "url": "https://kineclip.com/blog/youtube-rpm-by-niche-faceless/"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  },
+  {
+    "id": "gaming-lore",
+    "name": "Game lore and theories",
+    "group": "Life and audio",
+    "description": "Story, lore and theory videos made from game footage and narration.",
+    "rpm": {
+      "low": 2,
+      "high": 6,
+      "sources": [
+        {
+          "label": "YouTubeNiches",
+          "url": "https://youtubeniches.com/blog/how-much-money-ai-youtube-channels-make"
+        }
+      ],
+      "note": "Source figure covers AI-generated gaming content."
+    },
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 0,
+      "opportunity": null,
+      "breakoutRate": null,
+      "medianTopOutlier": null,
+      "smallChannelShare": null,
+      "bigChannelShare": null,
+      "newcomerRate": null,
+      "uploadsPerWeek": null,
+      "shortsShare": null,
+      "confidence": "none"
+    },
+    "topVideoIds": []
+  }
+]

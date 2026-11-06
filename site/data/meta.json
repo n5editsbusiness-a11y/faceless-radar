@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "siteName": "Faceless Radar",
+  "updatedAt": null,
+  "breakoutThreshold": 5,
+  "windowDays": 90,
+  "quota": null,
+  "counts": {
+    "niches": 43,
+    "channels": 0,
+    "videos": 0,
+    "reviewedChannels": 0
+  }
+}

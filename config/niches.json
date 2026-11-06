@@ -1,0 +1,286 @@
+[
+  {
+    "id": "personal-finance", "name": "Personal finance", "group": "Money",
+    "description": "Budgeting, saving, debt and everyday money decisions explained over charts, animation or stock footage.",
+    "queries": ["personal finance explained", "how to save money fast", "budgeting for beginners"],
+    "rpm": { "low": 10, "high": 25, "sources": [
+      { "label": "Earngenix", "url": "https://www.earngenix.com/blog/most-profitable-youtube-niches-in-2026" },
+      { "label": "ShortsFast", "url": "https://shortsfast.com/blog/best-faceless-youtube-niches-2026/" } ],
+      "note": "Sources range from about $10 to $30. Finance RPM tends to spike in Q4." }
+  },
+  {
+    "id": "investing-stocks", "name": "Investing and stock market", "group": "Money",
+    "description": "Stock, ETF and dividend explainers built on chart animation and screen captures.",
+    "queries": ["stock market explained", "dividend investing", "index funds explained"],
+    "rpm": { "low": 10, "high": 25, "tier": "Very high", "sources": [
+      { "label": "Earngenix", "url": "https://www.earngenix.com/blog/most-profitable-youtube-niches-in-2026" },
+      { "label": "EasyViral", "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026" } ] }
+  },
+  {
+    "id": "real-estate-investing", "name": "Real estate investing", "group": "Money",
+    "description": "Property markets, mortgages and rental math shown with data visuals and market charts.",
+    "queries": ["real estate investing explained", "housing market analysis"],
+    "rpm": { "low": 10, "high": 25, "tier": "Very high", "sources": [
+      { "label": "Earngenix", "url": "https://www.earngenix.com/blog/most-profitable-youtube-niches-in-2026" },
+      { "label": "EasyViral", "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026" } ] }
+  },
+  {
+    "id": "side-hustles", "name": "Side hustles and make money online", "group": "Money",
+    "description": "Screen-recorded walkthroughs of ways to earn online, from freelancing to digital products.",
+    "queries": ["side hustle ideas", "make money online"],
+    "rpm": { "low": null, "high": null, "tier": "High", "sources": [
+      { "label": "EasyViral", "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026" } ] }
+  },
+  {
+    "id": "business-case-studies", "name": "Business case studies", "group": "Money",
+    "docs": true,
+    "description": "How companies rose, collapsed or were built, told as voiceover documentaries.",
+    "queries": ["how this company made billions", "business case study documentary", "company collapse documentary"],
+    "rpm": { "low": 9, "high": 16, "sources": [
+      { "label": "YouTubeNiches", "url": "https://youtubeniches.com/blog/how-much-money-ai-youtube-channels-make" } ] }
+  },
+  {
+    "id": "economics-explained", "name": "Economics explained", "group": "Money",
+    "description": "Inflation, trade, recessions and policy explained with animated graphics.",
+    "queries": ["economics explained", "how inflation works"]
+  },
+  {
+    "id": "tax-strategy", "name": "Tax strategy", "group": "Money",
+    "description": "Tax rules and planning ideas on whiteboard animation and software screen captures.",
+    "queries": ["tax strategy explained", "how to pay less tax"],
+    "rpm": { "low": null, "high": null, "tier": "High, peaks in tax season", "sources": [
+      { "label": "EasyViral", "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026" } ] }
+  },
+
+  {
+    "id": "ai-tools", "name": "AI tools and tutorials", "group": "Tech",
+    "description": "Screen-recorded tutorials and reviews of AI software.",
+    "queries": ["best ai tools", "ai tutorial for beginners"],
+    "rpm": { "low": 8, "high": 18, "sources": [
+      { "label": "YouTubeNiches", "url": "https://youtubeniches.com/blog/how-much-money-ai-youtube-channels-make" } ] }
+  },
+  {
+    "id": "ai-news", "name": "AI news", "group": "Tech",
+    "description": "Weekly roundups and breakdowns of AI releases, built from screenshots and data charts.",
+    "queries": ["ai news this week", "ai breakthrough explained"],
+    "rpm": { "low": 5, "high": 12, "tier": "Medium", "sources": [
+      { "label": "EasyViral", "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026" } ] }
+  },
+  {
+    "id": "tech-explainers", "name": "Tech explainers", "group": "Tech",
+    "description": "How technology, products and companies work, with animation and stock visuals.",
+    "queries": ["how technology works explained", "tech history documentary"],
+    "rpm": { "low": 5, "high": 12, "tier": "Medium", "sources": [
+      { "label": "ClipSpeed", "url": "https://www.clipspeed.ai/blog/faceless-youtube-niches-2026.html" } ] }
+  },
+  {
+    "id": "faceless-channel-growth", "name": "Faceless channel how-to", "group": "Tech",
+    "description": "Channels that teach how to build faceless and automated YouTube channels.",
+    "queries": ["faceless youtube channel", "youtube automation"]
+  },
+  {
+    "id": "cyber-stories", "name": "Hacking and cyber stories", "group": "Tech",
+    "docs": true,
+    "description": "Narrated stories of breaches, scams and famous hackers.",
+    "queries": ["hacker story documentary", "biggest cyber attacks"]
+  },
+
+  {
+    "id": "history-documentary", "name": "History documentaries", "group": "History",
+    "docs": true,
+    "description": "Long-form narrated history using archival images, maps and animation.",
+    "queries": ["history documentary", "history explained"],
+    "rpm": { "low": 5, "high": 12, "tier": "Medium", "sources": [
+      { "label": "EasyViral", "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026" },
+      { "label": "YouTubeNiches", "url": "https://youtubeniches.com/blog/how-much-money-ai-youtube-channels-make" } ] }
+  },
+  {
+    "id": "ancient-civilizations", "name": "Ancient civilizations", "group": "History",
+    "docs": true,
+    "description": "Rome, Egypt, Greece, Mesopotamia and other ancient worlds told with AI art and maps.",
+    "queries": ["ancient civilizations documentary", "ancient rome history", "ancient egypt documentary"]
+  },
+  {
+    "id": "dark-history", "name": "Dark history", "group": "History",
+    "description": "Disturbing, strange or forgotten episodes from the past.",
+    "queries": ["dark history", "disturbing history facts"]
+  },
+  {
+    "id": "military-ww2", "name": "War and military history", "group": "History",
+    "docs": true,
+    "description": "Battles, campaigns and World War II explained with maps and archival footage.",
+    "queries": ["world war 2 documentary", "military history explained"]
+  },
+  {
+    "id": "medieval-history", "name": "Medieval history", "group": "History",
+    "description": "Kings, plagues, crusades and daily life in the Middle Ages.",
+    "queries": ["medieval history", "life in the middle ages"]
+  },
+  {
+    "id": "mythology-folklore", "name": "Mythology and folklore", "group": "History",
+    "description": "Norse, Greek and world myths retold with illustrated visuals.",
+    "queries": ["mythology explained", "norse mythology stories"]
+  },
+  {
+    "id": "geography-maps", "name": "Geography and map animation", "group": "History",
+    "description": "Countries, borders and regions explained on animated maps.",
+    "queries": ["geography explained maps", "countries explained"]
+  },
+  {
+    "id": "geopolitics", "name": "Geopolitics", "group": "History",
+    "description": "Why states rise, collapse or clash, explained over maps and data.",
+    "queries": ["geopolitics explained", "why countries collapse"]
+  },
+  {
+    "id": "rise-and-fall", "name": "Rise and fall biographies", "group": "History",
+    "docs": true,
+    "description": "Biography-style documentaries about empires, rulers and famous figures.",
+    "queries": ["rise and fall of", "biography documentary"]
+  },
+
+  {
+    "id": "true-crime", "name": "True crime", "group": "Stories",
+    "docs": true,
+    "description": "Case retellings with stock footage, map animations and timelines.",
+    "queries": ["true crime documentary", "true crime stories"],
+    "rpm": { "low": null, "high": null, "tier": "Medium", "sources": [
+      { "label": "EasyViral", "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026" } ] }
+  },
+  {
+    "id": "horror-stories", "name": "Horror and scary stories", "group": "Stories",
+    "description": "Narrated scary stories over dark atmospheric footage or animation.",
+    "queries": ["scary stories", "horror stories narrated"],
+    "rpm": { "low": 4, "high": 8, "sources": [
+      { "label": "Kineclip", "url": "https://kineclip.com/blog/faceless-youtube-ideas-that-make-money-2026/" } ] }
+  },
+  {
+    "id": "internet-mysteries", "name": "Internet mysteries and creepypasta", "group": "Stories",
+    "description": "Unsettling online legends, lost media and web mysteries.",
+    "queries": ["internet mysteries", "creepypasta"]
+  },
+  {
+    "id": "reddit-stories", "name": "Reddit stories", "group": "Stories",
+    "description": "Revenge, relationship and confession threads read aloud over gameplay or stock loops.",
+    "queries": ["reddit stories", "aita stories", "revenge stories"]
+  },
+  {
+    "id": "ai-animated-stories", "name": "AI animated stories", "group": "Stories",
+    "description": "Original or retold stories rendered in AI-generated animation.",
+    "queries": ["animated story", "ai generated story animated"],
+    "rpm": { "low": 9, "high": 13, "sources": [
+      { "label": "Earngenix", "url": "https://www.earngenix.com/blog/most-profitable-youtube-niches-in-2026" } ],
+      "note": "Source labels this animated storytelling." }
+  },
+  {
+    "id": "unsolved-mysteries", "name": "Unsolved mysteries and conspiracies", "group": "Stories",
+    "description": "Open cases, unexplained events and conspiracy theories.",
+    "queries": ["unsolved mysteries", "conspiracy explained"]
+  },
+  {
+    "id": "disasters", "name": "Disasters and catastrophes", "group": "Stories",
+    "docs": true,
+    "description": "Minute-by-minute accounts of accidents, wrecks and natural disasters.",
+    "queries": ["disaster documentary", "what really happened disaster"]
+  },
+
+  {
+    "id": "space-astronomy", "name": "Space and astronomy", "group": "Science",
+    "docs": true,
+    "description": "Planets, black holes and space missions with NASA-style imagery and 3D animation.",
+    "queries": ["space documentary", "universe explained"],
+    "rpm": { "low": null, "high": null, "tier": "Tier 2 of 3", "sources": [
+      { "label": "Kineclip (relative tiers)", "url": "https://kineclip.com/blog/youtube-rpm-by-niche-faceless/" } ] }
+  },
+  {
+    "id": "science-explainers", "name": "Science explainers", "group": "Science",
+    "description": "Physics, chemistry and biology concepts explained with animation.",
+    "queries": ["science explained", "physics explained"],
+    "rpm": { "low": null, "high": null, "tier": "Tier 2 of 3", "sources": [
+      { "label": "Kineclip (relative tiers)", "url": "https://kineclip.com/blog/youtube-rpm-by-niche-faceless/" } ] }
+  },
+  {
+    "id": "psychology", "name": "Psychology and human behavior", "group": "Science",
+    "description": "Body language, personality and relationship patterns shown with illustrated visuals.",
+    "queries": ["psychology facts", "dark psychology"],
+    "rpm": { "low": 6, "high": 14, "sources": [
+      { "label": "Kineclip", "url": "https://kineclip.com/blog/faceless-youtube-ideas-that-make-money-2026/" } ] }
+  },
+  {
+    "id": "philosophy-stoicism", "name": "Philosophy and Stoicism", "group": "Science",
+    "description": "Stoic and philosophical ideas narrated over classical art and cinematic footage.",
+    "queries": ["stoicism", "philosophy explained"],
+    "rpm": { "low": null, "high": null, "tier": "Medium to low", "sources": [
+      { "label": "EasyViral", "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026" } ] }
+  },
+  {
+    "id": "nature-wildlife", "name": "Nature and wildlife", "group": "Science",
+    "docs": true,
+    "description": "Wildlife and ecosystems documentaries with stock or generated footage.",
+    "queries": ["nature documentary", "wildlife facts"]
+  },
+  {
+    "id": "animal-facts", "name": "Animal facts", "group": "Science",
+    "description": "Short facts and rankings about animals, often in Shorts format.",
+    "queries": ["animal facts", "deadliest animals"],
+    "rpm": { "low": null, "high": null, "tier": "Tier 3 of 3", "sources": [
+      { "label": "Kineclip (relative tiers)", "url": "https://kineclip.com/blog/youtube-rpm-by-niche-faceless/" } ] }
+  },
+  {
+    "id": "dinosaurs-prehistory", "name": "Dinosaurs and prehistory", "group": "Science",
+    "description": "Prehistoric life rendered in 3D or AI imagery.",
+    "queries": ["dinosaurs documentary", "prehistoric life"]
+  },
+  {
+    "id": "engineering", "name": "Engineering and how things work", "group": "Science",
+    "description": "Megaprojects, machines and infrastructure explained with 3D animation.",
+    "queries": ["how it works engineering", "megaprojects explained"]
+  },
+  {
+    "id": "aviation", "name": "Aviation", "group": "Science",
+    "docs": true,
+    "description": "Aircraft, airlines and crash investigations told with animation and flight data.",
+    "queries": ["aviation documentary", "plane crash investigation"]
+  },
+
+  {
+    "id": "motivation", "name": "Motivation and self-improvement", "group": "Life and audio",
+    "description": "Voiceover over cinematic clips and text overlays about habits, discipline and mindset.",
+    "queries": ["motivation", "self improvement habits"],
+    "rpm": { "low": null, "high": null, "tier": "Medium to low", "sources": [
+      { "label": "EasyViral", "url": "https://easyviral.ai/blog/15-faceless-youtube-channel-ideas-ranked-by-rpm-2026" } ] }
+  },
+  {
+    "id": "health-wellness", "name": "Health and wellness explainers", "group": "Life and audio",
+    "description": "Nutrition, sleep and health topics explained with animation and infographics.",
+    "queries": ["health explained", "nutrition facts"],
+    "rpm": { "low": 6, "high": 14, "sources": [
+      { "label": "YouTubeNiches", "url": "https://youtubeniches.com/blog/how-much-money-ai-youtube-channels-make" } ] }
+  },
+  {
+    "id": "sleep-ambient", "name": "Sleep, ambient and ASMR", "group": "Life and audio",
+    "description": "Long soundscapes and relaxation audio over a looping image or video.",
+    "queries": ["sleep music", "rain sounds for sleep", "relaxing ambient music"],
+    "rpm": { "low": 5, "high": 11, "sources": [
+      { "label": "Earngenix", "url": "https://www.earngenix.com/blog/most-profitable-youtube-niches-in-2026" } ] }
+  },
+  {
+    "id": "lofi-study-music", "name": "Lofi and study music", "group": "Life and audio",
+    "description": "Looping music streams and playlists with an animated or still scene.",
+    "queries": ["lofi study music", "lofi beats"]
+  },
+  {
+    "id": "top-10-facts", "name": "Top 10 lists and fun facts", "group": "Life and audio",
+    "description": "Ranked lists and quick facts, usually Shorts-led.",
+    "queries": ["top 10 facts", "fun facts"],
+    "rpm": { "low": null, "high": null, "tier": "Tier 3 of 3", "sources": [
+      { "label": "Kineclip (relative tiers)", "url": "https://kineclip.com/blog/youtube-rpm-by-niche-faceless/" } ] }
+  },
+  {
+    "id": "gaming-lore", "name": "Game lore and theories", "group": "Life and audio",
+    "description": "Story, lore and theory videos made from game footage and narration.",
+    "queries": ["game lore explained", "gaming theory"],
+    "rpm": { "low": 2, "high": 6, "sources": [
+      { "label": "YouTubeNiches", "url": "https://youtubeniches.com/blog/how-much-money-ai-youtube-channels-make" } ],
+      "note": "Source figure covers AI-generated gaming content." }
+  }
+]
