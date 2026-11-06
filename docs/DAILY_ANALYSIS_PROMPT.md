@@ -1,7 +1,7 @@
 # Daily analysis task
 
 This is the instruction for the daily AI review of Faceless Radar. It is meant to run once a day,
-about two hours after the GitHub Action has collected fresh YouTube data (the Action runs at 04:17 UTC).
+about two hours after the GitHub Action has collected fresh YouTube data (the Action runs at 09:17 UTC, just after the YouTube API quota resets at midnight Pacific time).
 
 ## What this task is for
 

@@ -28,7 +28,7 @@ tests/                 test collectora na lažnom YouTube API-ju (npm test)
    Ključ nikad ne upisuj u kod ili u fajlove.
 4. **Pages.** Settings, Pages, Source: **GitHub Actions**.
 5. **Prvi run.** Actions, "Daily update and deploy", Run workflow. Nakon par minuta sajt ima prve podatke.
-   Od tada se pokreće sam svaki dan u 04:17 UTC.
+   Od tada se pokreće sam svaki dan u 09:17 UTC (poslije resetovanja YouTube kvote).
 
 Alternativa za hosting: Cloudflare Pages ili Vercel, publish direktorij `site`, bez build komande.
 GitHub Action i dalje radi dnevno prikupljanje i snima podatke u repo, a host se sam osvježi na svaki push.

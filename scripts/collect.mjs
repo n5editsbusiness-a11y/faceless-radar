@@ -178,6 +178,21 @@ async function isShortByUrl(id) {
 }
 
 async function classifyFormats(videos) {
+  // Only the newest uploads of each channel feed its baseline, so only those get the URL check.
+  // Older ones use the 60 second rule. The URL check also stops after a time budget, so one slow
+  // run cannot eat the whole job; whatever was not checked is retried on the next run.
+  const newest = new Set();
+  const byChannel = new Map();
+  for (const v of videos) {
+    if (!byChannel.has(v.channelId)) byChannel.set(v.channelId, []);
+    byChannel.get(v.channelId).push(v);
+  }
+  for (const list of byChannel.values()) {
+    list.sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
+    for (const v of list.slice(0, settings.baselineVideos)) newest.add(v.id);
+  }
+  const deadline = Date.now() + 5 * 60 * 1000;
+  let checked = 0;
   await pool(videos, 8, async (v) => {
     if (v.durationSec > 180) {
       v.format = 'long';
@@ -185,17 +200,23 @@ async function classifyFormats(videos) {
     }
     let cached = state.formats[v.id];
     if (!cached) {
-      const viaUrl = settings.detectShortsViaUrl ? await isShortByUrl(v.id) : null;
+      if (!urlCheckOff && Date.now() > deadline) {
+        urlCheckOff = true;
+        warn('Shorts URL check ran out of its time budget; using the 60 second rule for the rest of this run');
+      }
+      const viaUrl = settings.detectShortsViaUrl && newest.has(v.id) ? await isShortByUrl(v.id) : null;
       if (viaUrl === null) {
-        // The URL check was unavailable: fall back to the 60 second rule and do not cache the guess.
+        // The URL check was unavailable or skipped: fall back to the 60 second rule and do not cache the guess.
         cached = v.durationSec <= 60 ? 'short' : 'long';
       } else {
         cached = viaUrl ? 'short' : 'long';
         state.formats[v.id] = cached;
+        if (++checked % 500 === 0) log(`refresh: ${checked} Shorts URL checks done`);
       }
     }
     v.format = cached;
   });
+  log(`refresh: formats classified (${checked} URL checks${urlCheckOff ? ', URL check switched off' : ''})`);
 }
 
 function toVideo(item) {
