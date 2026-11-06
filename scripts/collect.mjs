@@ -55,7 +55,7 @@ state.queries ||= {};
 state.channels ||= {};
 state.formats ||= {};
 
-const isRejected = (id) => reviews.channels?.[id]?.faceless === false;
+const isRejected = (id) => reviews.channels?.[id]?.faceless === false || reviews.channels?.[id]?.english === false;
 const channels = new Map(prevChannelRows.map((c) => [c.id, c]));
 const videoPool = new Map(prevVideoRows.map((v) => [v.id, v]));
 const prevVideoIds = new Set(prevVideoRows.map((v) => v.id));

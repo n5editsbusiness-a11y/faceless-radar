@@ -31,6 +31,9 @@ The collector owns them and would overwrite your edits.
      animation, maps, gameplay and screen recordings all count. Faces inside archival footage or art do not.
    - Write `{ "faceless": true | false, "note": "<140 characters at most>", "reviewedOn": "YYYY-MM-DD" }` under `channels.<channelId>`.
    - If you cannot tell, skip the channel. Do not guess. A channel left out stays "not reviewed yet" on the site.
+   - The site covers English-language channels only. YouTube search lets some Hindi, Spanish and other channels through.
+     If the titles or channel name make it clear the channel is not in English, add `"english": false` to its entry
+     (keep `faceless` as you judged it, or omit it if you did not check). The collector drops such channels on its next run.
 3. **Thumbnail tags.** For the 30 highest-outlier videos that have no entry yet, add `videos.<videoId> = { "tags": [...] }`
    with 1 to 4 tags from this list only: `big-text`, `text-free`, `number-or-countdown`, `ai-art`, `stock-footage`, `map`,
    `silhouette`, `split-compare`, `arrow-or-circle`, `dark-moody`, `bright-saturated`, `single-subject`, `collage`,
