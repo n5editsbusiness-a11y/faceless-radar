@@ -1,0 +1,263 @@
+{
+  "date": "2026-11-06",
+  "niches": {
+    "personal-finance": {
+      "opportunity": 93,
+      "breakoutRate": 0.71,
+      "channels": 38,
+      "medianTopOutlier": 8.7
+    },
+    "investing-stocks": {
+      "opportunity": 87,
+      "breakoutRate": 0.63,
+      "channels": 34,
+      "medianTopOutlier": 7.1
+    },
+    "real-estate-investing": {
+      "opportunity": 94,
+      "breakoutRate": 0.76,
+      "channels": 40,
+      "medianTopOutlier": 11.1
+    },
+    "side-hustles": {
+      "opportunity": 87,
+      "breakoutRate": 0.79,
+      "channels": 40,
+      "medianTopOutlier": 12.3
+    },
+    "business-case-studies": {
+      "opportunity": 81,
+      "breakoutRate": 0.7,
+      "channels": 40,
+      "medianTopOutlier": 14.1
+    },
+    "economics-explained": {
+      "opportunity": 84,
+      "breakoutRate": 0.63,
+      "channels": 28,
+      "medianTopOutlier": 8.4
+    },
+    "tax-strategy": {
+      "opportunity": 63,
+      "breakoutRate": 0.65,
+      "channels": 40,
+      "medianTopOutlier": 6
+    },
+    "ai-tools": {
+      "opportunity": 88,
+      "breakoutRate": 0.65,
+      "channels": 40,
+      "medianTopOutlier": 9.3
+    },
+    "ai-news": {
+      "opportunity": 50,
+      "breakoutRate": 0.69,
+      "channels": 23,
+      "medianTopOutlier": 9.5
+    },
+    "tech-explainers": {
+      "opportunity": 64,
+      "breakoutRate": 0.77,
+      "channels": 40,
+      "medianTopOutlier": 11.5
+    },
+    "faceless-channel-growth": {
+      "opportunity": 86,
+      "breakoutRate": 0.74,
+      "channels": 34,
+      "medianTopOutlier": 9.8
+    },
+    "cyber-stories": {
+      "opportunity": 76,
+      "breakoutRate": 0.59,
+      "channels": 40,
+      "medianTopOutlier": 7
+    },
+    "history-documentary": {
+      "opportunity": 38,
+      "breakoutRate": 0.33,
+      "channels": 6,
+      "medianTopOutlier": 3
+    },
+    "ancient-civilizations": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 1,
+      "medianTopOutlier": null
+    },
+    "dark-history": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 2,
+      "medianTopOutlier": null
+    },
+    "military-ww2": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 1,
+      "medianTopOutlier": null
+    },
+    "medieval-history": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 1,
+      "medianTopOutlier": null
+    },
+    "mythology-folklore": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "geography-maps": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 1,
+      "medianTopOutlier": null
+    },
+    "geopolitics": {
+      "opportunity": 50,
+      "breakoutRate": 0.5,
+      "channels": 3,
+      "medianTopOutlier": 8.7
+    },
+    "rise-and-fall": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "true-crime": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 2,
+      "medianTopOutlier": null
+    },
+    "horror-stories": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "internet-mysteries": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 1,
+      "medianTopOutlier": null
+    },
+    "reddit-stories": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "ai-animated-stories": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "unsolved-mysteries": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "disasters": {
+      "opportunity": 37,
+      "breakoutRate": 0.33,
+      "channels": 5,
+      "medianTopOutlier": 3.2
+    },
+    "space-astronomy": {
+      "opportunity": 14,
+      "breakoutRate": 0,
+      "channels": 4,
+      "medianTopOutlier": 3.8
+    },
+    "science-explainers": {
+      "opportunity": 53,
+      "breakoutRate": 0.5,
+      "channels": 5,
+      "medianTopOutlier": 5.5
+    },
+    "psychology": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "philosophy-stoicism": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "nature-wildlife": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 2,
+      "medianTopOutlier": null
+    },
+    "animal-facts": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "dinosaurs-prehistory": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "engineering": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 1,
+      "medianTopOutlier": null
+    },
+    "aviation": {
+      "opportunity": 10,
+      "breakoutRate": null,
+      "channels": 3,
+      "medianTopOutlier": null
+    },
+    "motivation": {
+      "opportunity": 14,
+      "breakoutRate": 0,
+      "channels": 4,
+      "medianTopOutlier": 2.9
+    },
+    "health-wellness": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 1,
+      "medianTopOutlier": null
+    },
+    "sleep-ambient": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "lofi-study-music": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "top-10-facts": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    },
+    "gaming-lore": {
+      "opportunity": null,
+      "breakoutRate": null,
+      "channels": 0,
+      "medianTopOutlier": null
+    }
+  }
+}
