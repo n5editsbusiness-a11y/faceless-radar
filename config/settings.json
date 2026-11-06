@@ -4,6 +4,7 @@
   "relevanceLanguage": "en",
   "windowDays": 90,
   "breakoutThreshold": 5,
+  "breakoutMinViews": 5000,
   "minVideoAgeDays": 2,
   "baselineVideos": 30,
   "minBaselineVideos": 4,

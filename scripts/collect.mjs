@@ -253,6 +253,7 @@ function computeChannel(profile, vids, st) {
   const recent60 = inWindow.filter((v) => ageDays(v.publishedAt) <= 60 && v.outlier !== null);
   const last30 = sorted.slice(0, 30);
   const stats = profile.statistics || {};
+  const minViews = settings.breakoutMinViews ?? 0;
   const record = {
     id: profile.id,
     title: String(profile.snippet?.title || '').slice(0, 100),
@@ -269,7 +270,10 @@ function computeChannel(profile, vids, st) {
     shortsShare: last30.length ? round(last30.filter((v) => v.format === 'short').length / last30.length, 2) : null,
     medianViews: median(last30.map((v) => v.views)),
     baseline,
-    bestOutlier60d: recent60.length ? Math.max(...recent60.map((v) => v.outlier)) : null,
+    // A breakout needs real reach: videos under breakoutMinViews do not count, however small the baseline is.
+    bestOutlier60d: recent60.length
+      ? Math.max(0, ...recent60.filter((v) => v.views >= minViews).map((v) => v.outlier))
+      : null,
     bestViews90d: inWindow.length ? Math.max(...inWindow.map((v) => v.views)) : 0,
     firstSeen: st.firstSeen,
     lastFetched: today,
@@ -449,7 +453,7 @@ function buildFeed(finalVideos) {
     }
   }
   const fresh = finalVideos
-    .filter((v) => !prevVideoIds.has(v.id) && v.outlier >= 10 && ageDays(v.publishedAt) <= 14)
+    .filter((v) => !prevVideoIds.has(v.id) && v.outlier >= 10 && v.views >= (settings.breakoutMinViews ?? 0) && ageDays(v.publishedAt) <= 14)
     .sort((a, b) => b.outlier - a.outlier)
     .slice(0, 5);
   for (const v of fresh) {
@@ -545,6 +549,7 @@ async function main() {
     siteName: settings.siteName,
     updatedAt: OFFLINE ? prevMeta.updatedAt || null : new Date(now).toISOString(),
     breakoutThreshold: settings.breakoutThreshold,
+    breakoutMinViews: settings.breakoutMinViews ?? 0,
     windowDays: settings.windowDays,
     quota: yt ? { used: yt.used, budget: settings.quotaBudget, calls: yt.calls } : prevMeta.quota || null,
     counts: {

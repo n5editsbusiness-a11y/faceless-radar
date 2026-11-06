@@ -300,7 +300,7 @@ function renderNiche(id) {
     <header class="page-head" style="margin-top:10px"><h1>${esc(n.name)}</h1><p class="lede">${esc(n.description)}</p></header>
     <dl class="facts">
       <div><dt>Opportunity score</dt><dd>${m.opportunity ?? '–'}<small>${m.confidence === 'none' ? 'No channels sampled yet' : `${plural(m.channels, 'channel')} sampled, ${m.confidence} confidence`}</small></dd></div>
-      <div><dt>Breakout rate</dt><dd>${fmtPct(m.breakoutRate)}<small>channels with a ${D.meta.breakoutThreshold ?? 5}× video in 60 days</small></dd></div>
+      <div><dt>Breakout rate</dt><dd>${fmtPct(m.breakoutRate)}<small>channels with a ${D.meta.breakoutThreshold ?? 5}× video (${fmtNum(D.meta.breakoutMinViews ?? 0)}+ views) in 60 days</small></dd></div>
       <div><dt>Typical best outlier</dt><dd>${fmtX(m.medianTopOutlier)}<small>median across channels</small></dd></div>
       <div><dt>Small channels</dt><dd>${fmtPct(m.smallChannelShare)}<small>under 100K subscribers</small></dd></div>
       <div><dt>Upload pace</dt><dd>${m.uploadsPerWeek ?? '–'}<small>videos per week, median</small></dd></div>
@@ -428,7 +428,7 @@ function renderAbout() {
     <p>The outlier score divides a video's views by the median views of that channel's last 30 videos of the same format (long-form or Shorts). A score of 12× means the video got twelve times what the channel normally gets. Videos younger than two days are skipped because their views are still settling, and a channel needs at least four videos of a format to have a baseline.</p>
     <h2>Opportunity score</h2>
     <p>A 0 to 100 heuristic that rewards a niche for four things:</p>
-    <ul><li>Up to 40 points for the breakout rate: the share of channels with a ${t}× video in the last 60 days.</li>
+    <ul><li>Up to 40 points for the breakout rate: the share of channels with a ${t}× video in the last 60 days. A video needs at least ${fmtNum(D.meta.breakoutMinViews ?? 0)} views to count, so tiny channels with a tiny baseline do not inflate the score.</li>
     <li>Up to 25 points for newcomer wins: the share of channels under a year old with a video above 50,000 views.</li>
     <li>Up to 20 points for estimated RPM. Niches without a public estimate get a neutral 10.</li>
     <li>Up to 15 points for low saturation: the fewer channels above 1 million subscribers, the higher the score.</li></ul>
