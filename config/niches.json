@@ -84,6 +84,19 @@
     "description": "Narrated stories of breaches, scams and famous hackers.",
     "queries": ["hacker story documentary", "biggest cyber attacks"]
   },
+  {
+    "id": "no-code-automation", "name": "No-code and automation tutorials", "group": "Tech",
+    "description": "Screen-recorded walkthroughs of workflow automations and no-code app builders, narrated by voiceover.",
+    "queries": ["n8n automation tutorial", "no code automation workflow", "make.com zapier tutorial"],
+    "rpm": { "low": 10, "high": 25, "sources": [
+      { "label": "OutlierKit", "url": "https://alpha.outlierkit.com/resources/articles/top-10-most-profitable-youtube-niches-in-2026/" } ],
+      "note": "Single source; it calls its own figures directional estimates." }
+  },
+  {
+    "id": "robotics-humanoids", "name": "Robotics and humanoid news", "group": "Tech",
+    "description": "News and explainers on humanoid robots and robotics companies, built from demo footage and narration.",
+    "queries": ["humanoid robot news", "robotics explained", "humanoid robot demo"]
+  },
 
   {
     "id": "history-documentary", "name": "History documentaries", "group": "History",
@@ -136,6 +149,11 @@
     "docs": true,
     "description": "Biography-style documentaries about empires, rulers and famous figures.",
     "queries": ["rise and fall of", "biography documentary"]
+  },
+  {
+    "id": "archival-restoration", "name": "Restored archival footage", "group": "History",
+    "description": "Colorized and upscaled historical film with light narration or period audio.",
+    "queries": ["colorized historical footage", "restored archival footage", "rare footage restored 4k"]
   },
 
   {

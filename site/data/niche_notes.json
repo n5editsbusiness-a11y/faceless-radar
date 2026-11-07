@@ -1,1 +1,52 @@
-{}
+{
+ "rise-and-fall": {
+  "summary": "Titles only; thumbnails could not be viewed today. 78% of 40 channels have a 5x video; typical best outlier is 20.2x. 9 of the top 12 videos run 11 to 17 minutes and name one company, brand or place.",
+  "titlePatterns": [
+   "The Rise and Fall of <company or place>, e.g. \"The Rise & Fall of a Houston Empire\"",
+   "\"What Went Wrong?\" after a brand name, e.g. \"DMart Is in Trouble: What Went Wrong?\"",
+   "\"WTF Happened to <trend>?\", e.g. \"WTF Happened to Labubu?\"",
+   "Mystery hook, then the rise-and-fall title after a divider, e.g. \"China’s 18,000-Person Building Mystery | The Rise and Fall of ...\""
+  ],
+  "updatedOn": "2026-11-07"
+ },
+ "ancient-civilizations": {
+  "summary": "Titles only; thumbnails could not be viewed today. 73% of 40 channels have a breakout, typical best outlier is 15.7x, and 70% have under 100K subscribers. Top titles ask one curious question or promise a full history.",
+  "titlePatterns": [
+   "\"Why <place> has no <expected thing>\", e.g. \"Why the Philippines Has No Pyramids or Ancient Temples\"",
+   "\"The Entire History of <place> in N Minutes\"",
+   "\"How <ancient people> survived/slept <hardship>\"",
+   "Bold claim about myths or artifacts, e.g. \"...Turned Out to Be True\""
+  ],
+  "updatedOn": "2026-11-07"
+ },
+ "geography-maps": {
+  "summary": "Titles only; thumbnails could not be viewed today. 69% breakout rate, typical best outlier 7x; 3 of the top 12 videos are Shorts. Some top entries are Hindi-language exam-prep channels, so read the numbers as provisional.",
+  "titlePatterns": [
+   "\"All <N> <regions> Explained\", e.g. \"All 13 Canadian Provinces & Territories Explained\"",
+   "\"Why <place> is nothing like you imagine\"",
+   "\"I made <thing> to scale\", e.g. \"I made Every Middle Earth Landmark to Scale\"",
+   "Numbered list, e.g. \"10 Geography Mysteries That Will Blow Your Mind\""
+  ],
+  "updatedOn": "2026-11-07"
+ },
+ "dark-history": {
+  "summary": "Titles only; thumbnails could not be viewed today. Lowest breakout rate of the five niches reviewed today at 56%; typical best outlier 7.1x. 5 of the top 12 videos have Bengali, Kannada or Hindi titles, so English-language demand looks thinner.",
+  "titlePatterns": [
+   "\"The Dark History of <subject>\"",
+   "\"The Daily Horror of Being a <role> in <place>\"",
+   "\"The Dark Secret Behind <famous thing>\"",
+   "Plain \"| Dark History\" tag after the main title"
+  ],
+  "updatedOn": "2026-11-07"
+ },
+ "military-ww2": {
+  "summary": "Titles only; thumbnails could not be viewed today. Highest typical best outlier of the five reviewed today at 24.5x; 68% breakout rate; 63% of channels are small. 4 of the top 12 titles centre on a German reaction to Allied soldiers or weapons.",
+  "titlePatterns": [
+   "\"Germans Laughed at <weapon> Until It <consequence>\"",
+   "\"Why Germans Feared <army> — But Not <army>\"",
+   "\"<Aircraft> Was a Failure. So Why Did the Soviets Love It?\"",
+   "\"<subject> in <year> — 4K Restored Film Documentary\" for archival footage"
+  ],
+  "updatedOn": "2026-11-07"
+ }
+}
