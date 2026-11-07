@@ -238,15 +238,15 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 28,
-      "opportunity": 84,
-      "breakoutRate": 0.63,
-      "medianTopOutlier": 8.4,
-      "smallChannelShare": 0.25,
-      "bigChannelShare": 0.43,
+      "channels": 29,
+      "opportunity": 83,
+      "breakoutRate": 0.64,
+      "medianTopOutlier": 8.3,
+      "smallChannelShare": 0.24,
+      "bigChannelShare": 0.45,
       "newcomerRate": 1,
-      "uploadsPerWeek": 3.8,
-      "shortsShare": 0.3,
+      "uploadsPerWeek": 4,
+      "shortsShare": 0.31,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -369,18 +369,19 @@
     },
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 22,
-      "opportunity": 51,
-      "breakoutRate": 0.67,
-      "medianTopOutlier": 7.2,
-      "smallChannelShare": 0.05,
-      "bigChannelShare": 0.73,
+      "channels": 24,
+      "opportunity": 50,
+      "breakoutRate": 0.71,
+      "medianTopOutlier": 11.5,
+      "smallChannelShare": 0.04,
+      "bigChannelShare": 0.75,
       "newcomerRate": null,
       "uploadsPerWeek": 12.5,
-      "shortsShare": 0.31,
+      "shortsShare": 0.3,
       "confidence": "high"
     },
     "topVideoIds": [
+      "g8bqbEV1Kic",
       "rb4CTZjHCNg",
       "K2PpwRf2_yE",
       "J5EbL1UaqG8",
@@ -391,8 +392,7 @@
       "E0tFge5JQT4",
       "939XDl4k2OU",
       "nG9djgxJ5rE",
-      "G_K5KZkTwfM",
-      "HDmBwU5uvEE"
+      "htV8Ik8FK6s"
     ]
   },
   {
@@ -529,30 +529,30 @@
     },
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 5,
-      "opportunity": 12,
-      "breakoutRate": 0,
-      "medianTopOutlier": 2,
-      "smallChannelShare": 0.4,
-      "bigChannelShare": 0.6,
-      "newcomerRate": null,
-      "uploadsPerWeek": 1,
-      "shortsShare": 0.35,
-      "confidence": "low"
+      "channels": 39,
+      "opportunity": 82,
+      "breakoutRate": 0.69,
+      "medianTopOutlier": 9.3,
+      "smallChannelShare": 0.41,
+      "bigChannelShare": 0.31,
+      "newcomerRate": 1,
+      "uploadsPerWeek": 2,
+      "shortsShare": 0.26,
+      "confidence": "high"
     },
     "topVideoIds": [
       "tDJUUFDSqpY",
+      "keiietlzXIY",
+      "KjdBDk3T1ZU",
+      "i1Yv9c5RCCM",
+      "Gb8t4Wybxn0",
+      "VVlfdGrHCIo",
+      "Q1cNb8kVdY8",
+      "EH8rYPDqUfM",
+      "beNmCIz02tk",
       "fT7fAUt7oGA",
-      "tZ8i1RxGSYM",
-      "ujkD4SxPKOI",
-      "0NY2gAftzJE",
-      "hiIIGMeMEuE",
-      "YqAI0oqtt7w",
-      "_y9JuojAIg0",
-      "IvtsVHzMLwY",
-      "QW_jlUn4gA8",
-      "EqkRVbaBxtg",
-      "oNTaHYXQ4MM"
+      "22Wo9ZFUN94",
+      "IFQQhMS357E"
     ]
   },
   {
@@ -563,30 +563,30 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 1,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
-      "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "low"
+      "channels": 40,
+      "opportunity": 89,
+      "breakoutRate": 0.73,
+      "medianTopOutlier": 15.7,
+      "smallChannelShare": 0.7,
+      "bigChannelShare": 0.1,
+      "newcomerRate": 0.85,
+      "uploadsPerWeek": 1.5,
+      "shortsShare": 0.22,
+      "confidence": "high"
     },
     "topVideoIds": [
-      "tZ8i1RxGSYM",
-      "ujkD4SxPKOI",
-      "0NY2gAftzJE",
-      "hiIIGMeMEuE",
-      "YqAI0oqtt7w",
-      "_y9JuojAIg0",
-      "IvtsVHzMLwY",
-      "QW_jlUn4gA8",
-      "EqkRVbaBxtg",
-      "oNTaHYXQ4MM",
-      "5_Fayfx2NUM",
-      "b1EMX3wyqCY"
+      "XeUJgzPiAiY",
+      "qkRQvGIVqGk",
+      "O6Tg1Ld_Bxs",
+      "zGdAgbRamsM",
+      "klxMXOfTMxY",
+      "66zi0uVj7yY",
+      "N54k-pMRV7I",
+      "_0u3b2xJSy8",
+      "Jhq8NqmPd4U",
+      "SKlh6sw60aA",
+      "4mHqLLaiRkI",
+      "9e09ncZndX4"
     ]
   },
   {
@@ -597,30 +597,30 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 2,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
-      "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "low"
+      "channels": 40,
+      "opportunity": 87,
+      "breakoutRate": 0.56,
+      "medianTopOutlier": 7.1,
+      "smallChannelShare": 0.43,
+      "bigChannelShare": 0.23,
+      "newcomerRate": 0.5,
+      "uploadsPerWeek": 2.2,
+      "shortsShare": 0.22,
+      "confidence": "high"
     },
     "topVideoIds": [
-      "YE4RwmJAU7w",
-      "3kGQ7gsrOeA",
-      "MHowqlp0Fxs",
-      "aa2VfXs3qY0",
-      "qd6j-772PGk",
-      "HffLUwKl8TY",
-      "qcGtWW8uERI",
-      "zaeHzTS6Pck",
-      "oJbFxIOgwDI",
-      "tZ8i1RxGSYM",
-      "ujkD4SxPKOI",
-      "xZPPWP0ZKCI"
+      "sLIP3jzdnk0",
+      "DewUaikDxPE",
+      "fcKxDVKU0_0",
+      "pruCri9lC00",
+      "WUvR7qM8alE",
+      "9kNXyvNw_40",
+      "zx-WKpwCTqc",
+      "Ia5NqRzT9GA",
+      "nxZcqO_F35Q",
+      "_hRUwszACj0",
+      "x-waN6gGL3U",
+      "hNj1E2k8Xaw"
     ]
   },
   {
@@ -631,18 +631,31 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 0,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
-      "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "none"
+      "channels": 38,
+      "opportunity": 87,
+      "breakoutRate": 0.68,
+      "medianTopOutlier": 24.5,
+      "smallChannelShare": 0.63,
+      "bigChannelShare": 0.18,
+      "newcomerRate": 1,
+      "uploadsPerWeek": 3.3,
+      "shortsShare": 0.15,
+      "confidence": "high"
     },
-    "topVideoIds": []
+    "topVideoIds": [
+      "QDATFmxl0uk",
+      "ik7TMdYDgMU",
+      "wErDgO8yeQU",
+      "ucyo0Auctv0",
+      "OUS2zMDW2eM",
+      "VVlfdGrHCIo",
+      "wcJER8BKmcI",
+      "n48svhxQPSM",
+      "QJEM_rqdlBc",
+      "xGRDIfa8V7A",
+      "IIB1zGCndnk",
+      "Y_QEQXujx3Q"
+    ]
   },
   {
     "id": "medieval-history",
@@ -652,18 +665,31 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 1,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
-      "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "low"
+      "channels": 37,
+      "opportunity": 89,
+      "breakoutRate": 0.53,
+      "medianTopOutlier": 5.6,
+      "smallChannelShare": 0.54,
+      "bigChannelShare": 0.05,
+      "newcomerRate": 0.75,
+      "uploadsPerWeek": 2,
+      "shortsShare": 0.26,
+      "confidence": "high"
     },
-    "topVideoIds": []
+    "topVideoIds": [
+      "lGo07xMfdgI",
+      "2ekCDiXcjHA",
+      "_Z2oPCeWlXQ",
+      "Y6MNw7s3UrQ",
+      "1dVqzXlLd0c",
+      "9Dt7P6wEfkg",
+      "wU1OVjPsAm4",
+      "CoDbFpWvCTM",
+      "I9A3YkI2dbc",
+      "3CWqkjLcom0",
+      "XGFPvpuDTm8",
+      "JbE_4q4eWEc"
+    ]
   },
   {
     "id": "mythology-folklore",
@@ -673,18 +699,31 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 0,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
-      "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "none"
+      "channels": 30,
+      "opportunity": 90,
+      "breakoutRate": 0.66,
+      "medianTopOutlier": 18.1,
+      "smallChannelShare": 0.87,
+      "bigChannelShare": 0.03,
+      "newcomerRate": 0.75,
+      "uploadsPerWeek": 1.2,
+      "shortsShare": 0.12,
+      "confidence": "high"
     },
-    "topVideoIds": []
+    "topVideoIds": [
+      "Tyy-orTSodM",
+      "7BNf46VCObw",
+      "q6a7YL6olsA",
+      "I2yZ9W_iE8s",
+      "wzCLnsX8yHc",
+      "qMAI_bTBaqk",
+      "U7g7f8B3afg",
+      "xX58D_kKkdk",
+      "WyOIh9lmjT8",
+      "0V1cYrFgqHw",
+      "2QhsrayNzjI",
+      "dtOhXagWmN4"
+    ]
   },
   {
     "id": "geography-maps",
@@ -694,22 +733,30 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 1,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
-      "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "low"
+      "channels": 40,
+      "opportunity": 86,
+      "breakoutRate": 0.69,
+      "medianTopOutlier": 7,
+      "smallChannelShare": 0.45,
+      "bigChannelShare": 0.28,
+      "newcomerRate": 0.67,
+      "uploadsPerWeek": 5.7,
+      "shortsShare": 0.26,
+      "confidence": "high"
     },
     "topVideoIds": [
-      "oa5HTRhYz4E",
-      "1YPmSTmmp6Q",
-      "BoYelrtun2Y",
-      "UK5rVgWRmAw"
+      "FLLagBW0E2s",
+      "eNHC1-81QFM",
+      "XFaAXAGEc4U",
+      "p9vYW0cLyDI",
+      "uaWS4kHZFPw",
+      "odammrcfLSM",
+      "IykdN7sXC18",
+      "KJb0hyIdXlQ",
+      "BlerbRWDBUs",
+      "EKBaiUNFsdw",
+      "KzXzd6S97H4",
+      "z1niECSABqw"
     ]
   },
   {
@@ -720,30 +767,30 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 3,
-      "opportunity": 50,
-      "breakoutRate": 0.5,
-      "medianTopOutlier": 8.7,
-      "smallChannelShare": 0,
-      "bigChannelShare": 1,
-      "newcomerRate": null,
-      "uploadsPerWeek": 11.3,
-      "shortsShare": 0.2,
-      "confidence": "low"
+      "channels": 38,
+      "opportunity": 84,
+      "breakoutRate": 0.75,
+      "medianTopOutlier": 12.3,
+      "smallChannelShare": 0.34,
+      "bigChannelShare": 0.39,
+      "newcomerRate": 0.82,
+      "uploadsPerWeek": 9.3,
+      "shortsShare": 0.32,
+      "confidence": "high"
     },
     "topVideoIds": [
-      "Vo6KYUcV_ek",
-      "BPXnHjPsKWM",
-      "EyRta7bPGy4",
-      "_fV5P-SWLCc",
-      "ECLzKN8F-a4",
-      "0GdSuTrOhbQ",
-      "yp7hJDwwPSA",
-      "BCk6WHGWANg",
-      "2efopIZR_xY",
-      "TwMJDQtYh-Q",
-      "OOQn0sIHt9k",
-      "1jgsFMKVlIQ"
+      "G1IagokYNyA",
+      "3p2lqArU4Gc",
+      "UAAotP9m-8E",
+      "d4AuBzlQFOI",
+      "wUXU7xLW2bk",
+      "X9lIwXkE72s",
+      "8PIWIMfGz-U",
+      "DdbKGPPeg7o",
+      "g8bqbEV1Kic",
+      "SfDUqDI_FDk",
+      "llHHAE3S1fg",
+      "8fdPy2lkWcQ"
     ]
   },
   {
@@ -754,18 +801,31 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 0,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
-      "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "none"
+      "channels": 40,
+      "opportunity": 87,
+      "breakoutRate": 0.78,
+      "medianTopOutlier": 20.2,
+      "smallChannelShare": 0.57,
+      "bigChannelShare": 0.18,
+      "newcomerRate": 1,
+      "uploadsPerWeek": 1.8,
+      "shortsShare": 0.17,
+      "confidence": "high"
     },
-    "topVideoIds": []
+    "topVideoIds": [
+      "DEWoZzHh9c8",
+      "L_pOHyqVgNA",
+      "V6-3wqQoxT0",
+      "ePdx7supisI",
+      "JU3hLL_6b2c",
+      "JWweOF6CqmY",
+      "VVhiiHbdBO8",
+      "klxMXOfTMxY",
+      "GlS0PJxJeds",
+      "pLILhWB75fs",
+      "Jhq8NqmPd4U",
+      "-k1nhM4A_Ug"
+    ]
   },
   {
     "id": "true-crime",
@@ -785,30 +845,30 @@
     },
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 2,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
-      "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "low"
+      "channels": 31,
+      "opportunity": 83,
+      "breakoutRate": 0.67,
+      "medianTopOutlier": 9.5,
+      "smallChannelShare": 0.32,
+      "bigChannelShare": 0.45,
+      "newcomerRate": 1,
+      "uploadsPerWeek": 2,
+      "shortsShare": 0.12,
+      "confidence": "high"
     },
     "topVideoIds": [
-      "XQy0-GufWd0",
-      "O1FKO6smvJw",
-      "Uc-cTa5HeAQ",
-      "mSOxWAAfG88",
-      "vhBurLW1QZs",
-      "oOZ8CS2IPG4",
-      "uoSElUnPNoc",
-      "32BttlR2tR8",
-      "9XoOI8Ud3Ss",
-      "bg4lkXO8-sI",
-      "Ljg_xoBCkOg",
-      "8uLBhq-A7DQ"
+      "dRbGm9PrmhU",
+      "yVhithLFZ_E",
+      "kYtHb_LV9vU",
+      "q-7huVDGlhM",
+      "7qdo0hAB9r0",
+      "P1FhhJdci5g",
+      "6TyIqB7yBW8",
+      "o0pKDRi9P68",
+      "-23E6cUi25o",
+      "Kdox5TnKcIk",
+      "gjpzIC_Bhys",
+      "sJiw1_fnzn8"
     ]
   },
   {
@@ -828,24 +888,71 @@
     },
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 0,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
-      "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "none"
+      "channels": 36,
+      "opportunity": 78,
+      "breakoutRate": 0.58,
+      "medianTopOutlier": 6.6,
+      "smallChannelShare": 0.36,
+      "bigChannelShare": 0.39,
+      "newcomerRate": 1,
+      "uploadsPerWeek": 2.2,
+      "shortsShare": 0.14,
+      "confidence": "high"
     },
-    "topVideoIds": []
+    "topVideoIds": [
+      "3ETZmhzURfQ",
+      "y8oFOqBpGN8",
+      "s9CmUoIxAAc",
+      "2AGegNK_dAY",
+      "ghByrN8YRcA",
+      "kOEXzvNmiZ4",
+      "gSzOrYNdtLY",
+      "1vYf1ay1UMo",
+      "fuboXwviGD8",
+      "haUbgYlNM4c",
+      "IbftqqUyU9I",
+      "XTbmYYdNwxo"
+    ]
   },
   {
     "id": "internet-mysteries",
     "name": "Internet mysteries and creepypasta",
     "group": "Stories",
     "description": "Unsettling online legends, lost media and web mysteries.",
+    "rpm": null,
+    "firstSeen": "2026-11-06",
+    "metrics": {
+      "channels": 27,
+      "opportunity": 87,
+      "breakoutRate": 0.48,
+      "medianTopOutlier": 4.5,
+      "smallChannelShare": 0.63,
+      "bigChannelShare": 0.11,
+      "newcomerRate": 1,
+      "uploadsPerWeek": 1.3,
+      "shortsShare": 0.13,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "Y9UE7XDaX2g",
+      "hbginv5oluU",
+      "aD6I4l5A0CM",
+      "kOkQpREtVZg",
+      "kxLPFoqagyo",
+      "xTLoAUWHWL4",
+      "w1__VOkzKgk",
+      "SkDfd5D2REQ",
+      "y1Cehk3d_7Y",
+      "9Z6fat1j3Xk",
+      "ajosK33hLR8",
+      "vkL46o42ZNo"
+    ]
+  },
+  {
+    "id": "reddit-stories",
+    "name": "Reddit stories",
+    "group": "Stories",
+    "description": "Revenge, relationship and confession threads read aloud over gameplay or stock loops.",
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
@@ -861,38 +968,16 @@
       "confidence": "low"
     },
     "topVideoIds": [
-      "T3suNoMnT0A",
-      "2LqYht-Fn6I",
-      "99ex2huBWhw",
-      "BFNqTlUlp6A",
-      "FzZOP6b7onM",
-      "BFbg5A1jmR8",
-      "RnU7Ny-wwXk",
-      "Fuldz1zCt1s",
-      "SX-T6rmrLxY",
-      "-IkLCfwaReE"
+      "ymWRbc6mu0E",
+      "EGob0AYkHNE",
+      "E8wWoj1f-QM",
+      "_X7sqBHm0Nw",
+      "q2Q5vHhgiZs",
+      "YLheQj3neV8",
+      "boRWbb0PVps",
+      "Oiu1J7R3BAc",
+      "4qqugV7wXR4"
     ]
-  },
-  {
-    "id": "reddit-stories",
-    "name": "Reddit stories",
-    "group": "Stories",
-    "description": "Revenge, relationship and confession threads read aloud over gameplay or stock loops.",
-    "rpm": null,
-    "firstSeen": "2026-11-06",
-    "metrics": {
-      "channels": 0,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
-      "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "none"
-    },
-    "topVideoIds": []
   },
   {
     "id": "ai-animated-stories",
@@ -912,18 +997,31 @@
     },
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 0,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
-      "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "none"
+      "channels": 6,
+      "opportunity": 82,
+      "breakoutRate": 1,
+      "medianTopOutlier": 15.1,
+      "smallChannelShare": 0.33,
+      "bigChannelShare": 0.5,
+      "newcomerRate": 1,
+      "uploadsPerWeek": 2.6,
+      "shortsShare": 0.17,
+      "confidence": "low"
     },
-    "topVideoIds": []
+    "topVideoIds": [
+      "XTbmYYdNwxo",
+      "AdNZFbBB1_4",
+      "VjjzLpWomPo",
+      "oXj7bWgRX_I",
+      "dLpFSWxzRoM",
+      "Z40dohG0oXc",
+      "Moc11rDBLxA",
+      "2XYr2AEHDGI",
+      "op0IpCOG6t4",
+      "Ayg6t9iaI4o",
+      "mNPAKRq0mno",
+      "mdaMbhTSDUE"
+    ]
   },
   {
     "id": "unsolved-mysteries",
@@ -933,18 +1031,31 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 0,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
-      "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "none"
+      "channels": 6,
+      "opportunity": 78,
+      "breakoutRate": 0.5,
+      "medianTopOutlier": 6.3,
+      "smallChannelShare": 0.17,
+      "bigChannelShare": 0.83,
+      "newcomerRate": 1,
+      "uploadsPerWeek": 8.5,
+      "shortsShare": 0.12,
+      "confidence": "low"
     },
-    "topVideoIds": []
+    "topVideoIds": [
+      "wpUFB3UMNgw",
+      "_WD8NVhD5Ps",
+      "GQCvZ0qrfhM",
+      "STcBN9l5rfU",
+      "8o3Bd1ZA1zM",
+      "hPdZ2_yfTpQ",
+      "0ldo4QA5w18",
+      "TAdIKcAyOfg",
+      "LyZ68qn257s",
+      "b6xZtNV5ggg",
+      "wCQZUCVh_s4",
+      "xVL2mLQGySs"
+    ]
   },
   {
     "id": "disasters",
@@ -954,30 +1065,30 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 4,
-      "opportunity": 50,
-      "breakoutRate": 0.5,
-      "medianTopOutlier": 17.3,
-      "smallChannelShare": 0,
-      "bigChannelShare": 1,
+      "channels": 9,
+      "opportunity": 40,
+      "breakoutRate": 0.33,
+      "medianTopOutlier": 4.1,
+      "smallChannelShare": 0.11,
+      "bigChannelShare": 0.78,
       "newcomerRate": null,
-      "uploadsPerWeek": 12.4,
-      "shortsShare": 0.49,
-      "confidence": "low"
+      "uploadsPerWeek": 8,
+      "shortsShare": 0.31,
+      "confidence": "medium"
     },
     "topVideoIds": [
+      "i1Yv9c5RCCM",
+      "79dgYnfFvW4",
+      "vpYbtCu_65Y",
       "YE4RwmJAU7w",
+      "6-gXUmsj1Kg",
+      "BtmY0nCqX1A",
+      "S3xC_ZZUVek",
       "3kGQ7gsrOeA",
       "MHowqlp0Fxs",
       "aa2VfXs3qY0",
-      "qd6j-772PGk",
-      "HffLUwKl8TY",
-      "qcGtWW8uERI",
-      "zaeHzTS6Pck",
-      "oa5HTRhYz4E",
-      "oJbFxIOgwDI",
-      "xZPPWP0ZKCI",
-      "MCAliR-6UyU"
+      "ZcFS7JWKmMs",
+      "pRpz5FZjq9k"
     ]
   },
   {
@@ -998,30 +1109,30 @@
     },
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 4,
-      "opportunity": 14,
-      "breakoutRate": 0,
+      "channels": 9,
+      "opportunity": 35,
+      "breakoutRate": 0.29,
       "medianTopOutlier": 3.8,
       "smallChannelShare": 0,
-      "bigChannelShare": 0.75,
+      "bigChannelShare": 0.89,
       "newcomerRate": null,
-      "uploadsPerWeek": 12.4,
-      "shortsShare": 0.33,
-      "confidence": "low"
+      "uploadsPerWeek": 12.3,
+      "shortsShare": 0.24,
+      "confidence": "medium"
     },
     "topVideoIds": [
+      "6RSvJ75gcx0",
+      "8o3Bd1ZA1zM",
+      "hPdZ2_yfTpQ",
+      "ttFR_Hhhpug",
       "XQy0-GufWd0",
+      "9DK2IGB_uvk",
+      "Fo2nwl7SEj0",
+      "gJ9tCp4kcdw",
+      "95hsAXtxt70",
       "O1FKO6smvJw",
-      "Uc-cTa5HeAQ",
-      "mSOxWAAfG88",
-      "oa5HTRhYz4E",
-      "vhBurLW1QZs",
-      "oOZ8CS2IPG4",
-      "uoSElUnPNoc",
-      "1YPmSTmmp6Q",
-      "32BttlR2tR8",
-      "9XoOI8Ud3Ss",
-      "BoYelrtun2Y"
+      "vt7NzvZLdtM",
+      "NCmspMhPxvw"
     ]
   },
   {
@@ -1042,30 +1153,30 @@
     },
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 5,
-      "opportunity": 53,
-      "breakoutRate": 0.5,
-      "medianTopOutlier": 5.5,
+      "channels": 7,
+      "opportunity": 52,
+      "breakoutRate": 0.67,
+      "medianTopOutlier": 8.1,
       "smallChannelShare": 0,
-      "bigChannelShare": 0.8,
+      "bigChannelShare": 0.86,
       "newcomerRate": null,
       "uploadsPerWeek": 7.8,
-      "shortsShare": 0.22,
+      "shortsShare": 0.35,
       "confidence": "low"
     },
     "topVideoIds": [
       "YGgNBcIgI4s",
+      "_okQROBfTWU",
+      "BFA69N5oCsU",
+      "YYs9l_M5u8k",
+      "varpeczaZGg",
+      "Wrps-lZQME8",
       "tL7usSGf4rU",
       "BwXremQ-i6I",
       "Tc77oQf00xw",
-      "mmns33BsBcY",
-      "hTAWHgQI4xg",
-      "7tPPGl6Q_9I",
-      "kyJ1vd7yEPc",
-      "oa5HTRhYz4E",
-      "QtZfbWOkoIY",
-      "_yO_Q7qo0HQ",
-      "PBHGF5BKzCo"
+      "8zegi6-ZyiM",
+      "i2cu80AXPYg",
+      "cHCLseDyrzg"
     ]
   },
   {
@@ -1137,22 +1248,30 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 2,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
+      "channels": 3,
+      "opportunity": 55,
+      "breakoutRate": 0.5,
+      "medianTopOutlier": 20.8,
+      "smallChannelShare": 0.33,
+      "bigChannelShare": 0.67,
       "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
+      "uploadsPerWeek": 12.5,
+      "shortsShare": 0.4,
       "confidence": "low"
     },
     "topVideoIds": [
+      "bxRfofJFnaM",
+      "UQOA6l_nLOA",
+      "uNWxzn86eZw",
+      "lKzoipDkcrI",
+      "yUc2dlqJ3og",
+      "GrPXfmcJ_Sw",
       "oa5HTRhYz4E",
+      "IysOaBth7CE",
+      "FqpK_njka-I",
+      "XS5Bdw9Jsu0",
       "1YPmSTmmp6Q",
-      "BoYelrtun2Y",
-      "UK5rVgWRmAw"
+      "85dCBaHkNRI"
     ]
   },
   {
@@ -1194,7 +1313,7 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 0,
+      "channels": 2,
       "opportunity": null,
       "breakoutRate": null,
       "medianTopOutlier": null,
@@ -1203,9 +1322,22 @@
       "newcomerRate": null,
       "uploadsPerWeek": null,
       "shortsShare": null,
-      "confidence": "none"
+      "confidence": "low"
     },
-    "topVideoIds": []
+    "topVideoIds": [
+      "6TyIqB7yBW8",
+      "KoW4tC_xoYg",
+      "OVfvuxpHZGc",
+      "1ucjsD60GaA",
+      "nB8YMUXdu6M",
+      "95hsAXtxt70",
+      "Si4LaYXaYRA",
+      "0RMFYativbA",
+      "w1SaTyRXkVA",
+      "d0cGnO3-_UA",
+      "kaCQjFRHBzI",
+      "mEhlGGXjbcA"
+    ]
   },
   {
     "id": "engineering",
@@ -1215,7 +1347,7 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 1,
+      "channels": 2,
       "opportunity": null,
       "breakoutRate": null,
       "medianTopOutlier": null,
@@ -1232,13 +1364,13 @@
       "S06AkyW87aQ",
       "aH-RV-icN8g",
       "yw3RPHyLnIA",
+      "JPIoKeW4808",
       "UkuH5PLBgmY",
       "t3iSt7oSOjg",
       "6oX_eSva6Uc",
+      "TF6GVMaH148",
       "w_MAgG410sY",
-      "2IgsWvSRxY4",
-      "UVNMn7G0cCo",
-      "rkytErpXCW8"
+      "2IgsWvSRxY4"
     ]
   },
   {
@@ -1249,18 +1381,31 @@
     "rpm": null,
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 3,
-      "opportunity": 10,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": 0,
-      "bigChannelShare": 1,
-      "newcomerRate": null,
-      "uploadsPerWeek": 12.5,
-      "shortsShare": 0.38,
-      "confidence": "low"
+      "channels": 10,
+      "opportunity": 83,
+      "breakoutRate": 0.71,
+      "medianTopOutlier": 25.7,
+      "smallChannelShare": 0.5,
+      "bigChannelShare": 0.5,
+      "newcomerRate": 1,
+      "uploadsPerWeek": 3.4,
+      "shortsShare": 0.2,
+      "confidence": "medium"
     },
-    "topVideoIds": []
+    "topVideoIds": [
+      "xGRDIfa8V7A",
+      "Q1cNb8kVdY8",
+      "22Wo9ZFUN94",
+      "R9qib2GIEnc",
+      "_04LO3ExIwE",
+      "4cwBrK2zq50",
+      "NPBlovQ2rzk",
+      "IVb-AbbRyN4",
+      "G_nEuOKx-rc",
+      "WKpxBU6TnYI",
+      "KlU5Icm_IBo",
+      "edsZ-NL9fpo"
+    ]
   },
   {
     "id": "motivation",
@@ -1418,18 +1563,31 @@
     },
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 0,
-      "opportunity": null,
-      "breakoutRate": null,
-      "medianTopOutlier": null,
-      "smallChannelShare": null,
-      "bigChannelShare": null,
+      "channels": 3,
+      "opportunity": 55,
+      "breakoutRate": 0.67,
+      "medianTopOutlier": 5.4,
+      "smallChannelShare": 0.33,
+      "bigChannelShare": 0.67,
       "newcomerRate": null,
-      "uploadsPerWeek": null,
-      "shortsShare": null,
-      "confidence": "none"
+      "uploadsPerWeek": 12.5,
+      "shortsShare": 0.03,
+      "confidence": "low"
     },
-    "topVideoIds": []
+    "topVideoIds": [
+      "GQCvZ0qrfhM",
+      "W9C2q5jj2Ig",
+      "0ldo4QA5w18",
+      "LyZ68qn257s",
+      "b6xZtNV5ggg",
+      "wCQZUCVh_s4",
+      "1TO_yQKyO6M",
+      "xVL2mLQGySs",
+      "-hCdHCCvxBo",
+      "0bvv9PFqsK0",
+      "k9MAzxWy8yo",
+      "ywDQvvq4ATw"
+    ]
   },
   {
     "id": "gaming-lore",
@@ -1449,7 +1607,7 @@
     },
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 0,
+      "channels": 1,
       "opportunity": null,
       "breakoutRate": null,
       "medianTopOutlier": null,
@@ -1458,8 +1616,21 @@
       "newcomerRate": null,
       "uploadsPerWeek": null,
       "shortsShare": null,
-      "confidence": "none"
+      "confidence": "low"
     },
-    "topVideoIds": []
+    "topVideoIds": [
+      "y-hgYgI4CqI",
+      "NZb29Ur9Dag",
+      "Wy8RbtOCrrQ",
+      "8hTWLz9lSco",
+      "sTuw_Y0N-XI",
+      "Jkaxs6Yi12A",
+      "sIChcw2WjpI",
+      "WNzBqvmbuUk",
+      "zeG73s5oUus",
+      "6XN88Krb_dA",
+      "lS-GHgtZmA0",
+      "t6-8f9DpL8I"
+    ]
   }
 ]
