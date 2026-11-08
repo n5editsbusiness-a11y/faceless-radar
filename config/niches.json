@@ -300,5 +300,23 @@
     "rpm": { "low": 2, "high": 6, "sources": [
       { "label": "YouTubeNiches", "url": "https://youtubeniches.com/blog/how-much-money-ai-youtube-channels-make" } ],
       "note": "Source figure covers AI-generated gaming content." }
+  },
+  {
+    "id": "ev-green-tech", "name": "Electric vehicles and green tech", "group": "Tech",
+    "description": "Narrated explainers on electric cars, batteries, solar and clean-energy projects, built from footage, diagrams and animation.",
+    "queries": ["electric vehicle explained", "how ev batteries work", "solar and clean energy explained"],
+    "rpm": { "low": 8, "high": 18, "sources": [
+      { "label": "OutlierKit", "url": "https://alpha.outlierkit.com/resources/articles/top-10-most-profitable-youtube-niches-in-2026/" } ],
+      "note": "Single source; it calls its own figures directional estimates." }
+  },
+  {
+    "id": "travel-guides", "name": "Narrated travel guides", "group": "Life and audio",
+    "description": "Destination guides and hidden-place roundups narrated over drone, stock or AI-generated footage.",
+    "queries": ["travel guide documentary", "best places to visit", "hidden gems travel"]
+  },
+  {
+    "id": "hands-only-cooking", "name": "Hands-only cooking", "group": "Life and audio",
+    "description": "Recipe videos that show only hands and food, with no talking or with text overlays.",
+    "queries": ["asmr cooking no talking", "silent cooking video", "easy recipe step by step"]
   }
 ]

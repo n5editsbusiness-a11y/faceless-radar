@@ -48,5 +48,55 @@
    "\"<subject> in <year> — 4K Restored Film Documentary\" for archival footage"
   ],
   "updatedOn": "2026-11-07"
+ },
+ "animal-facts": {
+  "summary": "Titles only; thumbnails could not be viewed today. 67% of 40 channels have a breakout, typical best outlier is 13x and 55% are small. 4 of the top 12 titles are Hindi or Urdu, so English-language demand may be thinner than it looks.",
+  "titlePatterns": [
+   "\"Why We Don't Eat <animal> Meat?\", e.g. \"Why We Don't Eat Hippo Meat?\" (2 of the top 12)",
+   "Number plus a fight outcome: \"10 Times Wild Animals Destroyed Lions\"",
+   "Number, danger word and place: \"18 Deadliest Animals of the Congo Basin\"",
+   "Odd animals with one capitalised word: \"Animals Born Looking Like MUTANTS Explained\""
+  ],
+  "updatedOn": "2026-11-08"
+ },
+ "psychology": {
+  "summary": "Titles only; thumbnails could not be viewed today. 82% of 38 channels have a breakout, typical best outlier is 18.6x and 66% are small. 4 of the top 12 titles are in Hindi script, so check the language of a format before copying it.",
+  "titlePatterns": [
+   "\"Psychology of <people or trait>\", e.g. \"Psychology of people who never post on Social Media\"",
+   "\"Psychology Facts That Will <verb> Your <noun>\", e.g. \"Psychology Facts That Will Instantly BRIGHTEN Your Day\"",
+   "Colon, then a promise: \"The Psychology of Character: How You Become the Person You Repeatedly Practice Being.\"",
+   "Hindi hook plus English tail: \"14 Habits That Make People Dislike You\""
+  ],
+  "updatedOn": "2026-11-08"
+ },
+ "dinosaurs-prehistory": {
+  "summary": "Titles only; thumbnails could not be viewed today. 80% of 40 channels have a breakout and typical best outlier is 15.2x. Primordia (15,700 subscribers) holds 3 of the top 12 videos. 3 of the 12 are not prehistory content: two creature-fiction stories and a Minions clip reel.",
+  "titlePatterns": [
+   "Myth-busting reversal: \"The Real T. Rex Was More Disturbing Than the Movies\"",
+   "Worse-than-you-think reveal: \"The Last Hours of the Dinosaurs Were Worse Than We Thought\"",
+   "Second-person survival question: \"How Long Would You Survive in Every Prehistoric Era?\"",
+   "First-person time travel: \"I Survived the Ice Age… Barely\""
+  ],
+  "updatedOn": "2026-11-08"
+ },
+ "nature-wildlife": {
+  "summary": "Titles only; thumbnails could not be viewed today. Highest breakout rate of the five niches reviewed today at 85% of 40 channels; typical best outlier 19.2x, 60% are small. Wildlife Ethology holds 4 of the top 12 videos, 5 titles carry a documentary tag and 2 are Shorts.",
+  "titlePatterns": [
+   "Two-sentence setup, then a tag: \"The Snake Had Deadly Venom. The Roadrunner Had a Plan | Nature Documentary\"",
+   "Predator versus prey: \"Snow Leopard vs Mother Ibex and Her Baby on a Deadly Cliff\"",
+   "Choice with a consequence: \"The Baboons Chose the Wrong Prey… And Paid the Price\"",
+   "Shorts name one surprising act: \"Honey Badger Was Covered With Thousands of Ticks - Then This Mongoose Did Something Unbelievable!\""
+  ],
+  "updatedOn": "2026-11-08"
+ },
+ "philosophy-stoicism": {
+  "summary": "Titles only; thumbnails could not be viewed today. Highest typical best outlier of the five niches reviewed today at 25.9x; 77% of 35 channels have a breakout and 71% are small. 9 of the top 12 titles address older men or what women notice in men.",
+  "titlePatterns": [
+   "\"<N> Reasons To Never <do X> (Stoic Wisdom)\", e.g. \"6 Reasons To Never Have A Girlfriend After 50 And 60 (Stoic Wisdom)\"",
+   "\"<N> Stoic Habits That Will Put You Ahead of 99% of People\"",
+   "Capitalised command: \"EVERY OLDER MAN SHOULD WATCH THIS VIDEO\", then keyword tags",
+   "Pipe-separated keyword tags at the end, e.g. \"| Female Psychology | Stoicism\""
+  ],
+  "updatedOn": "2026-11-08"
  }
 }
