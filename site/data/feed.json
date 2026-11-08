@@ -1,5 +1,71 @@
 [
   {
+    "date": "2026-11-08",
+    "type": "new_niche",
+    "nicheId": "no-code-automation",
+    "title": "New niche tracked: No-code and automation tutorials",
+    "text": "Screen-recorded walkthroughs of workflow automations and no-code app builders, narrated by voiceover."
+  },
+  {
+    "date": "2026-11-08",
+    "type": "new_niche",
+    "nicheId": "robotics-humanoids",
+    "title": "New niche tracked: Robotics and humanoid news",
+    "text": "News and explainers on humanoid robots and robotics companies, built from demo footage and narration."
+  },
+  {
+    "date": "2026-11-08",
+    "type": "new_niche",
+    "nicheId": "archival-restoration",
+    "title": "New niche tracked: Restored archival footage",
+    "text": "Colorized and upscaled historical film with light narration or period audio."
+  },
+  {
+    "date": "2026-11-08",
+    "type": "breakout",
+    "videoId": "5TGXHlw_fR0",
+    "channelId": "UCSMOpE221C-MWBAvyC7Gp7A",
+    "nicheId": "reddit-stories",
+    "title": "I Married a Poor Mechanic—Then His Daughter Asked, “Can We Take Her to Our Real House?”",
+    "text": "3696.1x the channel's typical views"
+  },
+  {
+    "date": "2026-11-08",
+    "type": "breakout",
+    "videoId": "P3b-Ib7cTYE",
+    "channelId": "UCgTJbCD26j2cxQ6v99-y1Ew",
+    "nicheId": "space-astronomy",
+    "title": "How Did Ancient Humans Get Any Privacy?",
+    "text": "752.3x the channel's typical views"
+  },
+  {
+    "date": "2026-11-08",
+    "type": "breakout",
+    "videoId": "y7Dpb8VtGLE",
+    "channelId": "UC_jFZ3UhmN8PDSvZP6B_plw",
+    "nicheId": "disasters",
+    "title": "What Happened Before the Florida Learjet Crash?",
+    "text": "616.5x the channel's typical views"
+  },
+  {
+    "date": "2026-11-08",
+    "type": "breakout",
+    "videoId": "QisbCQTNzus",
+    "channelId": "UC44IleNLwqKs0i5xZgGGMkA",
+    "nicheId": "philosophy-stoicism",
+    "title": "EVERY OLDER MAN SHOULD WATCH THIS VIDEO ｜ Female Psychology ｜ Stoicism",
+    "text": "318.4x the channel's typical views"
+  },
+  {
+    "date": "2026-11-08",
+    "type": "breakout",
+    "videoId": "hG4ROPDeLc8",
+    "channelId": "UCMs220mgLmO8sDt_IN0mbnw",
+    "nicheId": "disasters",
+    "title": "How Is Concrete Poured Underwater?",
+    "text": "295x the channel's typical views"
+  },
+  {
     "date": "2026-11-07",
     "type": "breakout",
     "videoId": "DEWoZzHh9c8",
