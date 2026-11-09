@@ -1,5 +1,71 @@
 [
   {
+    "date": "2026-11-09",
+    "type": "new_niche",
+    "nicheId": "ev-green-tech",
+    "title": "New niche tracked: Electric vehicles and green tech",
+    "text": "Narrated explainers on electric cars, batteries, solar and clean-energy projects, built from footage, diagrams and animation."
+  },
+  {
+    "date": "2026-11-09",
+    "type": "new_niche",
+    "nicheId": "travel-guides",
+    "title": "New niche tracked: Narrated travel guides",
+    "text": "Destination guides and hidden-place roundups narrated over drone, stock or AI-generated footage."
+  },
+  {
+    "date": "2026-11-09",
+    "type": "new_niche",
+    "nicheId": "hands-only-cooking",
+    "title": "New niche tracked: Hands-only cooking",
+    "text": "Recipe videos that show only hands and food, with no talking or with text overlays."
+  },
+  {
+    "date": "2026-11-09",
+    "type": "breakout",
+    "videoId": "Szd5g7vt8R8",
+    "channelId": "UC_9A1c12YJXjADklUU2MVug",
+    "nicheId": "aviation",
+    "title": "The Last 77 Seconds of the Florida Learjet 60 Before The Crash",
+    "text": "17517.5x the channel's typical views"
+  },
+  {
+    "date": "2026-11-09",
+    "type": "breakout",
+    "videoId": "b8nwWnmz_p0",
+    "channelId": "UCccISByWliyI6NvykVgbePg",
+    "nicheId": "lofi-study-music",
+    "title": "Heartbreaking 💔 songs + lofi Mashup songs Slowed Reverb songs Arijit singsong.  ",
+    "text": "1899.9x the channel's typical views"
+  },
+  {
+    "date": "2026-11-09",
+    "type": "breakout",
+    "videoId": "tqD7QfOoRPg",
+    "channelId": "UCFTt9fF6TqP83tm9j5AkkHg",
+    "nicheId": "lofi-study-music",
+    "title": "Heart Touching Punjabi song 🎧 | Deep Feelings & Sad Vibes 🥀 | Lofi Saaz 🌙 | Soulful Music",
+    "text": "852.6x the channel's typical views"
+  },
+  {
+    "date": "2026-11-09",
+    "type": "breakout",
+    "videoId": "3lPS7OZgtVo",
+    "channelId": "UCk8EZaxKvAi1a5AEe4Hobmg",
+    "nicheId": "investing-stocks",
+    "title": "Muhurat Trading Campaign by Motilal Oswal #NayiShuruaatResearchKeSaath",
+    "text": "804.6x the channel's typical views"
+  },
+  {
+    "date": "2026-11-09",
+    "type": "breakout",
+    "videoId": "rEOs0DBqiFM",
+    "channelId": "UCDMQy7j6Zr4q-8_Qan7A5_w",
+    "nicheId": "business-case-studies",
+    "title": "The Craziest Lawsuits In History😳 #history #lawsuit #interestingfacts #teslaroadster #facts #shorts",
+    "text": "674.4x the channel's typical views"
+  },
+  {
     "date": "2026-11-08",
     "type": "new_niche",
     "nicheId": "no-code-automation",
