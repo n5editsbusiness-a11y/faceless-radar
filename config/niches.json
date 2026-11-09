@@ -318,5 +318,20 @@
     "id": "hands-only-cooking", "name": "Hands-only cooking", "group": "Life and audio",
     "description": "Recipe videos that show only hands and food, with no talking or with text overlays.",
     "queries": ["asmr cooking no talking", "silent cooking video", "easy recipe step by step"]
+  },
+  {
+    "id": "retirement-planning", "name": "Retirement planning", "group": "Money",
+    "description": "Retirement math, Social Security timing and early-retirement planning explained with calculators, charts and slides.",
+    "queries": ["retirement planning explained", "how much do you need to retire", "social security claiming strategy"]
+  },
+  {
+    "id": "coding-tutorials", "name": "Coding tutorials", "group": "Tech",
+    "description": "Screen-recorded build guides and crash courses for specific programming languages and tech stacks.",
+    "queries": ["python tutorial for beginners", "build a project tutorial react", "learn sql in one video"]
+  },
+  {
+    "id": "hands-only-crafts", "name": "Hands-only crafts and repair", "group": "Life and audio",
+    "description": "Bookbinding, watch repair and restoration videos that show only hands and tools, with ambient sound or music.",
+    "queries": ["bookbinding asmr", "watch repair restoration", "silent restoration video"]
   }
 ]

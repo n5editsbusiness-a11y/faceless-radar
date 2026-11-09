@@ -98,5 +98,55 @@
    "Pipe-separated keyword tags at the end, e.g. \"| Female Psychology | Stoicism\""
   ],
   "updatedOn": "2026-11-08"
+ },
+ "lofi-study-music": {
+  "summary": "Titles only; thumbnails could not be viewed today. 40 channels, 44% have a breakout, 98% are small channels. 5 of the top 12 videos reuse one near-identical \"SAD LO-FI ... 2026 Ultimate Mind Relaxing Lofi Beats\" title across 4 channels, so treat the multiples as provisional.",
+  "titlePatterns": [
+   "\"SAD LO-FI 2026 Ultimate Mind Relaxing Lofi Beats | Study Sleep & Chill\", reused by several channels",
+   "\"<Song or figure> Lofi Song | <tagline> | Powerful Lofi Music\", e.g. \"Maharana Pratap Lofi Song | Rajputana Attitude\"",
+   "\"<Song name> Slowed + Reverb | Best Hindi Lofi Song\", e.g. \"Tari Meri Khani Slowed + Reverb\"",
+   "\"STUDY MUSIC (SLOWED+REVERB)\" followed by a block of hashtags"
+  ],
+  "updatedOn": "2026-11-09"
+ },
+ "sleep-ambient": {
+  "summary": "Titles only; thumbnails could not be viewed today. 38 channels, 62% breakout rate, typical best outlier 14.9x. Of the top 12 videos, 4 are baby lullabies, 3 are Chhath puja \"relaxing\" songs and 3 reuse the \"2026 Ultimate Mind Relaxing Lofi Beats\" title.",
+  "titlePatterns": [
+   "\"<Name>'s Moonlight Lullaby | Baby Sleep Music & Bedtime Lullaby\"",
+   "\"Lullaby for Babies | Sweet Dreams on an Autumn Night | Baby Sleep Song\"",
+   "\"Chhath puja relaxing song (deep sleep)\" followed by hashtags",
+   "\"2026 Ultimate Mind Relaxing Lofi Beats | Study, Sleep & Chill\""
+  ],
+  "updatedOn": "2026-11-09"
+ },
+ "motivation": {
+  "summary": "Titles only; thumbnails could not be viewed today. 40 channels, 68% breakout rate, typical best outlier 9.8x, 37% of uploads are Shorts. Top 12 split into 3 movie or celebrity clip edits, 4 motivational rap songs and 5 Hindi or Islamic quote videos.",
+  "titlePatterns": [
+   "\"<Theme> motivation from <film character> | <film title>\", e.g. \"Study motivation from Elle Woods | Legally Blonde\"",
+   "\"<Quote or line> | <celebrity name>\", e.g. \"I Was Losing Myself | Tom Holland\"",
+   "\"<Artist> - <SONG TITLE> | Emotional Motivational Rap Song\"",
+   "\"Motivational Islamic Quotes | Golden Words | Rumi Quotes\""
+  ],
+  "updatedOn": "2026-11-09"
+ },
+ "no-code-automation": {
+  "summary": "Titles only; thumbnails could not be viewed today. 35 channels, 37% breakout rate, typical best outlier 3.6x, 66% small channels. None of the top 12 titles names n8n, Make or Zapier; they are mostly AI tool news and tests, led by 4 videos from Julian Goldie Rundown.",
+  "titlePatterns": [
+   "\"<Company> New AI Upgrades Are Absolutely CRAZY!\" with an intensity word (CRAZY, WILD, INSANE)",
+   "\"I Tested <tool A> vs <tool B> (Honest Results)\"",
+   "\"I Built a <use case> for a <client type> | Real Client Case Study\"",
+   "\"Running <thing> Isn't Safe — Here's Why\""
+  ],
+  "updatedOn": "2026-11-09"
+ },
+ "gaming-lore": {
+  "summary": "Titles only; thumbnails could not be viewed today. 35 channels, 59% breakout rate, typical best outlier 5.2x. 6 of the top 12 videos come from Think Story (ending and episode explainers) and 5 from Pixden (Street Fighter lore), so two channels set the picture.",
+  "titlePatterns": [
+   "\"<Title> Ending Explained!\", e.g. \"CRYSTAL LAKE Ending Explained!\"",
+   "\"<Character>: The Complete Story | <Game>\", e.g. \"Akuma: The Complete Story | Street Fighter\"",
+   "\"<Game> Lore Explained in Under 15 Minutes\"",
+   "\"<Title> FULL Story Explained!\", e.g. \"Terrible Lizards FULL Story Explained!\""
+  ],
+  "updatedOn": "2026-11-09"
  }
 }

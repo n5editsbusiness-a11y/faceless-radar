@@ -1,14 +1,14 @@
 {
- "date": "2026-11-08",
- "headline": "Wildlife clip hits 2,645.9x as animal and psychology niches get scored",
+ "date": "2026-11-09",
+ "headline": "Aviation breakout hits 17,517.5x as five more niches get a full sample",
  "paragraphs": [
-  "Today's run filled in niches that had 0 to 9 channels yesterday: animal-facts 0 to 40, psychology 0 to 38, space-astronomy 9 to 40. Space-astronomy 35 to 84 and disasters 40 to 80 reflect larger samples, not a market shift. Top scores: real estate investing 94, personal finance 92, mythology 90.",
-  "Breakouts in newly scored niches: Wildlife Ethology's roadrunner video (2,645.9x, 5,988,916 views, 7,480 subscribers) and Primordia's T. rex video (925x, 2,913,595 views). Philosophy and Stoicism has the highest typical best outlier of the five niches noted today, 25.9x.",
-  "Five more Hindi-language channels were flagged and will be dropped, among them MURMURAVI11 (52,759x). Added three niches to track: ev-green-tech, travel-guides and hands-only-cooking, from 2026 roundups, not this week's data. Verdicts rely on titles; thumbnails did not load."
+  "Biggest score moves since yesterday: motivation 13 to 86 (5 to 40 channels) and top-10-facts 55 to 86 (6 to 34). Reddit-stories rose 81 to 89. Newly scored: robotics-humanoids 83, sleep-ambient 82, lofi-study-music 79, no-code-automation 78. These reflect larger samples, not a market shift.",
+  "Top breakout: TALEYE's Florida Learjet 60 video in aviation, 17,517.5x its channel's typical views (4,414,405 views, 3,750 subscribers). Axiom Void's Voyager 1 video hit 2,133.9x with 735 subscribers. Lofi multiples up to 61,249x come from tiny baselines; treat them as provisional.",
+  "Added three niches to track: retirement-planning, coding-tutorials and hands-only-crafts, taken from 2026 roundups (OutlierKit, Opus), not this week's data. Thumbnails did not load, so only 2 channel verdicts, no thumbnail tags, and titles-only niche notes."
  ],
  "watch": [
-  "nature-wildlife",
-  "dinosaurs-prehistory",
-  "philosophy-stoicism"
+  "aviation",
+  "top-10-facts",
+  "motivation"
  ]
 }
