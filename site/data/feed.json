@@ -1,5 +1,71 @@
 [
   {
+    "date": "2026-11-10",
+    "type": "new_niche",
+    "nicheId": "retirement-planning",
+    "title": "New niche tracked: Retirement planning",
+    "text": "Retirement math, Social Security timing and early-retirement planning explained with calculators, charts and slides."
+  },
+  {
+    "date": "2026-11-10",
+    "type": "new_niche",
+    "nicheId": "coding-tutorials",
+    "title": "New niche tracked: Coding tutorials",
+    "text": "Screen-recorded build guides and crash courses for specific programming languages and tech stacks."
+  },
+  {
+    "date": "2026-11-10",
+    "type": "new_niche",
+    "nicheId": "hands-only-crafts",
+    "title": "New niche tracked: Hands-only crafts and repair",
+    "text": "Bookbinding, watch repair and restoration videos that show only hands and tools, with ambient sound or music."
+  },
+  {
+    "date": "2026-11-10",
+    "type": "breakout",
+    "videoId": "27Uwc-g9l9g",
+    "channelId": "UC_7QlkooWT2QAF1jBerWlKw",
+    "nicheId": "ev-green-tech",
+    "title": "Electric Cars का खेल खत्म? 😱 TESLA का बाप आ गया! | BYD 2100 KM Range Explained",
+    "text": "2234.8x the channel's typical views"
+  },
+  {
+    "date": "2026-11-10",
+    "type": "breakout",
+    "videoId": "yv0Omu_eqX0",
+    "channelId": "UC0n0BkBTbbVHqkY_80q88sw",
+    "nicheId": "archival-restoration",
+    "title": "Franz Reichelt: The Fatal Eiffel Tower Parachute Jump (1912) | HD Colorized Film & Photographs",
+    "text": "1215.2x the channel's typical views"
+  },
+  {
+    "date": "2026-11-10",
+    "type": "breakout",
+    "videoId": "F0ZbbVUAx3c",
+    "channelId": "UCZpk9Hr33dOAw3HIbqPyWPQ",
+    "nicheId": "robotics-humanoids",
+    "title": "503 km/h World Record - BYD Yangwang U9 Xtreme",
+    "text": "527.4x the channel's typical views"
+  },
+  {
+    "date": "2026-11-10",
+    "type": "breakout",
+    "videoId": "DTSIKoapRRw",
+    "channelId": "UCsgICdCqQ0XI2nlMUF_AAww",
+    "nicheId": "ev-green-tech",
+    "title": "\"मैंने 14 लाख का गधा खरीदा है\" 😳 Shocking Reality of Tata EV Service!",
+    "text": "274.9x the channel's typical views"
+  },
+  {
+    "date": "2026-11-10",
+    "type": "breakout",
+    "videoId": "rzAIapzHOZs",
+    "channelId": "UCDozW24w0nWJz_tPJZcXdFw",
+    "nicheId": "hands-only-cooking",
+    "title": "1990s Indian Village Life 🌾🍛 | Cooking Rajma Chawal, Chicken Farming & Egg Business 🐓🥚 2D Anime ASMR",
+    "text": "263.1x the channel's typical views"
+  },
+  {
     "date": "2026-11-09",
     "type": "new_niche",
     "nicheId": "ev-green-tech",
