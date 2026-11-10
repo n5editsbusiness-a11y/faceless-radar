@@ -148,5 +148,54 @@
    "\"<Title> FULL Story Explained!\", e.g. \"Terrible Lizards FULL Story Explained!\""
   ],
   "updatedOn": "2026-11-09"
+ },
+ "hands-only-crafts": {
+  "summary": "Titles only; thumbnails could not be viewed today. 29% of 40 channels have a 5x video, the lowest rate of any niche tracked. All 12 top videos are Shorts and the most-viewed has 32,097 views, so read the multiples as provisional.",
+  "titlePatterns": [
+   "\"Satisfying 3D Autumn <object> Craft ASMR | No Voiceover\", e.g. \"Satisfying 3D Autumn Terracotta Pumpkin Pot Craft ASMR | No Voiceover\"",
+   "\"Tiny <object> Machine Is So Satisfying\", e.g. \"Tiny Éclair Filling & Mirror-Glazing Machine Is So Satisfying\"",
+   "Hashtag stack after the title, e.g. \"#shorts #asmr #satisfying\""
+  ],
+  "updatedOn": "2026-11-10"
+ },
+ "archival-restoration": {
+  "summary": "Titles only; thumbnails could not be viewed today. 68% of 40 channels have a 5x video; typical best outlier is 10.7x. 10 of the top 12 videos come from channels under 100K subscribers and 2 of the 12 are Shorts.",
+  "titlePatterns": [
+   "\"<Event> (<year>) | HD Colorized Film & Photographs\", e.g. \"Franz Reichelt: The Fatal Eiffel Tower Parachute Jump (1912)\"",
+   "\"Life in <place> (<year>)\" with \"Rare Color Film\", e.g. \"Life in Florida (1941) Rare Color Film of Miami, Orlando and St. Augustine Before the War\"",
+   "\"Restored in Color\" or \"Restored in 4K\" tag, e.g. \"New York at Its Peak - Rare 1930s Footage | Restored in Color\"",
+   "Question hook about a first, e.g. \"The First F-Bomb Ever Recorded? | Hear the Original Audio from 1885\""
+  ],
+  "updatedOn": "2026-11-10"
+ },
+ "ev-green-tech": {
+  "summary": "Titles only; thumbnails could not be viewed today. 82% of 40 channels have a 5x video; typical best outlier is 10.8x. 4 of the top 12 videos have Hindi or Hinglish titles, so English-language demand is less clear than the multiples suggest.",
+  "titlePatterns": [
+   "\"Evolution of <product> <years>\", e.g. \"Evolution of Electric Cars 1985-2026: Battery Range Comparison!\"",
+   "\"<Brand> Unveils <superlative> <thing>\" in a Short, e.g. \"Tesla Unveils INSANELY EXTRAORDINARY FLYING ROADSTER #shorts\"",
+   "Owner-complaint question, e.g. \"No Solution From Service Center? Tata Owner Speaks Out\"",
+   "Number list with a long-term promise, e.g. \"15 Proven Secrets Habits To Make Your Car Last 500,000+ Miles\""
+  ],
+  "updatedOn": "2026-11-10"
+ },
+ "hands-only-cooking": {
+  "summary": "Titles only; thumbnails could not be viewed today. 76% of 39 channels have a 5x video; typical best outlier is 11.8x. In the top 12 videos, 9 titles say ASMR, 9 run 8 to 13 minutes, and the longer ones are mostly set in an Indian village, often in the 1980s or 1990s.",
+  "titlePatterns": [
+   "\"<Weather> Day in a 1990s Indian Village | <dish> | No Talking ASMR\", e.g. \"Rainy Day in a 1990s Indian Village Making Hot Parathas & Potato Curry | No Talking ASMR\"",
+   "\"<Time> at a <region> Village <place> | Cozy Anime ASMR\", e.g. \"4 AM at a South Indian Village Hotel | Cozy Anime ASMR\"",
+   "Miniature or tiny-scale cooking, e.g. \"Miniature ASMR Kerala Veg Biryani Rice | Tiny Doll Cooking\"",
+   "\"Catch <animal> And Cooking\" Short, e.g. \"Catch Big Giant Catfish And Cooking Asmr Cooking\""
+  ],
+  "updatedOn": "2026-11-10"
+ },
+ "retirement-planning": {
+  "summary": "Titles only; thumbnails could not be viewed today. 81% of 38 channels have a 5x video; typical best outlier is 10.9x. All 12 top videos are long-form (7 to 33 minutes, none are Shorts); 4 have Hindi titles, mostly Indian pension and fixed-deposit topics.",
+  "titlePatterns": [
+   "\"<Benefit> at <age>? <qualifier>\", e.g. \"Full Social Security at 60? New Bill Explained.\"",
+   "\"If Your IRA Is Under This Number, ...\", e.g. \"If Your IRA Is Under This Number, RMDs Barely Matter\"",
+   "\"Top 5 BEST <plan type> for <year>!\", e.g. \"Top 5 BEST Medicare Advantage Plans for 2027!\"",
+   "\"This Is The MINIMUM <income> EVERYONE Gets In <country>\", e.g. \"...Retirement Income EVERYONE Gets In Canada\""
+  ],
+  "updatedOn": "2026-11-10"
  }
 }

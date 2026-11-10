@@ -333,5 +333,20 @@
     "id": "hands-only-crafts", "name": "Hands-only crafts and repair", "group": "Life and audio",
     "description": "Bookbinding, watch repair and restoration videos that show only hands and tools, with ambient sound or music.",
     "queries": ["bookbinding asmr", "watch repair restoration", "silent restoration video"]
+  },
+  {
+    "id": "hyper-casual-mobile-gameplay", "name": "Mobile game playthroughs", "group": "Life and audio",
+    "description": "Commentary-free gameplay of simple mobile games, shown as screen recordings with game sound or music.",
+    "queries": ["satisfying mobile game gameplay", "hyper casual game gameplay no commentary", "relaxing mobile game playthrough"]
+  },
+  {
+    "id": "guided-prayers", "name": "Guided prayer and devotion", "group": "Life and audio",
+    "description": "Calm guided prayers and devotional readings narrated over still or slow-moving imagery.",
+    "queries": ["guided prayer for peace", "evening prayer before sleep"]
+  },
+  {
+    "id": "drone-light-shows", "name": "Drone and light shows", "group": "Life and audio",
+    "description": "Footage of drone shows and light festivals set to music or ambient sound, with no presenter.",
+    "queries": ["drone light show", "light festival 4k"]
   }
 ]
