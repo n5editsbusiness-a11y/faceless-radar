@@ -197,5 +197,54 @@
    "\"This Is The MINIMUM <income> EVERYONE Gets In <country>\", e.g. \"...Retirement Income EVERYONE Gets In Canada\""
   ],
   "updatedOn": "2026-11-10"
+ },
+ "drone-light-shows": {
+  "summary": "Titles only; thumbnails could not be viewed today. 83% of 40 channels have a 5x video; typical best outlier is 16.5x. 21 of 40 channels have under 100K subscribers. 3 of the top 12 videos are off-topic (a basketball practice, a clothing-wholesale vlog), so read as provisional.",
+  "titlePatterns": [
+   "\"<N> Drone Show in <place> Honors <person>\", e.g. \"Emotional 500 Drone Show in Argentina Honors Lionel Messi\"",
+   "Franchise tie-in plus the show name, e.g. \"AVENGERS ASSEMBLE! | MARVEL SPECIAL 2026 Hangang Drone Light Show\"",
+   "\"<Character or team> Drone Show at <venue>\", e.g. \"Godzilla Drone Show at Dodger Stadium\"",
+   "\"<Festival> <year> Drone Show\", e.g. \"Mysuru Dasara 2026 Drone Show\""
+  ],
+  "updatedOn": "2026-11-11"
+ },
+ "hyper-casual-mobile-gameplay": {
+  "summary": "Titles only; thumbnails could not be viewed today. 60% of 40 channels have a 5x video; typical best outlier is 8.1x. 33 of 40 channels have under 100K subscribers. 5 of the top 12 videos are numbered episodes of one Android cooking-game series.",
+  "titlePatterns": [
+   "Numbered series with a genre label, e.g. \"Ultimate Kitchen Cooking Challenge | Satisfying DIY Food Making Game 3D | Android Gameplay #13\"",
+   "Walkthrough part number plus platforms, e.g. \"Snow Race 3D! - Gameplay Walkthrough Part 19 (iOS, Android)\"",
+   "Character-versus-character Shorts, e.g. \"Hulk vs Spider-Man vs Jake Subway Surfers Gameplay! Who Runs the Furthest?\"",
+   "Stacked hashtags in the title, e.g. \"Super satisfying #shorts #brawlstars #streamer\""
+  ],
+  "updatedOn": "2026-11-11"
+ },
+ "guided-prayers": {
+  "summary": "Titles only; thumbnails could not be viewed today. Only 25% of 40 channels have a 5x video and the median top outlier is 0. One channel, GUIDED PRAYER (128,000 subscribers), holds 6 of the top 12 videos, all about 3 minutes long.",
+  "titlePatterns": [
+   "\"Morning Prayer: God, <request>\" plus a verse, e.g. \"Morning Prayer: God, Fight My Battles | Exodus 14:14\"",
+   "\"Start Your <day or week> With God\", e.g. \"Morning Prayer: God, Thank You for This New Week | Start Your Week With God\"",
+   "\"A Guided Prayer\" as a suffix, e.g. \"Help Me Love Like Jesus | A Guided Prayer\"",
+   "Mantra with a length, e.g. \"Powerful Lakshmi Narayan Mantra | 21 Minutes of Divine Blessings\""
+  ],
+  "updatedOn": "2026-11-11"
+ },
+ "robotics-humanoids": {
+  "summary": "Titles only; thumbnails could not be viewed today. 76% of 40 channels have a 5x video; typical best outlier is 12.7x, but only 7 channels have under 100K subscribers. Only 3 of the top 12 videos are about robots; the rest are news or cars, so read as provisional.",
+  "titlePatterns": [
+   "\"First <event> in History\", e.g. \"First Human VS. Robot Fight in History (FULL LENGTH)\"",
+   "\"<Country>'s New <robot> Will/Is <big claim>\", e.g. \"Japan's New Female Robot Will Make You Question Reality\"",
+   "Price in the title, e.g. \"China's New $7,999 Female Robot Is Already Changing the World Forever\""
+  ],
+  "updatedOn": "2026-11-11"
+ },
+ "coding-tutorials": {
+  "summary": "Titles only; thumbnails could not be viewed today. 71% of 38 channels have a 5x video; typical best outlier is 6.5x. 12 of 38 channels have under 100K subscribers. 5 of the top 12 titles say \"Beginners\" or \"2026\"; AI topics lead.",
+  "titlePatterns": [
+   "\"<Topic> Tutorial for Beginners: <project> (2026)\", e.g. \"RAG Tutorial for Beginners: Free Python Chatbot (2026)\"",
+   "\"N <things> That Feel Illegal to Know\", e.g. \"5 Python Libraries That Feel Illegal to Know\"",
+   "\"Why <X> Is Moving to <Y>\", e.g. \"Why AI Infrastructure Is Moving to Rust\"",
+   "\"Build Your First <thing> in N Minutes\", e.g. \"Build Your First AI Agent in 10 Minutes - No Coding\""
+  ],
+  "updatedOn": "2026-11-11"
  }
 }

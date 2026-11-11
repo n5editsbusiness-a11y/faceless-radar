@@ -406,6 +406,51 @@
    "english": false,
    "note": "Hindi-language titles (Devanagari script)",
    "reviewedOn": "2026-11-10"
+  },
+  "UCSMOpE221C-MWBAvyC7Gp7A": {
+   "faceless": true,
+   "note": "Revenge-story narrations, no presenter named in titles; titles only, thumbnails not viewed",
+   "reviewedOn": "2026-11-11"
+  },
+  "UCotE0z3LPEoe7VfPjSX8eig": {
+   "faceless": true,
+   "note": "Ancient-history facts, no presenter named in titles; titles only, thumbnails not viewed",
+   "reviewedOn": "2026-11-11"
+  },
+  "UCF4qs8-mzaF5rAOmAWWpHYA": {
+   "faceless": true,
+   "note": "Old-village documentary titles, no presenter named; titles only, thumbnails not viewed",
+   "reviewedOn": "2026-11-11"
+  },
+  "UCDAuzvdB34XG3w3nK13Dq9w": {
+   "faceless": true,
+   "note": "Drone-show footage from a drone-show company; titles only, thumbnails not viewed",
+   "reviewedOn": "2026-11-11"
+  },
+  "UCnNcjqrXZqoZlTDMhpdJ6Mg": {
+   "faceless": true,
+   "note": "Space-fact explainers, no presenter named in titles; titles only, thumbnails not viewed",
+   "reviewedOn": "2026-11-11"
+  },
+  "UCUo1iQtUpFirf2I607cXQYw": {
+   "faceless": true,
+   "note": "Ice Age and early-human documentaries, no presenter named; titles only, thumbnails not viewed",
+   "reviewedOn": "2026-11-11"
+  },
+  "UCk8EZaxKvAi1a5AEe4Hobmg": {
+   "faceless": false,
+   "note": "Titles name an on-camera interview (CNBC-Awaaz, Raamdeo Agrawal); titles only, thumbnails not viewed",
+   "reviewedOn": "2026-11-11"
+  },
+  "UCZUPZW5idAxYp-Asj__lVAA": {
+   "english": false,
+   "note": "Korean-language titles (Hangul)",
+   "reviewedOn": "2026-11-11"
+  },
+  "UCSP-P3FOjIDueLtzyJJn9mw": {
+   "english": false,
+   "note": "Hindi tutorials in Roman script (\"Kaise Banaye\")",
+   "reviewedOn": "2026-11-11"
   }
  },
  "videos": {}

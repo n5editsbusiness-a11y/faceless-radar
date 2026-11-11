@@ -348,5 +348,20 @@
     "id": "drone-light-shows", "name": "Drone and light shows", "group": "Life and audio",
     "description": "Footage of drone shows and light festivals set to music or ambient sound, with no presenter.",
     "queries": ["drone light show", "light festival 4k"]
+  },
+  {
+    "id": "cybersecurity-tips", "name": "Cybersecurity tips", "group": "Tech",
+    "description": "Slide-and-voiceover guides to staying safe online: passwords, scams, privacy and device security.",
+    "queries": ["cybersecurity tips for beginners", "how to stay safe online", "protect yourself from scams"]
+  },
+  {
+    "id": "smart-home-reviews", "name": "Smart home reviews", "group": "Tech",
+    "description": "Voiceover reviews and setup guides for smart-home devices, built from product B-roll and screen recordings.",
+    "queries": ["smart home gadgets review", "best smart home devices", "smart home setup guide"]
+  },
+  {
+    "id": "career-resume-tips", "name": "Career and resume tips", "group": "Money",
+    "description": "Screen-recorded and slide-based advice on resumes, interviews and career moves, narrated by voiceover.",
+    "queries": ["resume tips", "job interview tips", "career advice for beginners"]
   }
 ]
