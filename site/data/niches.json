@@ -163,8 +163,8 @@
     "metrics": {
       "channels": 40,
       "opportunity": 87,
-      "breakoutRate": 0.77,
-      "medianTopOutlier": 12.3,
+      "breakoutRate": 0.72,
+      "medianTopOutlier": 12.1,
       "smallChannelShare": 0.4,
       "bigChannelShare": 0.23,
       "newcomerRate": 1,
@@ -179,12 +179,12 @@
       "YX8nziy5bgw",
       "twG8DVGt90s",
       "GWuaeIx49jI",
-      "_2jhDuTh6Oc",
       "Uu5gNtHsEI4",
+      "_2jhDuTh6Oc",
       "yzIw54gIJZI",
       "WfsTdodzSFk",
       "6f5rmIYBERY",
-      "kQ0mcaShcjA"
+      "wzpRlctqx6w"
     ]
   },
   {
@@ -205,13 +205,13 @@
     "firstSeen": "2026-11-06",
     "metrics": {
       "channels": 40,
-      "opportunity": 80,
-      "breakoutRate": 0.68,
-      "medianTopOutlier": 12.7,
+      "opportunity": 71,
+      "breakoutRate": 0.38,
+      "medianTopOutlier": 1.6,
       "smallChannelShare": 0.9,
       "bigChannelShare": 0.05,
       "newcomerRate": 0.3,
-      "uploadsPerWeek": 2.4,
+      "uploadsPerWeek": 2.6,
       "shortsShare": 0.24,
       "confidence": "high"
     },
@@ -221,8 +221,8 @@
       "IdoJEiYNnBg",
       "8xTuK696x9o",
       "NRkMEK3UDbg",
-      "e_GP3MA9TK4",
       "N6GHl_EUatA",
+      "e_GP3MA9TK4",
       "hktE90ZhkTI",
       "iGvlOduDAGo",
       "ehiR8OXJXYg",
@@ -240,7 +240,7 @@
     "metrics": {
       "channels": 40,
       "opportunity": 85,
-      "breakoutRate": 0.61,
+      "breakoutRate": 0.64,
       "medianTopOutlier": 7.5,
       "smallChannelShare": 0.4,
       "bigChannelShare": 0.33,
@@ -254,14 +254,14 @@
       "YqAiWBFwbpg",
       "bbVbFGQqgoo",
       "XeufRgSGH84",
-      "xDSpd_dx28w",
       "4MHnH_z-WO0",
       "V-LjKvrycDc",
-      "eKME1vhLQGs",
+      "xDSpd_dx28w",
       "dGr1Di2Gl9Q",
+      "eKME1vhLQGs",
       "U61rf_DmMYM",
-      "XgIo6SrSxS4",
-      "v1oGptf88TA"
+      "PPTdq0GubA4",
+      "XgIo6SrSxS4"
     ]
   },
   {
@@ -284,8 +284,8 @@
     "metrics": {
       "channels": 40,
       "opportunity": 62,
-      "breakoutRate": 0.65,
-      "medianTopOutlier": 6,
+      "breakoutRate": 0.6,
+      "medianTopOutlier": 5.7,
       "smallChannelShare": 0.57,
       "bigChannelShare": 0.18,
       "newcomerRate": 0,
@@ -295,17 +295,17 @@
     },
     "topVideoIds": [
       "ZPMYVGgt-4s",
-      "3-iufZ8Oj98",
-      "9Bv4NAoQjco",
-      "g-8I_cZhCM4",
-      "MS1i6HOtg7Q",
       "yNGZc9JJ0Pg",
-      "xTtlzmsDcQE",
+      "MS1i6HOtg7Q",
+      "3-iufZ8Oj98",
+      "g-8I_cZhCM4",
+      "9Bv4NAoQjco",
+      "cjuc_cDidFk",
+      "GCuC9QfpnqI",
       "5B9_dIU4S5I",
       "Q3NGKDrJfQI",
       "n5aLodVnpJI",
-      "GCuC9QfpnqI",
-      "GkZzxAfRMxE"
+      "xTtlzmsDcQE"
     ]
   },
   {
@@ -327,8 +327,8 @@
     "metrics": {
       "channels": 40,
       "opportunity": 88,
-      "breakoutRate": 0.65,
-      "medianTopOutlier": 9.3,
+      "breakoutRate": 0.63,
+      "medianTopOutlier": 6.8,
       "smallChannelShare": 0.25,
       "bigChannelShare": 0.25,
       "newcomerRate": 1,
@@ -337,18 +337,18 @@
       "confidence": "high"
     },
     "topVideoIds": [
-      "v9nIes2yciM",
       "4z2i6UsQG1k",
-      "HzXD4GVqXwM",
+      "v9nIes2yciM",
+      "prNgebOBzRY",
       "RcQdXBmHZsU",
-      "-pp851qDmOY",
       "l7ZE9Tgel7Q",
-      "Vtl1CrwOt6o",
+      "-pp851qDmOY",
       "1UNlNYyMR70",
+      "HzXD4GVqXwM",
+      "q1IwR88mhaA",
       "S_W4OSuh2Aw",
-      "UNWHqu1dtLU",
       "7ReHiROdPbE",
-      "prNgebOBzRY"
+      "u4aEiSE9bQ8"
     ]
   },
   {
@@ -369,15 +369,15 @@
     },
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 39,
+      "channels": 40,
       "opportunity": 51,
-      "breakoutRate": 0.76,
-      "medianTopOutlier": 11.5,
+      "breakoutRate": 0.72,
+      "medianTopOutlier": 9.9,
       "smallChannelShare": 0.13,
-      "bigChannelShare": 0.67,
+      "bigChannelShare": 0.68,
       "newcomerRate": 0,
       "uploadsPerWeek": 12.5,
-      "shortsShare": 0.39,
+      "shortsShare": 0.37,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -390,9 +390,9 @@
       "5--Q4m3ZcxY",
       "wmVXAcKv1bY",
       "A5YuOOfKiPA",
+      "D9jCiA9b1wk",
       "NVBFTxJsDhQ",
-      "eKBif68RP7E",
-      "rb4CTZjHCNg"
+      "eKBif68RP7E"
     ]
   },
   {
@@ -414,14 +414,14 @@
     "firstSeen": "2026-11-06",
     "metrics": {
       "channels": 40,
-      "opportunity": 64,
-      "breakoutRate": 0.77,
-      "medianTopOutlier": 11.5,
+      "opportunity": 46,
+      "breakoutRate": 0.27,
+      "medianTopOutlier": 0,
       "smallChannelShare": 0.8,
       "bigChannelShare": 0.1,
       "newcomerRate": 0.08,
-      "uploadsPerWeek": 2.9,
-      "shortsShare": 0.39,
+      "uploadsPerWeek": 3.2,
+      "shortsShare": 0.38,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -432,11 +432,11 @@
       "LeJHq_TRGcQ",
       "Sq8Ejev2o1s",
       "9WmaK_wBU2o",
-      "LBiHsT_id58",
       "Iu6-3PymbK4",
-      "xID6kZlK7zk",
-      "_-pE_NnzYDs",
-      "mxzyIfBB7Yw"
+      "LBiHsT_id58",
+      "mxzyIfBB7Yw",
+      "OOL8MXoFAVA",
+      "xID6kZlK7zk"
     ]
   },
   {
@@ -449,12 +449,12 @@
     "metrics": {
       "channels": 40,
       "opportunity": 87,
-      "breakoutRate": 0.7,
-      "medianTopOutlier": 9.1,
+      "breakoutRate": 0.65,
+      "medianTopOutlier": 8.8,
       "smallChannelShare": 0.4,
       "bigChannelShare": 0.2,
       "newcomerRate": 0.83,
-      "uploadsPerWeek": 2.2,
+      "uploadsPerWeek": 2.3,
       "shortsShare": 0.23,
       "confidence": "high"
     },
@@ -462,15 +462,15 @@
       "g3VnWOVFaaM",
       "obXqrdmlEE0",
       "5KDsCvPUtw4",
+      "rmDtJAU73lA",
       "89xUKBAutyY",
       "OCEsigrVpSU",
-      "rmDtJAU73lA",
       "-m7x9hGJvPM",
       "s9stQXjITkI",
       "wAR2FR3uOwQ",
       "1GLgx-58dkk",
-      "XesxsL4Mhog",
-      "DZDClibuvlA"
+      "DZDClibuvlA",
+      "XesxsL4Mhog"
     ]
   },
   {
@@ -482,9 +482,9 @@
     "firstSeen": "2026-11-06",
     "metrics": {
       "channels": 40,
-      "opportunity": 76,
-      "breakoutRate": 0.59,
-      "medianTopOutlier": 7,
+      "opportunity": 64,
+      "breakoutRate": 0.35,
+      "medianTopOutlier": 0,
       "smallChannelShare": 0.88,
       "bigChannelShare": 0,
       "newcomerRate": 0.21,
@@ -494,17 +494,17 @@
     },
     "topVideoIds": [
       "1S9ZeryjNIo",
-      "hbr9V7lA3x4",
       "zf-z_KsPQuE",
+      "hbr9V7lA3x4",
       "Vhuq1i0BsTg",
       "PvVfeer7O7g",
       "2cH9NMavDNU",
-      "CDlswLFk7dc",
-      "GrnGZwCGMeM",
       "e0jv4zkqpe8",
-      "YQawSThNbmo",
       "UZdlTh9I3rE",
-      "HKfaLndhQTg"
+      "HKfaLndhQTg",
+      "GrnGZwCGMeM",
+      "htFUqv-OAlk",
+      "C4JzBvBf9Do"
     ]
   },
   {
@@ -525,14 +525,14 @@
     },
     "firstSeen": "2026-11-08",
     "metrics": {
-      "channels": 36,
-      "opportunity": 79,
-      "breakoutRate": 0.39,
-      "medianTopOutlier": 3.8,
-      "smallChannelShare": 0.64,
-      "bigChannelShare": 0.08,
+      "channels": 40,
+      "opportunity": 81,
+      "breakoutRate": 0.43,
+      "medianTopOutlier": 4.2,
+      "smallChannelShare": 0.63,
+      "bigChannelShare": 0.1,
       "newcomerRate": 0.33,
-      "uploadsPerWeek": 1.9,
+      "uploadsPerWeek": 2.2,
       "shortsShare": 0.19,
       "confidence": "high"
     },
@@ -540,15 +540,15 @@
       "a9O4tJhYJkY",
       "r-DB7WQkwQM",
       "NTcrmpxz5oI",
+      "q1IwR88mhaA",
       "HNjjRbGbadw",
+      "WfSiryTVDiY",
+      "q_ZW5mENqx8",
       "pVVUHA4Y6Ww",
       "BWmDXMu9q6w",
       "aiezLmybRFU",
       "hGguYFncLUI",
-      "mxxlotrTDR0",
-      "hMQgNAksgHw",
-      "etC7IS0k-Cc",
-      "mZ27vUoOEB0"
+      "mxxlotrTDR0"
     ]
   },
   {
@@ -559,15 +559,15 @@
     "rpm": null,
     "firstSeen": "2026-11-08",
     "metrics": {
-      "channels": 33,
-      "opportunity": 85,
-      "breakoutRate": 0.82,
-      "medianTopOutlier": 27.3,
-      "smallChannelShare": 0.21,
-      "bigChannelShare": 0.33,
+      "channels": 40,
+      "opportunity": 84,
+      "breakoutRate": 0.76,
+      "medianTopOutlier": 12.7,
+      "smallChannelShare": 0.18,
+      "bigChannelShare": 0.43,
       "newcomerRate": 1,
-      "uploadsPerWeek": 8.5,
-      "shortsShare": 0.18,
+      "uploadsPerWeek": 9.5,
+      "shortsShare": 0.22,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -609,7 +609,7 @@
     "metrics": {
       "channels": 40,
       "opportunity": 82,
-      "breakoutRate": 0.69,
+      "breakoutRate": 0.75,
       "medianTopOutlier": 10.4,
       "smallChannelShare": 0.4,
       "bigChannelShare": 0.3,
@@ -848,7 +848,7 @@
       "channels": 40,
       "opportunity": 84,
       "breakoutRate": 0.76,
-      "medianTopOutlier": 13.7,
+      "medianTopOutlier": 14.1,
       "smallChannelShare": 0.38,
       "bigChannelShare": 0.38,
       "newcomerRate": 0.85,
@@ -867,8 +867,8 @@
       "8PIWIMfGz-U",
       "DdbKGPPeg7o",
       "g8bqbEV1Kic",
-      "SfDUqDI_FDk",
-      "llHHAE3S1fg"
+      "PPTdq0GubA4",
+      "SfDUqDI_FDk"
     ]
   },
   {
@@ -959,7 +959,7 @@
     "metrics": {
       "channels": 40,
       "opportunity": 84,
-      "breakoutRate": 0.72,
+      "breakoutRate": 0.75,
       "medianTopOutlier": 11.8,
       "smallChannelShare": 0.38,
       "bigChannelShare": 0.38,
@@ -1201,8 +1201,8 @@
       "FHqEDvVIVWs",
       "OQFZCARrKn4",
       "dR7GDwHqlG8",
-      "qyYvy--qsUA",
       "79dgYnfFvW4",
+      "qyYvy--qsUA",
       "x8xZyoKe-E4"
     ]
   },
@@ -1226,7 +1226,7 @@
     "metrics": {
       "channels": 40,
       "opportunity": 84,
-      "breakoutRate": 0.59,
+      "breakoutRate": 0.62,
       "medianTopOutlier": 8.3,
       "smallChannelShare": 0.4,
       "bigChannelShare": 0.4,
@@ -1241,13 +1241,13 @@
       "xcdctjPOsRU",
       "7qHiXMub8AE",
       "T8uGa8nVLX4",
-      "jKap7SjEUzA",
       "qKX-GKfEVQM",
       "xVGp-A7z9ls",
       "Z5860_jMiKU",
       "mAHqhjBnEL0",
       "uRk96vtiYn0",
-      "wPHpoRK6LBg"
+      "wPHpoRK6LBg",
+      "tYYML_GjNO0"
     ]
   },
   {
@@ -1274,7 +1274,7 @@
       "medianTopOutlier": 15.2,
       "smallChannelShare": 0.43,
       "bigChannelShare": 0.38,
-      "newcomerRate": 0.93,
+      "newcomerRate": 0.92,
       "uploadsPerWeek": 2.3,
       "shortsShare": 0.3,
       "confidence": "high"
@@ -1469,7 +1469,7 @@
     "metrics": {
       "channels": 40,
       "opportunity": 87,
-      "breakoutRate": 0.8,
+      "breakoutRate": 0.83,
       "medianTopOutlier": 15.2,
       "smallChannelShare": 0.53,
       "bigChannelShare": 0.23,
@@ -1543,7 +1543,7 @@
       "bigChannelShare": 0.33,
       "newcomerRate": 1,
       "uploadsPerWeek": 3.1,
-      "shortsShare": 0.25,
+      "shortsShare": 0.26,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -1587,7 +1587,7 @@
       "bigChannelShare": 0.28,
       "newcomerRate": 0.67,
       "uploadsPerWeek": 1,
-      "shortsShare": 0.36,
+      "shortsShare": 0.37,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -1622,15 +1622,15 @@
     },
     "firstSeen": "2026-11-06",
     "metrics": {
-      "channels": 39,
+      "channels": 40,
       "opportunity": 84,
-      "breakoutRate": 0.79,
-      "medianTopOutlier": 15.7,
-      "smallChannelShare": 0.36,
+      "breakoutRate": 0.78,
+      "medianTopOutlier": 15.4,
+      "smallChannelShare": 0.35,
       "bigChannelShare": 0.28,
       "newcomerRate": 1,
       "uploadsPerWeek": 2.5,
-      "shortsShare": 0.3,
+      "shortsShare": 0.32,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -1831,19 +1831,18 @@
     },
     "firstSeen": "2026-11-09",
     "metrics": {
-      "channels": 40,
+      "channels": 39,
       "opportunity": 87,
       "breakoutRate": 0.82,
-      "medianTopOutlier": 10.8,
-      "smallChannelShare": 0.35,
+      "medianTopOutlier": 10.7,
+      "smallChannelShare": 0.36,
       "bigChannelShare": 0.33,
       "newcomerRate": 1,
-      "uploadsPerWeek": 5.3,
+      "uploadsPerWeek": 5.5,
       "shortsShare": 0.29,
       "confidence": "high"
     },
     "topVideoIds": [
-      "27Uwc-g9l9g",
       "thKyGRvVA3o",
       "wPW0mEhgY4M",
       "AqwbuGM-Dh8",
@@ -1854,7 +1853,8 @@
       "b4utXrypEeI",
       "8UyNsfztklg",
       "_0Ba0VMA618",
-      "YcZYwWYb0V4"
+      "YcZYwWYb0V4",
+      "0H3PppxX1Qs"
     ]
   },
   {
@@ -1933,15 +1933,15 @@
     "rpm": null,
     "firstSeen": "2026-11-10",
     "metrics": {
-      "channels": 38,
+      "channels": 39,
       "opportunity": 88,
-      "breakoutRate": 0.81,
-      "medianTopOutlier": 10.9,
-      "smallChannelShare": 0.39,
+      "breakoutRate": 0.79,
+      "medianTopOutlier": 10.4,
+      "smallChannelShare": 0.38,
       "bigChannelShare": 0.13,
       "newcomerRate": 0.67,
-      "uploadsPerWeek": 2.9,
-      "shortsShare": 0.2,
+      "uploadsPerWeek": 3,
+      "shortsShare": 0.21,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -1967,14 +1967,14 @@
     "rpm": null,
     "firstSeen": "2026-11-10",
     "metrics": {
-      "channels": 32,
+      "channels": 38,
       "opportunity": 78,
-      "breakoutRate": 0.66,
+      "breakoutRate": 0.71,
       "medianTopOutlier": 6.5,
-      "smallChannelShare": 0.34,
-      "bigChannelShare": 0.25,
+      "smallChannelShare": 0.32,
+      "bigChannelShare": 0.24,
       "newcomerRate": 0.33,
-      "uploadsPerWeek": 2.7,
+      "uploadsPerWeek": 3.1,
       "shortsShare": 0.2,
       "confidence": "high"
     },
@@ -1984,13 +1984,13 @@
       "nmBUc0gPNKg",
       "bER2FT4F8MQ",
       "DWww9q0oOl0",
+      "q1IwR88mhaA",
       "NTwg0TA3HuY",
+      "7ReHiROdPbE",
       "2kzuCJ5KLn4",
       "o9Tgv4oZ3K4",
       "oTU99j_Mzs0",
-      "lHBiso1Nw2E",
-      "1x26OMjgyhY",
-      "grwRJXYPnaY"
+      "lHBiso1Nw2E"
     ]
   },
   {
@@ -2025,6 +2025,108 @@
       "55Z3yrnA_ZU",
       "a60h-IkHN18",
       "5Ehijl5TaWI"
+    ]
+  },
+  {
+    "id": "hyper-casual-mobile-gameplay",
+    "name": "Mobile game playthroughs",
+    "group": "Life and audio",
+    "description": "Commentary-free gameplay of simple mobile games, shown as screen recordings with game sound or music.",
+    "rpm": null,
+    "firstSeen": "2026-11-11",
+    "metrics": {
+      "channels": 40,
+      "opportunity": 85,
+      "breakoutRate": 0.6,
+      "medianTopOutlier": 8.1,
+      "smallChannelShare": 0.83,
+      "bigChannelShare": 0,
+      "newcomerRate": 0.4,
+      "uploadsPerWeek": 6.8,
+      "shortsShare": 0.26,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "ozBetqZ8-20",
+      "oXT-NCt6NZI",
+      "p6-8s4w3fLk",
+      "oqbHyIkIrXA",
+      "KOBuz0W59s0",
+      "6JHKouWURp4",
+      "oVHNvWWmDic",
+      "cH9iN3r-tSs",
+      "F0ffJKWpvPQ",
+      "o9mj4OSNtWc",
+      "PESs-efF138",
+      "EmIjylP04mM"
+    ]
+  },
+  {
+    "id": "guided-prayers",
+    "name": "Guided prayer and devotion",
+    "group": "Life and audio",
+    "description": "Calm guided prayers and devotional readings narrated over still or slow-moving imagery.",
+    "rpm": null,
+    "firstSeen": "2026-11-11",
+    "metrics": {
+      "channels": 40,
+      "opportunity": 47,
+      "breakoutRate": 0.25,
+      "medianTopOutlier": 0,
+      "smallChannelShare": 0.75,
+      "bigChannelShare": 0.08,
+      "newcomerRate": 0.06,
+      "uploadsPerWeek": 5.2,
+      "shortsShare": 0.3,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "nqzgqWv-5AE",
+      "pZDx7q3WD6k",
+      "FtkxrPqzAbY",
+      "KfvP-yi8krY",
+      "ZNc1VXYNiQA",
+      "Xaslfj_ImtM",
+      "YAQ02oM0ZLo",
+      "AyBBRI5fal0",
+      "MIPYO0V11nQ",
+      "cqr2NSioyeA",
+      "X9aj8aKc6mg",
+      "ObHyIEomdPo"
+    ]
+  },
+  {
+    "id": "drone-light-shows",
+    "name": "Drone and light shows",
+    "group": "Life and audio",
+    "description": "Footage of drone shows and light festivals set to music or ambient sound, with no presenter.",
+    "rpm": null,
+    "firstSeen": "2026-11-11",
+    "metrics": {
+      "channels": 40,
+      "opportunity": 88,
+      "breakoutRate": 0.83,
+      "medianTopOutlier": 16.5,
+      "smallChannelShare": 0.53,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 1,
+      "uploadsPerWeek": 5.9,
+      "shortsShare": 0.34,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "XYSvz75Av7o",
+      "6KNlqWk_Kbw",
+      "ihYlNnbRdn4",
+      "hqFCEiDp430",
+      "8vz6ckIRjjI",
+      "FM_j6oEAiDk",
+      "IZxneem2v1M",
+      "RtrCnriVrhQ",
+      "_xVD7g0LsoM",
+      "lzQnWnL7eeY",
+      "cWILpFpc1uk",
+      "j_IaRrP3JlY"
     ]
   }
 ]
