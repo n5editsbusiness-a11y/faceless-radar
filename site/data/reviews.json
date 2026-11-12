@@ -461,6 +461,31 @@
    "english": false,
    "note": "Channel name says Hindi; titles only, content not viewed",
    "reviewedOn": "2026-11-11"
+  },
+  "UCuMLsRYcX4hl52OLUKfjlzg": {
+   "english": false,
+   "note": "Hindi titles in Devanagari and Roman script (\"Buyhatke Se\", \"PW ₹11 Batch का पूरा सच\")",
+   "reviewedOn": "2026-11-12"
+  },
+  "UCpVSvYZ8YkDyM0YYcLozQ7Q": {
+   "faceless": false,
+   "note": "Skit-style titles (\"POV:\", \"my coworkers\") imply people on camera; titles only, thumbnails not viewed",
+   "reviewedOn": "2026-11-12"
+  },
+  "UCFTt9fF6TqP83tm9j5AkkHg": {
+   "english": false,
+   "note": "Punjabi song titles (\"Heart Touching Punjabi song\")",
+   "reviewedOn": "2026-11-12"
+  },
+  "UCRljbis6Zym2XuS1o3rthew": {
+   "english": false,
+   "note": "Hindi lofi song titles (\"Hindi Lofi Song\", \"Hindi LoFi Playlist\")",
+   "reviewedOn": "2026-11-12"
+  },
+  "UCU4PAPf_koMMRjDVpLB1qPA": {
+   "faceless": true,
+   "note": "Scripted WWII story titles, no presenter named; titles only, thumbnails not viewed",
+   "reviewedOn": "2026-11-12"
   }
  },
  "videos": {}

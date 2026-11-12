@@ -20,14 +20,14 @@
   "updatedOn": "2026-11-07"
  },
  "geography-maps": {
-  "summary": "Titles only; thumbnails could not be viewed today. 69% breakout rate, typical best outlier 7x; 3 of the top 12 videos are Shorts. Some top entries are Hindi-language exam-prep channels, so read the numbers as provisional.",
+  "summary": "Titles only; thumbnails could not be viewed today. Median top outlier rose from 7x to 10x since yesterday and the breakout rate from 69% to 72%. Some top entries are Hindi exam-prep channels, so read the numbers as provisional.",
   "titlePatterns": [
    "\"All <N> <regions> Explained\", e.g. \"All 13 Canadian Provinces & Territories Explained\"",
-   "\"Why <place> is nothing like you imagine\"",
-   "\"I made <thing> to scale\", e.g. \"I made Every Middle Earth Landmark to Scale\"",
-   "Numbered list, e.g. \"10 Geography Mysteries That Will Blow Your Mind\""
+   "\"Why <place> Is Nothing Like You Imagine\"",
+   "\"I made <thing> to scale\", e.g. \"I made Every Middle Earth Landmark to Scale.\"",
+   "\"The Entire History of <country> On A Map in 20 Minutes\""
   ],
-  "updatedOn": "2026-11-07"
+  "updatedOn": "2026-11-12"
  },
  "dark-history": {
   "summary": "Titles only; thumbnails could not be viewed today. Lowest breakout rate of the five niches reviewed today at 56%; typical best outlier 7.1x. 5 of the top 12 videos have Bengali, Kannada or Hindi titles, so English-language demand looks thinner.",
@@ -40,14 +40,14 @@
   "updatedOn": "2026-11-07"
  },
  "military-ww2": {
-  "summary": "Titles only; thumbnails could not be viewed today. Highest typical best outlier of the five reviewed today at 24.5x; 68% breakout rate; 63% of channels are small. 4 of the top 12 titles centre on a German reaction to Allied soldiers or weapons.",
+  "summary": "Titles only; thumbnails could not be viewed today. Median top outlier fell from 25.7x to 20.8x since yesterday; 69% of channels have a 5x video and 63% are small. 5 of the top 12 titles are about Germans reacting to Americans.",
   "titlePatterns": [
-   "\"Germans Laughed at <weapon> Until It <consequence>\"",
    "\"Why Germans Feared <army> — But Not <army>\"",
-   "\"<Aircraft> Was a Failure. So Why Did the Soviets Love It?\"",
-   "\"<subject> in <year> — 4K Restored Film Documentary\" for archival footage"
+   "\"They Asked <Nazi leader> <question>. He Was Astonished.\"",
+   "\"German POWs Were Invited to <event>. They Thought It Was a Joke.\"",
+   "\"<subject> in <year> — 4K Restored Film Documentary\""
   ],
-  "updatedOn": "2026-11-07"
+  "updatedOn": "2026-11-12"
  },
  "animal-facts": {
   "summary": "Titles only; thumbnails could not be viewed today. 67% of 40 channels have a breakout, typical best outlier is 13x and 55% are small. 4 of the top 12 titles are Hindi or Urdu, so English-language demand may be thinner than it looks.",
@@ -246,5 +246,34 @@
    "\"Build Your First <thing> in N Minutes\", e.g. \"Build Your First AI Agent in 10 Minutes - No Coding\""
   ],
   "updatedOn": "2026-11-11"
+ },
+ "cybersecurity-tips": {
+  "summary": "Titles only; thumbnails could not be viewed today. First day with data: 34 channels, 29% have a 5x video, 85% are small. Several top results are only loosely about security or are in Hindi or French, so read the numbers as provisional.",
+  "titlePatterns": [
+   "\"Ultimate Ethical Hacking Full Course 2026 | Beginner to Advanced\"",
+   "\"How to Become a Hacker in 2026\" and \"How I became a Cybersecurity Analyst In 2026\"",
+   "Year in the title, e.g. \"AI Ethical Hacking Full Course 2026\""
+  ],
+  "updatedOn": "2026-11-12"
+ },
+ "smart-home-reviews": {
+  "summary": "Titles only; thumbnails could not be viewed today. First day with data: 39 channels, 82% have a 5x video, typical best outlier 11.1x. 38% of channels are large, so the top list leans on established reviewers.",
+  "titlePatterns": [
+   "\"<product> Unboxing ⚡ This <thing> Packs Serious Power!\"",
+   "\"<product> Review ⚡ <award> – But Is It Actually Good?\"",
+   "\"<product>: Unboxing & Hands-On Initial Review!\"",
+   "\"The BEST New Smart Home Tech of 2026! (IFA)\" as a roundup"
+  ],
+  "updatedOn": "2026-11-12"
+ },
+ "career-resume-tips": {
+  "summary": "Titles only; thumbnails could not be viewed today. First day with data: 39 channels, 49% have a 5x video, typical best outlier 4.6x. The top four are Shorts from Resume Genius and Indeed with skit or first-person titles.",
+  "titlePatterns": [
+   "\"When <group> have to <do thing>:\" skit, e.g. \"When Millennial managers have to communicate with Gen Zs:\"",
+   "\"I Tried <job-search experiment>: Here's What Happened\"",
+   "\"Do <trend> Work for Getting a New Job? Let's Find Out…\"",
+   "\"WILL AI TAKE OUR JOBS?!\""
+  ],
+  "updatedOn": "2026-11-12"
  }
 }

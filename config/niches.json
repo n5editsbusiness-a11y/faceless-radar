@@ -363,5 +363,15 @@
     "id": "career-resume-tips", "name": "Career and resume tips", "group": "Money",
     "description": "Screen-recorded and slide-based advice on resumes, interviews and career moves, narrated by voiceover.",
     "queries": ["resume tips", "job interview tips", "career advice for beginners"]
+  },
+  {
+    "id": "trading-app-tutorials", "name": "Trading app tutorials", "group": "Money",
+    "description": "Screen-recorded walkthroughs of stock trading and brokerage apps, narrated by voiceover.",
+    "queries": ["trading app tutorial for beginners", "how to use a stock trading app", "brokerage app walkthrough"]
+  },
+  {
+    "id": "vintage-album-music", "name": "Vintage soul and reggae albums", "group": "Life and audio",
+    "description": "Full classic soul and reggae albums played over album art and track listings, with no presenter.",
+    "queries": ["vintage soul full album", "classic reggae full album", "70s soul music playlist"]
   }
 ]
