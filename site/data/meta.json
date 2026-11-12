@@ -1,24 +1,24 @@
 {
   "schema": 1,
   "siteName": "Faceless Radar",
-  "updatedAt": "2026-11-11T10:08:07.261Z",
+  "updatedAt": "2026-11-12T10:12:53.353Z",
   "breakoutThreshold": 5,
   "breakoutMinViews": 5000,
   "windowDays": 90,
   "quota": {
-    "used": 4748,
+    "used": 4743,
     "budget": 9000,
     "calls": {
       "search": 40,
       "channels": 8,
       "playlistItems": 398,
-      "videos": 342
+      "videos": 337
     }
   },
   "counts": {
-    "niches": 55,
-    "channels": 1966,
-    "videos": 2055,
-    "reviewedChannels": 30
+    "niches": 58,
+    "channels": 2073,
+    "videos": 2155,
+    "reviewedChannels": 36
   }
 }
