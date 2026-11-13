@@ -100,14 +100,14 @@
   "updatedOn": "2026-11-08"
  },
  "lofi-study-music": {
-  "summary": "Titles only; thumbnails could not be viewed today. 40 channels, 44% have a breakout, 98% are small channels. 5 of the top 12 videos reuse one near-identical \"SAD LO-FI ... 2026 Ultimate Mind Relaxing Lofi Beats\" title across 4 channels, so treat the multiples as provisional.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score fell from 79 to 74, the biggest drop of any niche. 38 channels (40 yesterday), 41% have a 5x video (44%), 97% are small. 6 of the top 12 reuse one \"SAD LO-FI 2026 Ultimate Mind Relaxing Lofi Beats\" title.",
   "titlePatterns": [
-   "\"SAD LO-FI 2026 Ultimate Mind Relaxing Lofi Beats | Study Sleep & Chill\", reused by several channels",
+   "\"SAD LO-FI 2026 Ultimate Mind Relaxing Lofi Beats | Study Sleep & Chill lofi\", reused by several channels",
    "\"<Song or figure> Lofi Song | <tagline> | Powerful Lofi Music\", e.g. \"Maharana Pratap Lofi Song | Rajputana Attitude\"",
-   "\"<Song name> Slowed + Reverb | Best Hindi Lofi Song\", e.g. \"Tari Meri Khani Slowed + Reverb\"",
-   "\"STUDY MUSIC (SLOWED+REVERB)\" followed by a block of hashtags"
+   "\"STUDY MUSIC (SLOWED+REVERB)\" followed by a block of hashtags",
+   "\"Trending 2026 Loveble Asthetic playlist ... Lofi song with deep fillings\" (spelling as in the title)"
   ],
-  "updatedOn": "2026-11-09"
+  "updatedOn": "2026-11-13"
  },
  "sleep-ambient": {
   "summary": "Titles only; thumbnails could not be viewed today. 38 channels, 62% breakout rate, typical best outlier 14.9x. Of the top 12 videos, 4 are baby lullabies, 3 are Chhath puja \"relaxing\" songs and 3 reuse the \"2026 Ultimate Mind Relaxing Lofi Beats\" title.",
@@ -275,5 +275,45 @@
    "\"WILL AI TAKE OUR JOBS?!\""
   ],
   "updatedOn": "2026-11-12"
+ },
+ "disasters": {
+  "summary": "Titles only; thumbnails could not be viewed today. Score fell from 83 to 80; breakout rate 44% (49% yesterday), typical best outlier 3.3x (4.9x). Several top entries are off-topic (a karate Short, a treasure-hunt video, wildlife clips), so read the multiples as provisional.",
+  "titlePatterns": [
+   "\"What Happened Before the <place> <aircraft> Crash?\"",
+   "\"Inside the Hijacked <airline> Plane: What Actually Happened\"",
+   "\"Massive Flood Chaos in <country> AGAIN! <city> Submerged, <N> People Affected\"",
+   "\"Documentary | 9/11: 25 YEARS LATER The minute-by-minute of a tragedy...\""
+  ],
+  "updatedOn": "2026-11-13"
+ },
+ "ai-animated-stories": {
+  "summary": "Titles only; thumbnails could not be viewed today. 66% of 39 channels have a 5x video (74% yesterday), the largest drop of any niche; score steady at 86, typical best outlier 10.8x. 3 of the top 12 are Shorts; many titles are kids' moral stories, some in Hindi.",
+  "titlePatterns": [
+   "\"<Character> Helps <Character> | Kindness Moral Story for Kids | 3D Animated Story\"",
+   "\"Will <Character> Lose Her Best Friend? | Emotional Friendship Story for Kids\"",
+   "\"Be Brave! Overcoming Fear | Life Lesson Story for Kids\"",
+   "\"Bekaar Aloo Bana Crorepati ... | Hindi Moral Story\" for Hindi-language uploads"
+  ],
+  "updatedOn": "2026-11-13"
+ },
+ "trading-app-tutorials": {
+  "summary": "Titles only; thumbnails could not be viewed today. First day with data: 25 channels, 50% have a 5x video, typical best outlier 5.4x. The score of 88 leans on TC Trading's Kalshi Short (13,183,917 views) and CryptoSnake, which has 5 of the top 12 and leads with travel vlogs.",
+  "titlePatterns": [
+   "\"How To Actually Build A Trading Agent Using Grok Bot (Beginner Tutorial)\"",
+   "\"Fomo Web App Tutorial 2026 – Trade Any AltCoin\"",
+   "\"Ownbit Wallet Tutorial: Air-Gapped Crypto Signer & Multisig [Step-by-Step Guide]\"",
+   "\"How to Bet on Kalshi: NFL & College Football Tutorial\""
+  ],
+  "updatedOn": "2026-11-13"
+ },
+ "vintage-album-music": {
+  "summary": "Titles only; thumbnails could not be viewed today. First day with data: 21 channels, 22% have a 5x video, typical best outlier 0x, score 53. Half the top 12 are Halbae Music V-Pop remix and city-pop mixes, not classic soul or reggae albums; the other half are Zena Haz soul blues.",
+  "titlePatterns": [
+   "\"<Artist> – 5 Hours of Soul Blues & Southern Soul for Late Nights\"",
+   "\"68-Year-Old Soul Legend | Late Night AOR & City Pop Playlist (45 Min Mix)\"",
+   "\"Deep Husky Female Soul & City Pop | Rainy Night Drive Playlist\"",
+   "\"<Artist> - Best Of | Soul Blues Music | Vol. 7\""
+  ],
+  "updatedOn": "2026-11-13"
  }
 }

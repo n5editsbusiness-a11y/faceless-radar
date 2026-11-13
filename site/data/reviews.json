@@ -486,6 +486,21 @@
    "faceless": true,
    "note": "Scripted WWII story titles, no presenter named; titles only, thumbnails not viewed",
    "reviewedOn": "2026-11-12"
+  },
+  "UCUM16pQs378ckrJp3SCIPgw": {
+   "english": false,
+   "note": "Hindi titles in Devanagari script; titles only, thumbnails not viewed",
+   "reviewedOn": "2026-11-13"
+  },
+  "UCVcuKIqjW_YNvPgJeYZ3Ivw": {
+   "faceless": true,
+   "note": "Drone-show footage (Godzilla show at Dodger Stadium); titles only, thumbnails not viewed",
+   "reviewedOn": "2026-11-13"
+  },
+  "UCk3u_P1wYZbbQkzj_OP0_wg": {
+   "faceless": false,
+   "note": "First-person titles (\"I Tried…\", \"I Received a DM…\") imply a presenter; titles only, thumbnails not viewed",
+   "reviewedOn": "2026-11-13"
   }
  },
  "videos": {}
