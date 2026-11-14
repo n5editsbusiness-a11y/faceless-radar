@@ -80,44 +80,44 @@
   "updatedOn": "2026-11-08"
  },
  "nature-wildlife": {
-  "summary": "Titles only; thumbnails could not be viewed today. Highest breakout rate of the five niches reviewed today at 85% of 40 channels; typical best outlier 19.2x, 60% are small. Wildlife Ethology holds 4 of the top 12 videos, 5 titles carry a documentary tag and 2 are Shorts.",
+  "summary": "Titles only; thumbnails could not be viewed today. Typical best outlier rose from 19.2x to 24.1x; score steady at 87, 87% of 40 channels have a 5x video, 60% are small. Wildlife Ethology holds 4 of the top 12 videos, Frontier Nature 3; 2 of the 12 are Shorts.",
   "titlePatterns": [
    "Two-sentence setup, then a tag: \"The Snake Had Deadly Venom. The Roadrunner Had a Plan | Nature Documentary\"",
    "Predator versus prey: \"Snow Leopard vs Mother Ibex and Her Baby on a Deadly Cliff\"",
    "Choice with a consequence: \"The Baboons Chose the Wrong Prey… And Paid the Price\"",
-   "Shorts name one surprising act: \"Honey Badger Was Covered With Thousands of Ticks - Then This Mongoose Did Something Unbelievable!\""
+   "Broadcaster caption style: \"Incredible footage shows how owl uses sound to hunt under snow\""
   ],
-  "updatedOn": "2026-11-08"
+  "updatedOn": "2026-11-14"
  },
  "philosophy-stoicism": {
-  "summary": "Titles only; thumbnails could not be viewed today. Highest typical best outlier of the five niches reviewed today at 25.9x; 77% of 35 channels have a breakout and 71% are small. 9 of the top 12 titles address older men or what women notice in men.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score steady at 89; typical best outlier fell from 22.7x to 19x, breakout rate 85% (83%) of 40 channels, 75% small. The Luxe Connection has 3 of the top 12; 2 Marcus Aurelius Shorts have 1,808,432 and 860,073 views.",
   "titlePatterns": [
    "\"<N> Reasons To Never <do X> (Stoic Wisdom)\", e.g. \"6 Reasons To Never Have A Girlfriend After 50 And 60 (Stoic Wisdom)\"",
    "\"<N> Stoic Habits That Will Put You Ahead of 99% of People\"",
-   "Capitalised command: \"EVERY OLDER MAN SHOULD WATCH THIS VIDEO\", then keyword tags",
+   "Shorts that name Marcus Aurelius: \"Master Your Emotions | Like Marcus Aurelius #shorts\"",
    "Pipe-separated keyword tags at the end, e.g. \"| Female Psychology | Stoicism\""
   ],
-  "updatedOn": "2026-11-08"
+  "updatedOn": "2026-11-14"
  },
  "lofi-study-music": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score fell from 79 to 74, the biggest drop of any niche. 38 channels (40 yesterday), 41% have a 5x video (44%), 97% are small. 6 of the top 12 reuse one \"SAD LO-FI 2026 Ultimate Mind Relaxing Lofi Beats\" title.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score fell from 74 to 64, the biggest drop of any niche. 40 channels (38 yesterday), 36% have a 5x video (41%), 98% are small. KKR rahul 09 and sunny editxx 7 hold 3 of the top 12 each.",
   "titlePatterns": [
    "\"SAD LO-FI 2026 Ultimate Mind Relaxing Lofi Beats | Study Sleep & Chill lofi\", reused by several channels",
    "\"<Song or figure> Lofi Song | <tagline> | Powerful Lofi Music\", e.g. \"Maharana Pratap Lofi Song | Rajputana Attitude\"",
    "\"STUDY MUSIC (SLOWED+REVERB)\" followed by a block of hashtags",
-   "\"Trending 2026 Loveble Asthetic playlist ... Lofi song with deep fillings\" (spelling as in the title)"
+   "\"When Love Finds Its Way Back | Le Main Saiyaan Aa Gayi #song #trending\": English line plus a Hindi film-song name"
   ],
-  "updatedOn": "2026-11-13"
+  "updatedOn": "2026-11-14"
  },
  "sleep-ambient": {
-  "summary": "Titles only; thumbnails could not be viewed today. 38 channels, 62% breakout rate, typical best outlier 14.9x. Of the top 12 videos, 4 are baby lullabies, 3 are Chhath puja \"relaxing\" songs and 3 reuse the \"2026 Ultimate Mind Relaxing Lofi Beats\" title.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 80 (82 yesterday), typical best outlier 11.3x (14.9x), 62% of 38 channels have a 5x video. 8 of the top 12 are baby lullabies or kids songs, 4 of them from Grandma's Dream Village.",
   "titlePatterns": [
    "\"<Name>'s Moonlight Lullaby | Baby Sleep Music & Bedtime Lullaby\"",
-   "\"Lullaby for Babies | Sweet Dreams on an Autumn Night | Baby Sleep Song\"",
-   "\"Chhath puja relaxing song (deep sleep)\" followed by hashtags",
+   "\"Are You Sleeping, Little One? | Sleepy Lullaby for Babies & Toddlers\"",
+   "\"Beep Beep! Animals Driving Big Trucks | Kids Truck Song\" (a Short)",
    "\"2026 Ultimate Mind Relaxing Lofi Beats | Study, Sleep & Chill\""
   ],
-  "updatedOn": "2026-11-09"
+  "updatedOn": "2026-11-14"
  },
  "motivation": {
   "summary": "Titles only; thumbnails could not be viewed today. 40 channels, 68% breakout rate, typical best outlier 9.8x, 37% of uploads are Shorts. Top 12 split into 3 movie or celebrity clip edits, 4 motivational rap songs and 5 Hindi or Islamic quote videos.",
@@ -315,5 +315,14 @@
    "\"<Artist> - Best Of | Soul Blues Music | Vol. 7\""
   ],
   "updatedOn": "2026-11-13"
+ },
+ "prediction-markets-explained": {
+  "summary": "Titles only; thumbnails could not be viewed today. First day with data: 36 channels, 37% have a 5x video, typical best outlier 2.4x, score 53. 3 of the top 12 are NFL clips and 3 are Turkish or Portuguese uploads.",
+  "titlePatterns": [
+   "\"What Is <platform>? <one-line claim>\", e.g. \"What Is Kalshi? It Changes Who You Bet Against.\"",
+   "\"The Exact Sports Betting Roadmap I'd Follow From $0\"",
+   "\"Polymarket Changed the Rules in Feb 2026. Speed Bots Got Hit #shorts\""
+  ],
+  "updatedOn": "2026-11-14"
  }
 }

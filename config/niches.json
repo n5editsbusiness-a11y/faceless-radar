@@ -378,5 +378,13 @@
     "id": "prediction-markets-explained", "name": "Prediction market explainers", "group": "Money",
     "description": "Explainers and how-to videos about prediction markets such as Kalshi and Polymarket, built on screen recordings and charts.",
     "queries": ["how prediction markets work", "Kalshi tutorial for beginners", "Polymarket explained"]
+  },
+  {
+    "id": "kids-songs-lullabies", "name": "Kids songs and lullabies", "group": "Life and audio",
+    "description": "Nursery rhymes, baby lullabies and children's songs set to animated or looping visuals.",
+    "queries": ["nursery rhymes for toddlers", "baby lullaby songs", "kids songs animated"],
+    "rpm": { "low": null, "high": null, "tier": "Low", "sources": [
+      { "label": "AIR Media-Tech", "url": "https://air.io/en/audience-growth/whos-growing-fastest-on-youtube-and-which-niches-are-hot-in-2025" } ],
+      "note": "AIR Media-Tech reports a median RPM of $0.33 for kids content, against $10.22 for education and science (May 2025 to May 2026)." }
   }
 ]
