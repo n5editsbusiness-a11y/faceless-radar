@@ -130,14 +130,14 @@
   "updatedOn": "2026-11-09"
  },
  "no-code-automation": {
-  "summary": "Titles only; thumbnails could not be viewed today. 35 channels, 37% breakout rate, typical best outlier 3.6x, 66% small channels. None of the top 12 titles names n8n, Make or Zapier; they are mostly AI tool news and tests, led by 4 videos from Julian Goldie Rundown.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 86 (83 yesterday); 49% of 40 channels have a 5x video (45%), typical best outlier 3.9x (3.5x). 5 of the top 12 are Serop | AI Automation videos, the top one at 219.1x. No top-12 title names n8n, Make or Zapier.",
   "titlePatterns": [
-   "\"<Company> New AI Upgrades Are Absolutely CRAZY!\" with an intensity word (CRAZY, WILD, INSANE)",
-   "\"I Tested <tool A> vs <tool B> (Honest Results)\"",
-   "\"I Built a <use case> for a <client type> | Real Client Case Study\"",
-   "\"Running <thing> Isn't Safe — Here's Why\""
+   "\"Running <thing> Isn’t Safe — Here’s Why\", e.g. \"Running AI Local Models Isn’t Safe — Here’s Why\"",
+   "\"I Tested <tool> — Here's What They're NOT Telling You\", e.g. \"I Tested Grok Bot — Here's What They're NOT Telling You\"",
+   "\"I Built a <use case> for a <client type> | Real Client Case Study\", e.g. \"I Built a WhatsApp AI Receptionist for a Hospital | Real Client Case Study\"",
+   "\"The ONLY <tool> Tutorial You Need 2026\", e.g. \"The ONLY Grok Bot Tutorial You Need 2026 - How To Use Grok Bot For Beginners\""
   ],
-  "updatedOn": "2026-11-09"
+  "updatedOn": "2026-11-22"
  },
  "gaming-lore": {
   "summary": "Titles only; thumbnails could not be viewed today. 35 channels, 59% breakout rate, typical best outlier 5.2x. 6 of the top 12 videos come from Think Story (ending and episode explainers) and 5 from Pixden (Street Fighter lore), so two channels set the picture.",
@@ -230,13 +230,14 @@
   "updatedOn": "2026-11-17"
  },
  "robotics-humanoids": {
-  "summary": "Titles only; thumbnails could not be viewed today. 76% of 40 channels have a 5x video; typical best outlier is 12.7x, but only 7 channels have under 100K subscribers. Only 3 of the top 12 videos are about robots; the rest are news or cars, so read as provisional.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 84 (83 yesterday), 40 channels (39); 76% have a 5x video (74%), but typical best outlier fell from 16.5x to 11.5x. Only 2 of the top 12 titles name a robot; the rest are cars, TV and news. Read as provisional.",
   "titlePatterns": [
-   "\"First <event> in History\", e.g. \"First Human VS. Robot Fight in History (FULL LENGTH)\"",
-   "\"<Country>'s New <robot> Will/Is <big claim>\", e.g. \"Japan's New Female Robot Will Make You Question Reality\"",
-   "Price in the title, e.g. \"China's New $7,999 Female Robot Is Already Changing the World Forever\""
+   "\"<Country>'s New <robot> Will <big claim>\", e.g. \"Japan's New Female Robot Will Make You Question Reality\"",
+   "\"<Country>'s New $<price> <robot> Is Already Changing the World Forever\", e.g. \"China's New $7,999 Female Robot Is Already Changing the World Forever\"",
+   "\"This New <product> Will Leave You Speechless!\", e.g. \"This New American Electric Car Will Leave You Speechless!\"",
+   "\"How Do Thousands of People Live in a Single Building? <Country>’s Shocking Project\""
   ],
-  "updatedOn": "2026-11-11"
+  "updatedOn": "2026-11-22"
  },
  "coding-tutorials": {
   "summary": "Titles only; thumbnails could not be viewed today. Score rose from 78 to 87 and channels from 38 to 40; breakout rate 68% (71%), typical best outlier 5.9x (6.5x). Byte Without Bite has 3 of the top 12; the top video is a Telugu Python course at 153.8x.",
@@ -349,14 +350,14 @@
   "updatedOn": "2026-11-16"
  },
  "business-case-studies": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 77 (73 yesterday), 43% of 40 channels have a 5x video (41%), typical best outlier 3.4x (2.1x). 7 of the top 12 are Shorts. Business Atlas (209 subscribers) has a Hermès Birkin video at 638.6x (107,291 views).",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 81 (79 yesterday), 49% of 40 channels have a 5x video (46%), typical best outlier 4.3x (3.7x). 8 of the top 12 are Shorts, 4 from Boring Makes Bank; 90% of channels are small. 2 of the 12 are not business stories.",
   "titlePatterns": [
-   "\"Why Hermès Refused to Sell You a Birkin, and Why It’s Backfiring Now\"",
+   "\"Why <boring business> Are Cash Machines\", e.g. \"Why Uniform Rentals Are Cash Machines\" (a Short)",
+   "\"This <company type> Made $<amount> Billion\", e.g. \"This Pool Company Made $5.3 Billion\" (a Short)",
    "\"Companies That Made Billions By Being Ugly On Purpose.\" (a Short)",
-   "\"Why Uniform Rentals Are Cash Machines\" (a Short)",
-   "\"Blinkit Exposed: How is Deepinder Goyal Fooling Everyone? | Business Case Study | 2D Animation\""
+   "\"Why <luxury brand> Refused to Sell You a <product>, and Why It’s Backfiring Now\", e.g. \"Why Hermès Refused to Sell You a Birkin, and Why It’s Backfiring Now\""
   ],
-  "updatedOn": "2026-11-16"
+  "updatedOn": "2026-11-22"
  },
  "sleep-history-stories": {
   "summary": "Titles only; thumbnails could not be viewed today. First day tracked: score 88, 40 channels, 64% with a 5x video, typical best outlier 17.3x. 8 of the top 12 videos open with Why, How or What; one top video is a news-style clip that does not fit the sleep theme.",
@@ -459,13 +460,14 @@
   "updatedOn": "2026-11-20"
  },
  "legal-explainers": {
-  "summary": "Titles only; thumbnails could not be viewed today. First scores: score 86, 36 channels, 52% with a 5x video, typical best outlier 5.8x; 72% of channels are small. 10 of the top 12 titles come from one channel, Logic vs. Liability (1,790 subscribers).",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 90 (86 yesterday), 38 channels (36); 53% have a 5x video (52%), typical best outlier 5.8x unchanged. 10 of the top 12 titles are Logic vs. Liability (1,790 subscribers); the top one is 1,444.8x.",
   "titlePatterns": [
    "\"<Accused person> <does X> - Then <twist> | Legal Breakdown\", e.g. \"Clerk Accused of $5 Million Theft - Then Cops Find Her Walmart Grocery Orders | Legal Breakdown\"",
    "\"$<amount> <offence>: <detail> | Bodycam Analysis\", e.g. \"$6,900 Publix Refund Scam: Cashier Reprinted Receipts, Says It Made Her \\\"Happy\\\" | Bodycam Analysis\"",
-   "\"She <did X>, Then <legal consequence> | Legal Breakdown\", e.g. \"She Denied a Visible Crash, Then a Search Added a Felony | Legal Breakdown\""
+   "\"She <did X> - Then <legal consequence> | Legal Analysis\", e.g. \"She Argued Florida DUI Law for 10 Minutes — Then Was Found Guilty on All 3 Charges | Legal Analysis\"",
+   "\"<Charge> Turns a <minor stop> Into a Felony Arrest\", e.g. \"$7,500 in Unpaid Fines Turns a Speeding Stop Into a Felony Arrest | Legal Breakdown\""
   ],
-  "updatedOn": "2026-11-21"
+  "updatedOn": "2026-11-22"
  },
  "car-explainers": {
   "summary": "Titles only; thumbnails could not be viewed today. First scores: score 74, 38 channels, 46% with a 5x video, typical best outlier 4.1x; 87% of channels are small. 3 of the top 12 are Forever Engine teardown videos; 4 of the 12 are off-topic.",
@@ -476,5 +478,14 @@
    "\"All <Thing> Types Explained! Which <Thing> Is Best For You?\", e.g. \"All Car Engine Types Explained! 🚗 Which Engine Is Best For You?\""
   ],
   "updatedOn": "2026-11-21"
+ },
+ "travel-guides": {
+  "summary": "Titles only; thumbnails could not be viewed today. Score 80 (83 yesterday), 39 channels; 43% have a 5x video (47%), typical best outlier 3.3x (3.1x). 9 of the top 12 titles use Bengali, Urdu or Hindi script, so English demand looks thin. 1 of the 12 is an off-topic k-drama Short.",
+  "titlePatterns": [
+   "\"<Bengali hook> | <Country> Travel Documentary\", e.g. \"... | Iran Travel Documentary\" (Story Unfold, 149.2x)",
+   "\"<Place> 1 Day Tour Plan | Complete Travel Guide in Budget #Shorts\", e.g. \"Haridwar 1 Day Tour Plan 🚩 | Complete Travel Guide in Budget 🙏 #Shorts\"",
+   "\"<Place> <Hindi phrase> ₹<price> | Complete <place> Tour by Bus\", e.g. \"Mumbai Darshan ... ₹40 ... | Complete Mumbai Tour by Bus | Coastal Road Tour\""
+  ],
+  "updatedOn": "2026-11-22"
  }
 }
