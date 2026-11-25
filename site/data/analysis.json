@@ -1,14 +1,14 @@
 {
- "date": "2026-11-22",
- "headline": "legal-explainers rises 86 to 90; no-code-automation 83 to 86",
+ "date": "2026-11-25",
+ "headline": "cybersecurity-tips rises 59 to 64; remote-work-digital-nomad falls 66 to 62",
  "paragraphs": [
-  "Biggest score moves since yesterday: legal-explainers rose from 86 to 90 (38 channels, up from 36) and no-code-automation from 83 to 86 as its breakout rate went from 45% to 49%. travel-guides fell from 83 to 80; business-case-studies rose from 79 to 81.",
-  "In legal-explainers, 10 of the top 12 videos still come from Logic vs. Liability (1,790 subscribers). In travel-guides, 9 of the top 12 titles use Bengali, Urdu or Hindi script, so English demand looks thin. In robotics-humanoids the typical best outlier fell from 16.5x to 11.5x.",
-  "Notable outliers: Lore Explained's ancient-humans video at 3,629.7x (5,618,760 views, 12,200 subscribers) and GRENY's Egypt heat video at 2,738.8x (2,043,109 views, 3,180 subscribers). No niches added today. Thumbnails not viewable; titles only."
+  "Biggest score moves since yesterday: cybersecurity-tips rose from 59 to 64 as its breakout rate went from 31% to 36%; remote-work-digital-nomad fell from 66 to 62 (38% to 32%). horror-stories rose from 72 to 74; unsolved-mysteries fell from 85 to 83.",
+  "In true-crime the typical best outlier rose from 12.3x to 17.1x. In unsolved-mysteries, 9 of the top 12 videos are in Hindi or Sinhala, so English demand is unclear. In cybersecurity-tips, 6 of the top 12 are off-topic or not in English.",
+  "Notable outliers: Amelia Revenge Stories at 353.8x in reddit-stories (79,243 views, 1,140 subscribers) and Dreamnest Frames at 225.7x in disasters (280,937 views, 10,000 subscribers). No niches added today. Thumbnails not viewable; titles only."
  ],
  "watch": [
-  "legal-explainers",
-  "no-code-automation",
-  "travel-guides"
+  "cybersecurity-tips",
+  "remote-work-digital-nomad",
+  "true-crime"
  ]
 }

@@ -250,14 +250,13 @@
   "updatedOn": "2026-11-15"
  },
  "cybersecurity-tips": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 60 (57 yesterday), 40 channels (33), 31% have a 5x video (27%), 83% are small. Real Talk with Asad holds 8 of the top 12; its best has 1,391,393 views at 791.7x.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 64 (59 yesterday); 36% of 39 channels have a 5x video (31%); 79% of channels are small. The best top-12 title is 82.1x on 8,867 views. 6 of the top 12 are off-topic or not in English.",
   "titlePatterns": [
-   "\"7 Things You Should NEVER Tell AI\" and \"Warning! Never Share These Things With AI\"",
-   "\"Delete <app> From Your Phone Now!\", e.g. \"Delete ChatGPT From Your Phone Now!\"",
-   "\"<App> Users Alert! This App May Stop Working\"",
-   "\"Ultimate Ethical Hacking Full Course 2026 | Beginner to Advanced | 100+ Topics\" (a Short)"
+   "\"How I became a <role> In 2026\", e.g. \"How I became a Cybersecurity Analyst In 2026\"",
+   "\"<Topic> Full Course 2026 | Complete <X> Training\", e.g. \"AI Ethical Hacking Full Course 2026 | Complete Cybersecurity Training\"",
+   "\"Learn <skill> & Cybersecurity Courses for FREE\", e.g. \"Learn Ethical Hacking & Cybersecurity Courses for FREE\""
   ],
-  "updatedOn": "2026-11-15"
+  "updatedOn": "2026-11-25"
  },
  "smart-home-reviews": {
   "summary": "Titles only; thumbnails could not be viewed today. First day with data: 39 channels, 82% have a 5x video, typical best outlier 11.1x. 38% of channels are large, so the top list leans on established reviewers.",
@@ -390,34 +389,34 @@
   "updatedOn": "2026-11-18"
  },
  "remote-work-digital-nomad": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 67 (61 yesterday), 39 channels (38); 39% have a 5x video (37%), typical best outlier 3.8x (3.7x). 7 of the top 12 are job or remote-work titles; 4 are off-topic TV and storage tips; 79% of channels are small.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 62 (66 yesterday); 32% of 40 channels have a 5x video (38%); typical best outlier 3.2x (3.7x); 78% are small. 5 of the top 12 are job or remote-work titles; 7 are TV, phone or storage tips or a bank ad.",
   "titlePatterns": [
-   "\"<Company> Job 2026 | <Company> Vacancy 2026 | <Company> Recruitment 2026\", e.g. \"Flipkart DEO Job 2026 | Flipkart Vacancy 2026 | Flipkart Recruitment 2026\"",
-   "\"<N> Genuine Work from Home Jobs Using Mobile\", e.g. \"3 GENUINE Work from HOME job for everyone using MOBILE📱💸 Earn money online, No requirement.\"",
    "\"<Task> Jobs for Students || <benefit> Using Your Mobile or Laptop\", e.g. \"Typing Jobs for Students || Earn Money by Typing Online Using Your Mobile or Laptop\"",
-   "\"<N> Online Jobs That Pay You Immediately\", e.g. \"5 Online Jobs That Pay You Immediately\""
+   "\"<N> GENUINE Work from HOME job for everyone using MOBILE\", e.g. \"3 GENUINE Work from HOME job for everyone using MOBILE\"",
+   "\"Make money by TYPING | Work from home job for all | No experience needed\"",
+   "\"Quickly Change Careers With a Higher Salary\""
   ],
-  "updatedOn": "2026-11-21"
+  "updatedOn": "2026-11-25"
  },
  "digital-minimalism": {
-  "summary": "Titles only; thumbnails could not be viewed today. First scores: score 72, 40 channels, 55% with a 5x video, typical best outlier 5.9x; 85% of channels are small. 3 Owen Kennedy titles in the top 12 have just 112 to 220 views each, so their outlier figures rest on tiny counts.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 72 (unchanged); 58% of 40 channels have a 5x video (53%); typical best outlier 6.6x (5.2x); 83% are small. Top title: 1,128.2x on 41,745 views at 171 subscribers. 4 of the top 12 have under 14,000 views.",
   "titlePatterns": [
-   "\"How I Fit My Entire Life in to a <size> Backpack I Minimalist Travel\"",
+   "\"How I fit my entire life in to a <size> backpack I Minimalist Travel\"",
+   "\"my anti-brainrot everyday <minimalist> carry\", e.g. \"my anti-brainrot everyday carry 2026\"",
    "\"I Stopped <habit> and This Happened...\", e.g. \"I Stopped Doom Scrolling and This Happened...\"",
-   "\"I Tried <habit> for 7 Days (<tag>)\", e.g. \"I Tried No Alarm Wake Ups for 7 Days (Brutal Honesty)\"",
-   "\"The Art of <X>: Reclaiming <Y>\", e.g. \"The Art of Slow Living: Reclaiming Peace, Stillness & Digital Minimalism\""
+   "\"<N> Japanese Simple Living Habits That Keep You Young After 60\""
   ],
-  "updatedOn": "2026-11-18"
+  "updatedOn": "2026-11-25"
  },
  "true-crime": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 84, 76% with a 5x video and typical best outlier 12.3x, all unchanged. Two Afterpast videos of 79 and 87 seconds flagged today: 3,683,719 and 2,924,097 views at 20,500 subscribers. 7 of the top 12 are Shorts.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 84 (unchanged); 73% of 40 channels have a 5x video (76% yesterday); typical best outlier 17.1x (12.3x). Top title: Money Games' Barry Seal video, 600.8x on 445,221 views at 338 subscribers. 3 of the top 12 are off-topic.",
   "titlePatterns": [
-   "\"He <did X>. Then <twist>....\", e.g. \"He Built the Cheapest Town in America. Then the Sun Went Out....\"",
    "\"The Real <person> Was More Dangerous Than <film> Made Him Look\", e.g. \"The Real Barry Seal Was More Dangerous Than Tom Cruise Made Him Look\"",
+   "\"He <did X>. Then <twist>....\", e.g. \"He Built the Cheapest Town in America. Then the Sun Went Out....\"",
    "\"<Role> Has No Clue the <hired killer> Is an Undercover Cop\", e.g. \"\\\"Friendly\\\" Wife Has No Clue The $50,000 Hitman Is An Undercover COP\"",
-   "\"<Child> Testifies Against <parent> in <crime>\", e.g. \"7-Year-Old Boy Testifies Against His Mother in Sister’s Murder\""
+   "\"<Age>-Year-Old <Child> Testifies Against <Parent> in <crime>\", e.g. \"7-Year-Old Boy Testifies Against His Mother in Sister’s Murder\""
   ],
-  "updatedOn": "2026-11-21"
+  "updatedOn": "2026-11-25"
  },
  "horror-stories": {
   "summary": "Titles only; thumbnails could not be viewed today. Breakout rate fell from 57% to 48%, typical best outlier from 5.5x to 4.8x; score 75 (77). 7 of the top 12 titles are in Hindi or Hinglish, so English demand looks thinner. One \"2dghibli style\" title has 9,831,575 views.",
@@ -487,5 +486,13 @@
    "\"<Place> <Hindi phrase> ₹<price> | Complete <place> Tour by Bus\", e.g. \"Mumbai Darshan ... ₹40 ... | Complete Mumbai Tour by Bus | Coastal Road Tour\""
   ],
   "updatedOn": "2026-11-22"
+ },
+ "unsolved-mysteries": {
+  "summary": "Titles only; thumbnails could not be viewed today. Score 83 (85 yesterday); 47% of 39 channels have a 5x video (53%); typical best outlier 4.7x (5.1x). 9 of the top 12 are in Hindi or Sinhala; only 2 are English mystery titles, both from The Unsolved Files (441 subscribers).",
+  "titlePatterns": [
+   "\"<Famous case> May Be in <place>. Here's the Evidence\", e.g. \"Amelia Earhart's Plane May Be in This Lagoon. Here's the Evidence\"",
+   "\"It Wasn't <X>. So What's Left of the Evidence?\", e.g. \"It Wasn't Amelia Earhart's Plane. So What's Left of the Evidence?\""
+  ],
+  "updatedOn": "2026-11-25"
  }
 }
