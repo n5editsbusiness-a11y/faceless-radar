@@ -269,24 +269,24 @@
   "updatedOn": "2026-11-12"
  },
  "career-resume-tips": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 79 (73 yesterday), 39 channels (37), 49% have a 5x video (45%), typical best outlier 4.6x (3.7x). Workers Direct has 3 of the top 12 on about 2,000 views each; a resume Short has 1,602,135.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 76 (78 yesterday); 50% of 39 channels have a 5x video (47%); typical best outlier 5.3x (4.2x). At least 5 of the top 12 are not about careers (AI video editing, a transition Short, video downloads).",
   "titlePatterns": [
+   "\"I Sent an AI to My Job Interview. So Did the Company.\"",
    "\"My resume is the airline safety demo\" (a Short)",
-   "\"10 Years at Google & LVMH Taught Me This\"",
-   "\"AI Recruitment vs Human Recruitment | Which Is Better in 2026?\"",
-   "\"Fastest Way to Learn DSA (Even If your Logic is WEAK)\""
+   "\"<Exam> Recruitment 2026 🔥 Apply Online | Eligibility | Syllabus | Exam Pattern\", e.g. \"RRB Pharmacist Recruitment 2026 🔥 Apply Online | Eligibility | Syllabus | Exam Pattern | Telugu\"",
+   "\"Fastest Way to Learn <skill> (Even If your Logic is WEAK)\", e.g. \"Fastest Way to Learn DSA (Even If your Logic is WEAK)\""
   ],
-  "updatedOn": "2026-11-15"
+  "updatedOn": "2026-11-26"
  },
  "disasters": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score fell from 83 to 80; breakout rate 44% (49% yesterday), typical best outlier 3.3x (4.9x). Several top entries are off-topic (a karate Short, a treasure-hunt video, wildlife clips), so read the multiples as provisional.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 79 (78 yesterday); 44% of 39 channels have a 5x video (43%); typical best outlier 3.4x (3.1x); 41% are big channels. At least 6 of the top 12 are off-topic, so read the multiples as provisional.",
   "titlePatterns": [
-   "\"What Happened Before the <place> <aircraft> Crash?\"",
-   "\"Inside the Hijacked <airline> Plane: What Actually Happened\"",
-   "\"Massive Flood Chaos in <country> AGAIN! <city> Submerged, <N> People Affected\"",
-   "\"Documentary | 9/11: 25 YEARS LATER The minute-by-minute of a tragedy...\""
+   "\"Documentary | 9/11: 25 YEARS LATER The minute-by-minute of a tragedy we will never forget\"",
+   "\"What Happened Before the <place> <aircraft> Crash?\", e.g. \"What Happened Before the Florida Learjet Crash?\"",
+   "\"Inside the Hijacked <airline> Plane: What Actually Happened\", e.g. \"Inside the Hijacked Flydubai Plane: What Actually Happened\"",
+   "\"Massive Flood Chaos in <country> AGAIN! <city> Submerged, <N> People Affected\", e.g. \"Massive Flood Chaos in Thailand AGAIN! Bangkok Submerged, 700,000 People Affected\""
   ],
-  "updatedOn": "2026-11-13"
+  "updatedOn": "2026-11-26"
  },
  "ai-animated-stories": {
   "summary": "Titles only; thumbnails could not be viewed today. 66% of 39 channels have a 5x video (74% yesterday), the largest drop of any niche; score steady at 86, typical best outlier 10.8x. 3 of the top 12 are Shorts; many titles are kids' moral stories, some in Hindi.",
@@ -459,24 +459,24 @@
   "updatedOn": "2026-11-20"
  },
  "legal-explainers": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 90 (86 yesterday), 38 channels (36); 53% have a 5x video (52%), typical best outlier 5.8x unchanged. 10 of the top 12 titles are Logic vs. Liability (1,790 subscribers); the top one is 1,444.8x.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 85 (89 yesterday); 56% of 40 channels have a 5x video (unchanged); typical best outlier 6.1x (unchanged). 10 of the top 12 are Logic vs. Liability (1,790 subscribers); the top one is 1,444.8x on 203,712 views.",
   "titlePatterns": [
    "\"<Accused person> <does X> - Then <twist> | Legal Breakdown\", e.g. \"Clerk Accused of $5 Million Theft - Then Cops Find Her Walmart Grocery Orders | Legal Breakdown\"",
    "\"$<amount> <offence>: <detail> | Bodycam Analysis\", e.g. \"$6,900 Publix Refund Scam: Cashier Reprinted Receipts, Says It Made Her \\\"Happy\\\" | Bodycam Analysis\"",
-   "\"She <did X> - Then <legal consequence> | Legal Analysis\", e.g. \"She Argued Florida DUI Law for 10 Minutes — Then Was Found Guilty on All 3 Charges | Legal Analysis\"",
-   "\"<Charge> Turns a <minor stop> Into a Felony Arrest\", e.g. \"$7,500 in Unpaid Fines Turns a Speeding Stop Into a Felony Arrest | Legal Breakdown\""
+   "\"<Small amount> Turns a <minor stop> Into a Felony Arrest\", e.g. \"$7,500 in Unpaid Fines Turns a Speeding Stop Into a Felony Arrest | Legal Breakdown\"",
+   "\"She <did X>, Then <legal consequence> | Legal Breakdown\", e.g. \"She Denied a Visible Crash, Then a Search Added a Felony | Legal Breakdown\""
   ],
-  "updatedOn": "2026-11-22"
+  "updatedOn": "2026-11-26"
  },
  "car-explainers": {
-  "summary": "Titles only; thumbnails could not be viewed today. First scores: score 74, 38 channels, 46% with a 5x video, typical best outlier 4.1x; 87% of channels are small. 3 of the top 12 are Forever Engine teardown videos; 4 of the 12 are off-topic.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 79 (74 yesterday); 40 channels (38); 49% have a 5x video (46%); typical best outlier 4.4x (4.1x); 88% are small. 5 of the top 12 are Keelprint 3D videos; at least 6 are not about cars.",
   "titlePatterns": [
    "\"Japanese Engineers Tore Down a <Chinese car or engine> - What They Found <Inside or Shocked Them>\", e.g. \"Japanese Engineers Tore Down a Chinese Car — What They Found Inside\"",
    "\"<Brand> Quietly <did X> — And Never Told Owners\", e.g. \"Toyota Quietly Went Back To The Old Design — And Never Told Owners\"",
    "\"<Brand> Just <did X> — The Entire Car Industry Is in SHOCK!\", e.g. \"Ford Just SHUT DOWN Every Dealership — The Entire Car Industry Is in SHOCK!\"",
-   "\"All <Thing> Types Explained! Which <Thing> Is Best For You?\", e.g. \"All Car Engine Types Explained! 🚗 Which Engine Is Best For You?\""
+   "\"<Brand> CEO: \\\"We're Now <doing X>!\\\"\", e.g. \"Toyota CEO: \\\"We're Now Selling Direct To Consumer!\\\"\""
   ],
-  "updatedOn": "2026-11-21"
+  "updatedOn": "2026-11-26"
  },
  "travel-guides": {
   "summary": "Titles only; thumbnails could not be viewed today. Score 80 (83 yesterday), 39 channels; 43% have a 5x video (47%), typical best outlier 3.3x (3.1x). 9 of the top 12 titles use Bengali, Urdu or Hindi script, so English demand looks thin. 1 of the 12 is an off-topic k-drama Short.",
@@ -494,5 +494,15 @@
    "\"It Wasn't <X>. So What's Left of the Evidence?\", e.g. \"It Wasn't Amelia Earhart's Plane. So What's Left of the Evidence?\""
   ],
   "updatedOn": "2026-11-25"
+ },
+ "engineering": {
+  "summary": "Titles only; thumbnails could not be viewed today. Score 85 (79 yesterday); 46% of 38 channels have a 5x video (40%); typical best outlier 1.8x (2.8x). The top 12 come from 3 channels: Keelprint 5, Principle Unknown 5, Mega Tech Builds 2.",
+  "titlePatterns": [
+   "\"<Incident>: What Happened at <place> (Rebuilt in 3D)\", e.g. \"The Fire That Outran Canadian Soldiers: What Happened at CFB Wainwright (Rebuilt in 3D)\"",
+   "\"What Went Wrong at the <venue>? The <detail>, Rebuilt in 3D\", e.g. \"What Went Wrong at the Alamodome? The 160-Foot Rappel, Rebuilt in 3D\"",
+   "\"Why <place>'s $<N> Billion <project> Is Worse Than You Think\", e.g. \"Why Buffalo’s $2.2 Billion Stadium Mistake Is Worse Than You Think\"",
+   "\"Cyclone <name> Explained: Is Another Cyclone Coming After <name>?\", e.g. \"Cyclone Akvan Explained: Is Another Cyclone Coming After Murasu?\""
+  ],
+  "updatedOn": "2026-11-26"
  }
 }

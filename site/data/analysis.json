@@ -1,14 +1,14 @@
 {
- "date": "2026-11-25",
- "headline": "cybersecurity-tips rises 59 to 64; remote-work-digital-nomad falls 66 to 62",
+ "date": "2026-11-26",
+ "headline": "engineering rises 79 to 85; legal-explainers falls 89 to 85",
  "paragraphs": [
-  "Biggest score moves since yesterday: cybersecurity-tips rose from 59 to 64 as its breakout rate went from 31% to 36%; remote-work-digital-nomad fell from 66 to 62 (38% to 32%). horror-stories rose from 72 to 74; unsolved-mysteries fell from 85 to 83.",
-  "In true-crime the typical best outlier rose from 12.3x to 17.1x. In unsolved-mysteries, 9 of the top 12 videos are in Hindi or Sinhala, so English demand is unclear. In cybersecurity-tips, 6 of the top 12 are off-topic or not in English.",
-  "Notable outliers: Amelia Revenge Stories at 353.8x in reddit-stories (79,243 views, 1,140 subscribers) and Dreamnest Frames at 225.7x in disasters (280,937 views, 10,000 subscribers). No niches added today. Thumbnails not viewable; titles only."
+  "Biggest score moves since yesterday: engineering rose from 79 to 85 as its breakout rate went from 40% to 46%; car-explainers rose from 74 to 79 (46% to 49%); legal-explainers fell from 89 to 85 (breakout rate unchanged at 56%). career-resume-tips fell from 78 to 76.",
+  "In engineering the top 12 videos come from only 3 channels (Keelprint 5, Principle Unknown 5, Mega Tech Builds 2), so the score rests on few sources. In legal-explainers 10 of the top 12 are Logic vs. Liability (1,790 subscribers). In disasters at least 6 of the top 12 are off-topic.",
+  "Notable outliers: Keelprint at 250.8x in engineering (131,940 views, 1,570 subscribers) and Air Stories at 764.2x in disasters (703,092 views, 2,060 subscribers). No niches added today. Thumbnails not viewable; titles only."
  ],
  "watch": [
-  "cybersecurity-tips",
-  "remote-work-digital-nomad",
-  "true-crime"
+  "engineering",
+  "car-explainers",
+  "legal-explainers"
  ]
 }
