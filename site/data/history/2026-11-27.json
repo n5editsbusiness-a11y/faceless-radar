@@ -1,0 +1,431 @@
+{
+  "date": "2026-11-27",
+  "niches": {
+    "personal-finance": {
+      "opportunity": 92,
+      "breakoutRate": 0.81,
+      "channels": 40,
+      "medianTopOutlier": 13.5
+    },
+    "investing-stocks": {
+      "opportunity": 87,
+      "breakoutRate": 0.69,
+      "channels": 40,
+      "medianTopOutlier": 6.7
+    },
+    "real-estate-investing": {
+      "opportunity": 86,
+      "breakoutRate": 0.71,
+      "channels": 40,
+      "medianTopOutlier": 9.9
+    },
+    "side-hustles": {
+      "opportunity": 87,
+      "breakoutRate": 0.69,
+      "channels": 39,
+      "medianTopOutlier": 9.5
+    },
+    "business-case-studies": {
+      "opportunity": 81,
+      "breakoutRate": 0.49,
+      "channels": 40,
+      "medianTopOutlier": 4.3
+    },
+    "economics-explained": {
+      "opportunity": 85,
+      "breakoutRate": 0.64,
+      "channels": 40,
+      "medianTopOutlier": 9
+    },
+    "tax-strategy": {
+      "opportunity": 62,
+      "breakoutRate": 0.63,
+      "channels": 40,
+      "medianTopOutlier": 5.9
+    },
+    "ai-tools": {
+      "opportunity": 88,
+      "breakoutRate": 0.65,
+      "channels": 40,
+      "medianTopOutlier": 8.2
+    },
+    "ai-news": {
+      "opportunity": 51,
+      "breakoutRate": 0.61,
+      "channels": 40,
+      "medianTopOutlier": 7.8
+    },
+    "tech-explainers": {
+      "opportunity": 47,
+      "breakoutRate": 0.29,
+      "channels": 40,
+      "medianTopOutlier": 0
+    },
+    "faceless-channel-growth": {
+      "opportunity": 86,
+      "breakoutRate": 0.49,
+      "channels": 40,
+      "medianTopOutlier": 4.8
+    },
+    "cyber-stories": {
+      "opportunity": 65,
+      "breakoutRate": 0.39,
+      "channels": 39,
+      "medianTopOutlier": 0
+    },
+    "no-code-automation": {
+      "opportunity": 86,
+      "breakoutRate": 0.49,
+      "channels": 40,
+      "medianTopOutlier": 3.8
+    },
+    "robotics-humanoids": {
+      "opportunity": 84,
+      "breakoutRate": 0.73,
+      "channels": 40,
+      "medianTopOutlier": 11.5
+    },
+    "history-documentary": {
+      "opportunity": 82,
+      "breakoutRate": 0.65,
+      "channels": 40,
+      "medianTopOutlier": 13
+    },
+    "ancient-civilizations": {
+      "opportunity": 88,
+      "breakoutRate": 0.67,
+      "channels": 40,
+      "medianTopOutlier": 10.2
+    },
+    "dark-history": {
+      "opportunity": 86,
+      "breakoutRate": 0.56,
+      "channels": 40,
+      "medianTopOutlier": 6.3
+    },
+    "military-ww2": {
+      "opportunity": 87,
+      "breakoutRate": 0.69,
+      "channels": 40,
+      "medianTopOutlier": 28.4
+    },
+    "medieval-history": {
+      "opportunity": 89,
+      "breakoutRate": 0.5,
+      "channels": 40,
+      "medianTopOutlier": 5.1
+    },
+    "mythology-folklore": {
+      "opportunity": 89,
+      "breakoutRate": 0.77,
+      "channels": 40,
+      "medianTopOutlier": 22.9
+    },
+    "geography-maps": {
+      "opportunity": 86,
+      "breakoutRate": 0.59,
+      "channels": 40,
+      "medianTopOutlier": 8.5
+    },
+    "geopolitics": {
+      "opportunity": 84,
+      "breakoutRate": 0.82,
+      "channels": 40,
+      "medianTopOutlier": 16.8
+    },
+    "rise-and-fall": {
+      "opportunity": 87,
+      "breakoutRate": 0.68,
+      "channels": 40,
+      "medianTopOutlier": 9.4
+    },
+    "archival-restoration": {
+      "opportunity": 90,
+      "breakoutRate": 0.66,
+      "channels": 40,
+      "medianTopOutlier": 9.2
+    },
+    "true-crime": {
+      "opportunity": 84,
+      "breakoutRate": 0.73,
+      "channels": 40,
+      "medianTopOutlier": 17.1
+    },
+    "horror-stories": {
+      "opportunity": 74,
+      "breakoutRate": 0.46,
+      "channels": 40,
+      "medianTopOutlier": 4.7
+    },
+    "internet-mysteries": {
+      "opportunity": 88,
+      "breakoutRate": 0.54,
+      "channels": 40,
+      "medianTopOutlier": 5.2
+    },
+    "reddit-stories": {
+      "opportunity": 89,
+      "breakoutRate": 0.56,
+      "channels": 40,
+      "medianTopOutlier": 6.4
+    },
+    "ai-animated-stories": {
+      "opportunity": 86,
+      "breakoutRate": 0.66,
+      "channels": 40,
+      "medianTopOutlier": 8.6
+    },
+    "unsolved-mysteries": {
+      "opportunity": 83,
+      "breakoutRate": 0.47,
+      "channels": 39,
+      "medianTopOutlier": 4.7
+    },
+    "disasters": {
+      "opportunity": 78,
+      "breakoutRate": 0.43,
+      "channels": 39,
+      "medianTopOutlier": 3.2
+    },
+    "space-astronomy": {
+      "opportunity": 84,
+      "breakoutRate": 0.64,
+      "channels": 40,
+      "medianTopOutlier": 6.8
+    },
+    "science-explainers": {
+      "opportunity": 84,
+      "breakoutRate": 0.65,
+      "channels": 39,
+      "medianTopOutlier": 10.5
+    },
+    "psychology": {
+      "opportunity": 88,
+      "breakoutRate": 0.8,
+      "channels": 40,
+      "medianTopOutlier": 17.5
+    },
+    "philosophy-stoicism": {
+      "opportunity": 89,
+      "breakoutRate": 0.85,
+      "channels": 40,
+      "medianTopOutlier": 11.5
+    },
+    "nature-wildlife": {
+      "opportunity": 87,
+      "breakoutRate": 0.85,
+      "channels": 40,
+      "medianTopOutlier": 19
+    },
+    "animal-facts": {
+      "opportunity": 85,
+      "breakoutRate": 0.79,
+      "channels": 40,
+      "medianTopOutlier": 16.7
+    },
+    "dinosaurs-prehistory": {
+      "opportunity": 87,
+      "breakoutRate": 0.8,
+      "channels": 40,
+      "medianTopOutlier": 12.8
+    },
+    "engineering": {
+      "opportunity": 85,
+      "breakoutRate": 0.46,
+      "channels": 38,
+      "medianTopOutlier": 1.8
+    },
+    "aviation": {
+      "opportunity": 85,
+      "breakoutRate": 0.68,
+      "channels": 40,
+      "medianTopOutlier": 12.3
+    },
+    "motivation": {
+      "opportunity": 86,
+      "breakoutRate": 0.65,
+      "channels": 40,
+      "medianTopOutlier": 9.6
+    },
+    "health-wellness": {
+      "opportunity": 84,
+      "breakoutRate": 0.71,
+      "channels": 40,
+      "medianTopOutlier": 16.4
+    },
+    "sleep-ambient": {
+      "opportunity": 77,
+      "breakoutRate": 0.46,
+      "channels": 38,
+      "medianTopOutlier": 2.5
+    },
+    "lofi-study-music": {
+      "opportunity": 52,
+      "breakoutRate": 0.29,
+      "channels": 40,
+      "medianTopOutlier": 0
+    },
+    "top-10-facts": {
+      "opportunity": 86,
+      "breakoutRate": 0.57,
+      "channels": 40,
+      "medianTopOutlier": 7.2
+    },
+    "gaming-lore": {
+      "opportunity": 77,
+      "breakoutRate": 0.59,
+      "channels": 40,
+      "medianTopOutlier": 5.7
+    },
+    "ev-green-tech": {
+      "opportunity": 87,
+      "breakoutRate": 0.74,
+      "channels": 40,
+      "medianTopOutlier": 9.5
+    },
+    "travel-guides": {
+      "opportunity": 80,
+      "breakoutRate": 0.43,
+      "channels": 39,
+      "medianTopOutlier": 3.4
+    },
+    "hands-only-cooking": {
+      "opportunity": 86,
+      "breakoutRate": 0.67,
+      "channels": 40,
+      "medianTopOutlier": 10.6
+    },
+    "retirement-planning": {
+      "opportunity": 88,
+      "breakoutRate": 0.67,
+      "channels": 40,
+      "medianTopOutlier": 10.6
+    },
+    "coding-tutorials": {
+      "opportunity": 87,
+      "breakoutRate": 0.56,
+      "channels": 40,
+      "medianTopOutlier": 6
+    },
+    "hands-only-crafts": {
+      "opportunity": 47,
+      "breakoutRate": 0.24,
+      "channels": 39,
+      "medianTopOutlier": 0
+    },
+    "hyper-casual-mobile-gameplay": {
+      "opportunity": 83,
+      "breakoutRate": 0.74,
+      "channels": 40,
+      "medianTopOutlier": 12
+    },
+    "guided-prayers": {
+      "opportunity": 49,
+      "breakoutRate": 0.28,
+      "channels": 40,
+      "medianTopOutlier": 0
+    },
+    "drone-light-shows": {
+      "opportunity": 87,
+      "breakoutRate": 0.7,
+      "channels": 40,
+      "medianTopOutlier": 7.3
+    },
+    "cybersecurity-tips": {
+      "opportunity": 64,
+      "breakoutRate": 0.36,
+      "channels": 39,
+      "medianTopOutlier": 0
+    },
+    "smart-home-reviews": {
+      "opportunity": 84,
+      "breakoutRate": 0.68,
+      "channels": 40,
+      "medianTopOutlier": 9.3
+    },
+    "career-resume-tips": {
+      "opportunity": 76,
+      "breakoutRate": 0.5,
+      "channels": 39,
+      "medianTopOutlier": 5.3
+    },
+    "trading-app-tutorials": {
+      "opportunity": 86,
+      "breakoutRate": 0.54,
+      "channels": 40,
+      "medianTopOutlier": 5.7
+    },
+    "vintage-album-music": {
+      "opportunity": 58,
+      "breakoutRate": 0.27,
+      "channels": 39,
+      "medianTopOutlier": 0
+    },
+    "prediction-markets-explained": {
+      "opportunity": 73,
+      "breakoutRate": 0.44,
+      "channels": 40,
+      "medianTopOutlier": 3.5
+    },
+    "kids-songs-lullabies": {
+      "opportunity": 82,
+      "breakoutRate": 0.84,
+      "channels": 40,
+      "medianTopOutlier": 20.2
+    },
+    "fireplace-holiday-ambience": {
+      "opportunity": 52,
+      "breakoutRate": 0.29,
+      "channels": 38,
+      "medianTopOutlier": 0
+    },
+    "sleep-history-stories": {
+      "opportunity": 87,
+      "breakoutRate": 0.63,
+      "channels": 40,
+      "medianTopOutlier": 27.4
+    },
+    "b2b-software-reviews": {
+      "opportunity": 46,
+      "breakoutRate": 0.28,
+      "channels": 40,
+      "medianTopOutlier": 1.9
+    },
+    "remote-work-digital-nomad": {
+      "opportunity": 62,
+      "breakoutRate": 0.32,
+      "channels": 40,
+      "medianTopOutlier": 3.2
+    },
+    "digital-minimalism": {
+      "opportunity": 72,
+      "breakoutRate": 0.58,
+      "channels": 40,
+      "medianTopOutlier": 6.6
+    },
+    "rail-explainers": {
+      "opportunity": 88,
+      "breakoutRate": 0.72,
+      "channels": 40,
+      "medianTopOutlier": 13.7
+    },
+    "sci-fi-stories": {
+      "opportunity": 90,
+      "breakoutRate": 0.79,
+      "channels": 40,
+      "medianTopOutlier": 34.4
+    },
+    "legal-explainers": {
+      "opportunity": 85,
+      "breakoutRate": 0.56,
+      "channels": 40,
+      "medianTopOutlier": 6.1
+    },
+    "car-explainers": {
+      "opportunity": 79,
+      "breakoutRate": 0.49,
+      "channels": 40,
+      "medianTopOutlier": 4.4
+    }
+  }
+}
