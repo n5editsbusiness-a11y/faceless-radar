@@ -1,14 +1,14 @@
 {
- "date": "2026-11-26",
- "headline": "engineering rises 79 to 85; legal-explainers falls 89 to 85",
+ "date": "2026-11-27",
+ "headline": "lofi-study-music falls 65 to 52; sleep-ambient falls 82 to 77",
  "paragraphs": [
-  "Biggest score moves since yesterday: engineering rose from 79 to 85 as its breakout rate went from 40% to 46%; car-explainers rose from 74 to 79 (46% to 49%); legal-explainers fell from 89 to 85 (breakout rate unchanged at 56%). career-resume-tips fell from 78 to 76.",
-  "In engineering the top 12 videos come from only 3 channels (Keelprint 5, Principle Unknown 5, Mega Tech Builds 2), so the score rests on few sources. In legal-explainers 10 of the top 12 are Logic vs. Liability (1,790 subscribers). In disasters at least 6 of the top 12 are off-topic.",
-  "Notable outliers: Keelprint at 250.8x in engineering (131,940 views, 1,570 subscribers) and Air Stories at 764.2x in disasters (703,092 views, 2,060 subscribers). No niches added today. Thumbnails not viewable; titles only."
+  "Biggest score moves since yesterday: lofi-study-music fell from 65 to 52 (breakout rate 37% to 29%); sleep-ambient from 82 to 77 (56% to 46%); vintage-album-music from 61 to 58. personal-finance held at 92, the top score.",
+  "In lofi-study-music 5 of the top 12 reuse one \"SAD LO-FI\" title across 3 channels. In sleep-ambient 5 of the top 12 are from Grandma's Dream Village (999 subscribers) and the typical best outlier fell from 10.9x to 2.5x. In personal-finance 5 of the top 12 are family-love Shorts, not money topics.",
+  "Notable outliers: a TC Trading Short at 18,359.6x (19,892,608 views, 61,000 subscribers) and Lore Explained at 3,448.9x (5,707,926 views, 12,400 subscribers). No niches added: the trend pages read named only niches already tracked. Thumbnails not viewable; titles only."
  ],
  "watch": [
-  "engineering",
-  "car-explainers",
-  "legal-explainers"
+  "lofi-study-music",
+  "sleep-ambient",
+  "personal-finance"
  ]
 }

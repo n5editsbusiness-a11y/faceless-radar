@@ -100,24 +100,24 @@
   "updatedOn": "2026-11-19"
  },
  "lofi-study-music": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score rose from 64 to 70, the biggest rise. 40 channels, 41% have a 5x video (36% yesterday), 98% are small. 6 of the top 12 titles share the \"SAD LO-FI ... 2026 Ultimate Mind Relaxing Lofi Beats\" wording, from 4 channels.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 52 (65 yesterday), the biggest drop; 29% of 40 channels have a 5x video (37%); 98% are small. 5 of the top 12 reuse the \"SAD LO-FI ... 2026 Ultimate Mind Relaxing Lofi Beats\" title, from 3 channels.",
   "titlePatterns": [
-   "\"SAD LO-FI 🥺💔 2026 Ultimate Mind Relaxing Lofi Beats | Study Sleep & Chill lofi\", reused by 4 channels",
-   "\"<Figure> Lofi Song | <tagline> | Powerful Lofi Music\", e.g. \"Maharana Pratap Lofi Song | Rajputana Attitude\"",
-   "\"STUDY MUSIC (SLOWED+REVERB)\" followed by a block of hashtags",
-   "Playlist framing with the year, e.g. \"Trending 2026 ... playlist\" plus \"Lofi song\" (spelling as posted by the channel)"
+   "\"SAD LO-FI 🥺 💔 2026 Ultimate Mind Relaxing Lofi Beats | Study Sleep & Chill lofi\", reused by 3 channels",
+   "\"<Figure> Lofi Song | <tagline> | Powerful Lofi Music\", e.g. \"Maharana Pratap 🔥⚔️ Lofi Song | Rajputana Attitude 👑🚩 | Powerful Lofi Music\"",
+   "\"A <adjective> Playlist Only For <audience> | Ultimate Vibe Songs Playlist\", e.g. \"A Chatpati Playlist Only For Chatpata People 😋✨ | Ultimate Vibe Songs Playlist 🎧💖\"",
+   "\"<N> Minute <season> Timer with Relaxing Music\", e.g. \"5 Minute Fall Timer with Relaxing Music 🍁 Autumn Countdown\""
   ],
-  "updatedOn": "2026-11-20"
+  "updatedOn": "2026-11-27"
  },
  "sleep-ambient": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 80 (82 yesterday), typical best outlier 11.3x (14.9x), 62% of 38 channels have a 5x video. 8 of the top 12 are baby lullabies or kids songs, 4 of them from Grandma's Dream Village.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 77 (82 yesterday); typical best outlier 2.5x (10.9x); 46% of 38 channels have a 5x video (56%). 9 of the top 12 are baby lullabies or kids songs, 5 of them from Grandma's Dream Village (999 subscribers).",
   "titlePatterns": [
-   "\"<Name>'s Moonlight Lullaby | Baby Sleep Music & Bedtime Lullaby\"",
-   "\"Are You Sleeping, Little One? | Sleepy Lullaby for Babies & Toddlers\"",
-   "\"Beep Beep! Animals Driving Big Trucks | Kids Truck Song\" (a Short)",
-   "\"2026 Ultimate Mind Relaxing Lofi Beats | Study, Sleep & Chill\""
+   "\"<Name>'s Moonlight Lullaby | Baby Sleep Music & Bedtime Lullaby\", e.g. \"Grandma Rose’s Moonlight Lullaby | Baby Sleep Music & Bedtime Lullaby\"",
+   "Outcome promise, e.g. \"The Best Lullaby to Help Your Baby Fall Asleep Fast\"",
+   "\"Baby Lullaby <emoji> <Scene> with <Character> | Sleep Music\", e.g. \"Baby Lullaby 🎃🚂 Sleepy Pumpkin Train with Ben the Bunny | Sleep Music\"",
+   "\"<Festival> relaxing song ( deep sleep 😴)\", e.g. \"Chhath puja relaxing song 🥰 ( deep sleep 😴)\""
   ],
-  "updatedOn": "2026-11-14"
+  "updatedOn": "2026-11-27"
  },
  "motivation": {
   "summary": "Titles only; thumbnails could not be viewed today. 40 channels, 68% breakout rate, typical best outlier 9.8x, 37% of uploads are Shorts. Top 12 split into 3 movie or celebrity clip edits, 4 motivational rap songs and 5 Hindi or Islamic quote videos.",
@@ -309,24 +309,24 @@
   "updatedOn": "2026-11-17"
  },
  "vintage-album-music": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 65 (53 yesterday), 39 channels (21), 36% have a 5x video (22%), typical best outlier 0x. Eternal Root Radio and Halbae Music have 3 of the top 12 each; the most-viewed is an AINA reggae medley at 1,699,220.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 58 (61 yesterday); 27% of 39 channels have a 5x video (31%); 97% are small. Zena Haz and AINA Music Collection have 3 of the top 12 each; the most-viewed is RastaRhythm's \"Carry the Fire\" at 792,902 views.",
   "titlePatterns": [
+   "\"<Artist> – <Song> | Deep Roots Reggae\", e.g. \"Nia Selah – Carry the Fire | Deep Roots Reggae\"",
    "\"<Artists> | Reggae Version Nonstop | Positive Roots\", e.g. \"Roel Cortez, Freddie Aguilar & Asin | Reggae Version Nonstop | Positive Roots\"",
-   "\"<Verse> | Powerful Roots Reggae Full ALBUM on Eternal Root Radio\", e.g. \"MY HELP COMES FROM THE LORD | Powerful Roots Reggae Full ALBUM on Eternal Root Radio\"",
-   "\"<Singer> Medley Nonstop Reggae Cover\", e.g. \"Engelbert Humperdinck Medley Nonstop Reggae Cover | Aina Music Collection\"",
-   "\"<Artist> – <Song> | Deep Roots Reggae\", e.g. \"Nia Selah – Carry the Fire | Deep Roots Reggae\""
+   "\"<Artist> – N Hours of <genre> for Late Nights\", e.g. \"Zena Haz – 5 Hours of Soul Blues & Southern Soul for Late Nights\"",
+   "\"<Age>-Year-Old <voice> Soul in the Rain 🌧️ 80s AOR City Pop\" (a Short), e.g. \"68-Year-Old Baritone Soul in the Rain 🌧️ 80s AOR City Pop\""
   ],
-  "updatedOn": "2026-11-16"
+  "updatedOn": "2026-11-27"
  },
  "prediction-markets-explained": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 77 (64 yesterday); 49% of 40 channels have a 5x video (42%). A 172-second TC Trading Short has 17,588,544 views. 7 of the top 12 are Shorts, 5 are sports clips, 3 are not in English.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 73 (75 yesterday); 44% of 40 channels have a 5x video (46%); typical best outlier 3.5x (unchanged). 7 of the top 12 are Shorts and 3 are not in English; the top one is a TC Trading Short at 19,892,608 views.",
   "titlePatterns": [
    "\"<Incumbent> Profit When You Lose. <Platform> Doesn't.\", e.g. \"Sportsbooks Profit When You Lose. Kalshi Doesn’t.\"",
    "Short sports-stat clip with a quirky comparison, e.g. \"The NFL’s Longest Run vs. a Corgi\"",
-   "\"<Asset> 15 min Market on <platform>\", e.g. \"Bitcoin 15 min Market on Robinhood\"",
+   "\"<Player>'s NFL Paycheck\" (money angle on a sports Short), e.g. \"Rashee Rice’s NFL Paycheck\"",
    "\"The Exact <topic> Roadmap I'd Follow From $0\", e.g. \"The Exact Sports Betting Roadmap I’d Follow From $0\""
   ],
-  "updatedOn": "2026-11-21"
+  "updatedOn": "2026-11-27"
  },
  "kids-songs-lullabies": {
   "summary": "Titles only; thumbnails could not be viewed today. 40 channels (37 yesterday), 84% have a 5x video, typical best outlier 24.7x (19.6x yesterday), score 83. 50% of channels are big. 2 of the top 12 are Shorts; 2 are labelled Hindi rhymes.",
@@ -504,5 +504,15 @@
    "\"Cyclone <name> Explained: Is Another Cyclone Coming After <name>?\", e.g. \"Cyclone Akvan Explained: Is Another Cyclone Coming After Murasu?\""
   ],
   "updatedOn": "2026-11-26"
+ },
+ "personal-finance": {
+  "summary": "Titles only; thumbnails could not be viewed today. Score 92 (unchanged), the highest of 71 niches; 81% of 40 channels have a 5x video (68%); typical best outlier 13.5x (12.1x). 10 of the top 12 are Shorts; at least 6 are not about money, 5 of them family-love Shorts.",
+  "titlePatterns": [
+   "\"How <Creator> & Other Creators and Businessmen Save Taxes\", e.g. \"How Sourav Joshi & Other Creators and Businessmen Save Taxes\"",
+   "\"Buying <Asset> This <Festival>? | Calculate Its REAL Value Before Paying!\", e.g. \"Buying Gold This Diwali? 😱 | Calculate Its REAL Value Before Paying! 💰\"",
+   "\"Ranking The BEST <Product>\", e.g. \"Ranking The BEST Credit Cards 💳\"",
+   "\"<Scheme> Explained: <key rules> | <old> vs <new>\", e.g. \"NPS 3.0 Explained: 100% Equity, 15-Year Lock-In & 80:20 Rule | NPS 2.0 vs NPS 3.0\""
+  ],
+  "updatedOn": "2026-11-27"
  }
 }
