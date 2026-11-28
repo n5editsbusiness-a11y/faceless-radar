@@ -279,14 +279,13 @@
   "updatedOn": "2026-11-26"
  },
  "disasters": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 79 (78 yesterday); 44% of 39 channels have a 5x video (43%); typical best outlier 3.4x (3.1x); 41% are big channels. At least 6 of the top 12 are off-topic, so read the multiples as provisional.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 80 (78 yesterday); 44% of 40 channels have a 5x video; typical best outlier 3.4x (3.2x). Xtreme TV, DT Civil Core and Novera each have 2 of the top 12 videos; 4 are Shorts.",
   "titlePatterns": [
-   "\"Documentary | 9/11: 25 YEARS LATER The minute-by-minute of a tragedy we will never forget\"",
-   "\"What Happened Before the <place> <aircraft> Crash?\", e.g. \"What Happened Before the Florida Learjet Crash?\"",
-   "\"Inside the Hijacked <airline> Plane: What Actually Happened\", e.g. \"Inside the Hijacked Flydubai Plane: What Actually Happened\"",
-   "\"Massive Flood Chaos in <country> AGAIN! <city> Submerged, <N> People Affected\", e.g. \"Massive Flood Chaos in Thailand AGAIN! Bangkok Submerged, 700,000 People Affected\""
+   "What Happened Before the <place> <aircraft> Crash?, e.g. \"What Happened Before the Florida Learjet Crash?\"",
+   "Massive <event> Chaos in <place>! <number> People Affected, e.g. \"Massive Flood Chaos in Thailand AGAIN! Bangkok Submerged, 700,000 People Affected\"",
+   "How-is-it-built question Short, e.g. \"How Is Concrete Poured Underwater?\""
   ],
-  "updatedOn": "2026-11-26"
+  "updatedOn": "2026-11-28"
  },
  "ai-animated-stories": {
   "summary": "Titles only; thumbnails could not be viewed today. 66% of 39 channels have a 5x video (74% yesterday), the largest drop of any niche; score steady at 86, typical best outlier 10.8x. 3 of the top 12 are Shorts; many titles are kids' moral stories, some in Hindi.",
@@ -459,14 +458,13 @@
   "updatedOn": "2026-11-20"
  },
  "legal-explainers": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 85 (89 yesterday); 56% of 40 channels have a 5x video (unchanged); typical best outlier 6.1x (unchanged). 10 of the top 12 are Logic vs. Liability (1,790 subscribers); the top one is 1,444.8x on 203,712 views.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 93 (85 yesterday), the biggest rise; 63% of 40 channels have a 5x video (56%); typical best outlier 7.8x (6.1x). 8 of the top 12 videos are from one channel, Logic vs. Liability (1,790 subscribers).",
   "titlePatterns": [
-   "\"<Accused person> <does X> - Then <twist> | Legal Breakdown\", e.g. \"Clerk Accused of $5 Million Theft - Then Cops Find Her Walmart Grocery Orders | Legal Breakdown\"",
-   "\"$<amount> <offence>: <detail> | Bodycam Analysis\", e.g. \"$6,900 Publix Refund Scam: Cashier Reprinted Receipts, Says It Made Her \\\"Happy\\\" | Bodycam Analysis\"",
-   "\"<Small amount> Turns a <minor stop> Into a Felony Arrest\", e.g. \"$7,500 in Unpaid Fines Turns a Speeding Stop Into a Felony Arrest | Legal Breakdown\"",
-   "\"She <did X>, Then <legal consequence> | Legal Breakdown\", e.g. \"She Denied a Visible Crash, Then a Search Added a Felony | Legal Breakdown\""
+   "<Dollar amount> <odd incident> | Legal Breakdown, e.g. \"$7,500 in Unpaid Fines Turns a Speeding Stop Into a Felony Arrest | Legal Breakdown\"",
+   "\"She <did X>, then <consequence>\" with a Legal Analysis tag, e.g. \"She Denied a Visible Crash, Then a Search Added a Felony | Legal Breakdown\"",
+   "Quoted line from the arrest, then the setting, e.g. \"\"I Refuse Your Rights to Touch Me\" — Publix Bodycam Arrest | Legal Analysis\""
   ],
-  "updatedOn": "2026-11-26"
+  "updatedOn": "2026-11-28"
  },
  "car-explainers": {
   "summary": "Titles only; thumbnails could not be viewed today. Score 79 (74 yesterday); 40 channels (38); 49% have a 5x video (46%); typical best outlier 4.4x (4.1x); 88% are small. 5 of the top 12 are Keelprint 3D videos; at least 6 are not about cars.",
@@ -514,5 +512,33 @@
    "\"<Scheme> Explained: <key rules> | <old> vs <new>\", e.g. \"NPS 3.0 Explained: 100% Equity, 15-Year Lock-In & 80:20 Rule | NPS 2.0 vs NPS 3.0\""
   ],
   "updatedOn": "2026-11-27"
+ },
+ "side-hustles": {
+  "summary": "Titles only; thumbnails could not be viewed today. Score unchanged at 87, but breakout rate fell from 69% to 58% and the typical best outlier from 9.5x to 5.9x. 8 of the top 12 videos are Shorts, 5 of them 60 seconds or shorter.",
+  "titlePatterns": [
+   "Numbered list for a named audience, e.g. \"7 Side Hustles Students Can Start In 2027\"",
+   "Numbered list of sites that pay, e.g. \"10 Websites That Actually Pay You Money 💰 | New Side Income Websites\"",
+   "Why-it-fails hook, e.g. \"Why your side hustle isn't making money (it's not the price) 💸 #entrepreneurship #business\""
+  ],
+  "updatedOn": "2026-11-28"
+ },
+ "ai-news": {
+  "summary": "Titles only; thumbnails could not be viewed today. Score unchanged at 51; breakout rate rose from 61% to 69% and the typical best outlier from 7.8x to 9.9x. 68% of 40 channels are big. 10 of the top 12 videos are Shorts; 4 are general news, not AI.",
+  "titlePatterns": [
+   "<Tool> Turns Any <input> Into <output>, e.g. \"Google Flow Turns Any Photo Into A Video | A Drone Shot\"",
+   "<Question>? with a bracketed hook, 2 of the top 12, e.g. \"What Is Reverse Engineering? (And Why Everyone’s Panicking)\"",
+   "Alarm hook in quotation marks, e.g. \"Researchers Made “First Contact” With Rogue AI Agents…\""
+  ],
+  "updatedOn": "2026-11-28"
+ },
+ "tax-strategy": {
+  "summary": "Titles only; thumbnails could not be viewed today. Score unchanged at 62; breakout rate rose from 63% to 73% and the typical best outlier from 5.9x to 7.3x. 4 of the top 12 are election or ballot-proposition explainers, not tax strategy. 57% of 40 channels are small.",
+  "titlePatterns": [
+   "ACCOUNTANT EXPLAINS: <topic> & How To Avoid It, e.g. \"ACCOUNTANT EXPLAINS: The New 22% ISA Tax Explained & How To Avoid It\"",
+   "Prop <N> explained | <state> election Short, e.g. \"Prop 1 explained l California 2026 election #shorts #california #propositions\"",
+   "\"Who Pays More?\" with policies Explained Simply, e.g. \"Who Pays More? All NZ Election Tax Policies Explained Simply\"",
+   "<Account type> Complete Guide: How to Save Tax, e.g. \"HUF Complete Guide: How to Save Tax, Invest & Build Family Wealth\""
+  ],
+  "updatedOn": "2026-11-28"
  }
 }
